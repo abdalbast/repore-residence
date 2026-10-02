@@ -1,0 +1,38 @@
+[
+  {
+    "name": "reference",
+    "before": {
+      "height": 13624,
+      "y": 9936
+    },
+    "after": {
+      "dpr": 1,
+      "height": 34421,
+      "y": 12904
+    }
+  },
+  {
+    "name": "reference2",
+    "before": {
+      "height": 13624,
+      "y": 9936
+    },
+    "after": {
+      "dpr": 1,
+      "height": 34421,
+      "y": 12904
+    }
+  },
+  {
+    "name": "local",
+    "before": {
+      "height": 13624,
+      "y": 9936
+    },
+    "after": {
+      "dpr": 1,
+      "height": 34421,
+      "y": 12904
+    }
+  }
+]

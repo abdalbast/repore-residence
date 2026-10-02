@@ -1,0 +1,5377 @@
+{
+  "name": "verified-floor-05-hover",
+  "frames": [
+    {
+      "reference": {
+        "viewport": {
+          "clientWidth": 1265,
+          "height": 720,
+          "scrollWidth": 1265,
+          "width": 1280,
+          "y": 5328
+        },
+        "state": {
+          "elements": [
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "119.547px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, -43.3125, 12)",
+                "transformOrigin": "43.3125px 59.7734px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "86.625px"
+              },
+              "element": "div.op-hint",
+              "rect": {
+                "bottom": 700,
+                "height": 119.546875,
+                "left": 589.1875,
+                "right": 675.8125,
+                "top": 580.453125,
+                "width": 86.625,
+                "x": 589.1875,
+                "y": 580.453125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(-43.3125px, 12px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(5px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1.035, 0, 0, 1.035, 0, -64.8)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.op-hero",
+              "rect": {
+                "bottom": 667.7999877929688,
+                "height": 745.199951171875,
+                "left": -22.137451171875,
+                "right": 1287.137451171875,
+                "top": -77.39996337890625,
+                "width": 1309.27490234375,
+                "x": -22.137451171875,
+                "y": -77.39996337890625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(5px); opacity: 0; transform: translate(0%, -9%) scale(1.035, 1.035);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.opening__scrim",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__veil",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(0px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "canvas.opening__canvas",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(0px); transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__field",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 139.140625,
+                "right": 140.140625,
+                "top": 0,
+                "width": 1,
+                "x": 139.140625,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 11%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 341.546875,
+                "right": 342.546875,
+                "top": 0,
+                "width": 1,
+                "x": 341.546875,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 27%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 632.5,
+                "right": 633.5,
+                "top": 0,
+                "width": 1,
+                "x": 632.5,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 50%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 923.4375,
+                "right": 924.4375,
+                "top": 0,
+                "width": 1,
+                "x": 923.4375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 73%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 1125.84375,
+                "right": 1126.84375,
+                "top": 0,
+                "width": 1,
+                "x": 1125.84375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 89%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(3px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -18)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__type",
+              "rect": {
+                "bottom": 702,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -18,
+                "width": 1265,
+                "x": 0,
+                "y": -18
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(3px); transform: translate(0px, -18px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 295.03125,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 198.171875,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 198.171875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 398.484375,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 301.625,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 301.625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1008px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 785.552, 0)",
+                "transformOrigin": "290.945px 504px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "581.891px"
+              },
+              "element": "div.cb__sweep",
+              "rect": {
+                "bottom": 864,
+                "height": 1008,
+                "left": 785.5523681640625,
+                "right": 1367.4429931640625,
+                "top": -144,
+                "width": 581.890625,
+                "x": 785.5523681640625,
+                "y": -144
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(135%, 0%); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.38",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "30.7188px 0.5px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "61.4375px"
+              },
+              "element": "div.cb__hrule",
+              "rect": {
+                "bottom": 424.6875,
+                "height": 1,
+                "left": 601.78125,
+                "right": 663.21875,
+                "top": 423.6875,
+                "width": 61.4375,
+                "x": 601.78125,
+                "y": 423.6875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "42.5156px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "104.094px 21.2578px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "208.188px"
+              },
+              "element": "p.cb__meta",
+              "rect": {
+                "bottom": 488,
+                "height": 42.515625,
+                "left": 528.40625,
+                "right": 736.59375,
+                "top": 445.484375,
+                "width": 208.1875,
+                "x": 528.40625,
+                "y": 445.484375
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "inset(0%)",
+                "filter": "none",
+                "height": "400.281px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "319.172px 200.141px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "638.344px"
+              },
+              "element": "span.why-dubai__panel",
+              "rect": {
+                "bottom": 343.078125,
+                "height": 400.28125,
+                "left": 0,
+                "right": 638.34375,
+                "top": -57.203125,
+                "width": 638.34375,
+                "x": 0,
+                "y": -57.203125
+              },
+              "source": null,
+              "style": "opacity: 1; clip-path: inset(0%);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -20)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.why-dubai",
+              "rect": {
+                "bottom": 700,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -20,
+                "width": 1265,
+                "x": 0,
+                "y": -20
+              },
+              "source": null,
+              "style": "opacity: 0; translate: none; rotate: none; scale: none; transform: translate(0px, -20px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "84.7812px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 42.3906px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "h2.why-dubai__heading",
+              "rect": {
+                "bottom": 146.84375,
+                "height": 84.78125,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 62.0625,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 62.0625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "44.3438px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 22.1719px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "p.why-dubai__body",
+              "rect": {
+                "bottom": 210.375,
+                "height": 44.34375,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 166.03125,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 166.03125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "23.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "109.57px 11.7422px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "219.141px"
+              },
+              "element": "span.tallest-building__eyebrow",
+              "rect": {
+                "bottom": 278.9765625,
+                "height": 23.484375,
+                "left": 969.0625,
+                "right": 1188.203125,
+                "top": 255.4921875,
+                "width": 219.140625,
+                "x": 969.0625,
+                "y": 255.4921875
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "51.1875px 0.5px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "51.1875px"
+              },
+              "element": "span.tallest-building__rule",
+              "rect": {
+                "bottom": 291.1640625,
+                "height": 1,
+                "left": 1137.015625,
+                "right": 1188.203125,
+                "top": 290.1640625,
+                "width": 51.1875,
+                "x": 1137.015625,
+                "y": 290.1640625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "91.4375px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "103.117px 45.7188px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "206.234px"
+              },
+              "element": "h2.tallest-building__heading",
+              "rect": {
+                "bottom": 396.9921875,
+                "height": 91.4375,
+                "left": 981.96875,
+                "right": 1188.203125,
+                "top": 305.5546875,
+                "width": 206.234375,
+                "x": 981.96875,
+                "y": 305.5546875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "22.7188px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "75.0078px 11.3594px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "150.016px"
+              },
+              "element": "span.tallest-building__sub",
+              "rect": {
+                "bottom": 432.5078125,
+                "height": 22.71875,
+                "left": 1038.1875,
+                "right": 1188.203125,
+                "top": 409.7890625,
+                "width": 150.015625,
+                "x": 1038.1875,
+                "y": 409.7890625
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "4px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "209.016px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -104.508)",
+                "transformOrigin": "135.164px 104.508px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "270.328px"
+              },
+              "element": "div.tallest-building",
+              "rect": {
+                "bottom": 448.5078125,
+                "height": 209.015625,
+                "left": 943.46875,
+                "right": 1213.796875,
+                "top": 239.4921875,
+                "width": 270.328125,
+                "x": 943.46875,
+                "y": 239.4921875
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "9936px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 4968px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "section.opening",
+              "rect": {
+                "bottom": 4608,
+                "height": 9936,
+                "left": 0,
+                "right": 1265,
+                "top": -5328,
+                "width": 1265,
+                "x": 0,
+                "y": -5328
+              },
+              "source": null,
+              "style": "height: 1380vh; --fx-in: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "61.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.86",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "66.5547px 30.7422px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "133.109px"
+              },
+              "element": "img.op-brand__mark",
+              "rect": {
+                "bottom": 630.5400390625,
+                "height": 63.6363525390625,
+                "left": 1063.270263671875,
+                "right": 1201.0384521484375,
+                "top": 566.9036865234375,
+                "width": 137.7681884765625,
+                "x": 1063.270263671875,
+                "y": 566.9036865234375
+              },
+              "source": "/assets/opening/branding/saion-logo.png",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1280px"
+              },
+              "element": "img.fx__building",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1280px"
+              },
+              "element": "img.rc__film",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": "left: -7.5px; top: 0px; width: 1280px; height: 720px; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "745.672px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "573.297px 372.836px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1146.59px"
+              },
+              "element": "img.rc__still",
+              "rect": {
+                "bottom": 719.671875,
+                "height": 745.671875,
+                "left": 59.15625,
+                "right": 1205.75,
+                "top": -26,
+                "width": 1146.59375,
+                "x": 59.15625,
+                "y": -26
+              },
+              "source": "/assets/reception-entry/building-final.webp",
+              "style": "left: 59.1668px; top: -26.0004px; width: 1146.6px; height: 745.68px; opacity: 0; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "79.5781px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "90.3516px 39.7891px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "180.703px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 656.5,
+                "height": 79.578125,
+                "left": 713.890625,
+                "right": 894.59375,
+                "top": 576.921875,
+                "width": 180.703125,
+                "x": 713.890625,
+                "y": 576.921875
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "width: 180.714px; height: 79.5821px;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "557.062px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 278.531px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1265px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 638.515625,
+                "height": 557.0625,
+                "left": 0,
+                "right": 1265,
+                "top": 81.453125,
+                "width": 1265,
+                "x": 0,
+                "y": 81.453125
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "left: 0px; top: 81.4628px; width: 1265px; height: 557.074px;"
+            }
+          ],
+          "triggers": [
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0,
+              "start": 5544,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": []
+                },
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": [
+                    {}
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hint"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hero"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.opening__scrim"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.op-line__inner",
+                    "span.op-line__inner"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__hrule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.cb__meta"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.why-dubai__panel"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.why-dubai__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.why-dubai__body"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__eyebrow"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.tallest-building__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__sub"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.tallest-building"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "section.opening"
+                  ]
+                }
+              ],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            }
+          ],
+          "viewport": {
+            "dpr": 1,
+            "height": 720,
+            "width": 1280,
+            "y": 5328
+          }
+        }
+      },
+      "local": {
+        "viewport": {
+          "clientWidth": 1265,
+          "height": 720,
+          "scrollWidth": 1265,
+          "width": 1280,
+          "y": 5328
+        },
+        "state": {
+          "elements": [
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "119.547px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, -43.3125, 12)",
+                "transformOrigin": "43.3125px 59.7734px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "86.625px"
+              },
+              "element": "div.op-hint",
+              "rect": {
+                "bottom": 700,
+                "height": 119.546875,
+                "left": 589.1875,
+                "right": 675.8125,
+                "top": 580.453125,
+                "width": 86.625,
+                "x": 589.1875,
+                "y": 580.453125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(-43.3125px, 12px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(5px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1.035, 0, 0, 1.035, 0, -64.8)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.op-hero",
+              "rect": {
+                "bottom": 667.7999877929688,
+                "height": 745.199951171875,
+                "left": -22.137451171875,
+                "right": 1287.137451171875,
+                "top": -77.39996337890625,
+                "width": 1309.27490234375,
+                "x": -22.137451171875,
+                "y": -77.39996337890625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(5px); opacity: 0; transform: translate(0%, -9%) scale(1.035, 1.035);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.opening__scrim",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__veil",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(0px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "canvas.opening__canvas",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(0px); transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__field",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 139.140625,
+                "right": 140.140625,
+                "top": 0,
+                "width": 1,
+                "x": 139.140625,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 11%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 341.546875,
+                "right": 342.546875,
+                "top": 0,
+                "width": 1,
+                "x": 341.546875,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 27%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 632.5,
+                "right": 633.5,
+                "top": 0,
+                "width": 1,
+                "x": 632.5,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 50%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 923.4375,
+                "right": 924.4375,
+                "top": 0,
+                "width": 1,
+                "x": 923.4375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 73%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 1125.84375,
+                "right": 1126.84375,
+                "top": 0,
+                "width": 1,
+                "x": 1125.84375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 89%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(3px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -18)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__type",
+              "rect": {
+                "bottom": 702,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -18,
+                "width": 1265,
+                "x": 0,
+                "y": -18
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(3px); transform: translate(0px, -18px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 295.03125,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 198.171875,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 198.171875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 398.484375,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 301.625,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 301.625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1008px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 785.552, 0)",
+                "transformOrigin": "290.945px 504px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "581.891px"
+              },
+              "element": "div.cb__sweep",
+              "rect": {
+                "bottom": 864,
+                "height": 1008,
+                "left": 785.5523681640625,
+                "right": 1367.4429931640625,
+                "top": -144,
+                "width": 581.890625,
+                "x": 785.5523681640625,
+                "y": -144
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(135%, 0%); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.38",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "30.7188px 0.5px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "61.4375px"
+              },
+              "element": "div.cb__hrule",
+              "rect": {
+                "bottom": 424.6875,
+                "height": 1,
+                "left": 601.78125,
+                "right": 663.21875,
+                "top": 423.6875,
+                "width": 61.4375,
+                "x": 601.78125,
+                "y": 423.6875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "42.5156px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "104.094px 21.2578px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "208.188px"
+              },
+              "element": "p.cb__meta",
+              "rect": {
+                "bottom": 488,
+                "height": 42.515625,
+                "left": 528.40625,
+                "right": 736.59375,
+                "top": 445.484375,
+                "width": 208.1875,
+                "x": 528.40625,
+                "y": 445.484375
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "inset(0%)",
+                "filter": "none",
+                "height": "400.281px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "319.172px 200.141px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "638.344px"
+              },
+              "element": "span.why-dubai__panel",
+              "rect": {
+                "bottom": 343.078125,
+                "height": 400.28125,
+                "left": 0,
+                "right": 638.34375,
+                "top": -57.203125,
+                "width": 638.34375,
+                "x": 0,
+                "y": -57.203125
+              },
+              "source": null,
+              "style": "opacity: 1; clip-path: inset(0%);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -20)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.why-dubai",
+              "rect": {
+                "bottom": 700,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -20,
+                "width": 1265,
+                "x": 0,
+                "y": -20
+              },
+              "source": null,
+              "style": "opacity: 0; translate: none; rotate: none; scale: none; transform: translate(0px, -20px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "84.7812px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 42.3906px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "h2.why-dubai__heading",
+              "rect": {
+                "bottom": 146.84375,
+                "height": 84.78125,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 62.0625,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 62.0625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "44.3438px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 22.1719px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "p.why-dubai__body",
+              "rect": {
+                "bottom": 210.375,
+                "height": 44.34375,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 166.03125,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 166.03125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "23.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "109.57px 11.7422px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "219.141px"
+              },
+              "element": "span.tallest-building__eyebrow",
+              "rect": {
+                "bottom": 278.9765625,
+                "height": 23.484375,
+                "left": 969.0625,
+                "right": 1188.203125,
+                "top": 255.4921875,
+                "width": 219.140625,
+                "x": 969.0625,
+                "y": 255.4921875
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "51.1875px 0.5px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "51.1875px"
+              },
+              "element": "span.tallest-building__rule",
+              "rect": {
+                "bottom": 291.1640625,
+                "height": 1,
+                "left": 1137.015625,
+                "right": 1188.203125,
+                "top": 290.1640625,
+                "width": 51.1875,
+                "x": 1137.015625,
+                "y": 290.1640625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "91.4375px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "103.117px 45.7188px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "206.234px"
+              },
+              "element": "h2.tallest-building__heading",
+              "rect": {
+                "bottom": 396.9921875,
+                "height": 91.4375,
+                "left": 981.96875,
+                "right": 1188.203125,
+                "top": 305.5546875,
+                "width": 206.234375,
+                "x": 981.96875,
+                "y": 305.5546875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "22.7188px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "75.0078px 11.3594px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "150.016px"
+              },
+              "element": "span.tallest-building__sub",
+              "rect": {
+                "bottom": 432.5078125,
+                "height": 22.71875,
+                "left": 1038.1875,
+                "right": 1188.203125,
+                "top": 409.7890625,
+                "width": 150.015625,
+                "x": 1038.1875,
+                "y": 409.7890625
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "4px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "209.016px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -104.508)",
+                "transformOrigin": "135.164px 104.508px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "270.328px"
+              },
+              "element": "div.tallest-building",
+              "rect": {
+                "bottom": 448.5078125,
+                "height": 209.015625,
+                "left": 943.46875,
+                "right": 1213.796875,
+                "top": 239.4921875,
+                "width": 270.328125,
+                "x": 943.46875,
+                "y": 239.4921875
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "9936px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 4968px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "section.opening",
+              "rect": {
+                "bottom": 4608,
+                "height": 9936,
+                "left": 0,
+                "right": 1265,
+                "top": -5328,
+                "width": 1265,
+                "x": 0,
+                "y": -5328
+              },
+              "source": null,
+              "style": "height: 1380vh; --fx-in: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "61.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.86",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "66.5547px 30.7422px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "133.109px"
+              },
+              "element": "img.op-brand__mark",
+              "rect": {
+                "bottom": 630.5400390625,
+                "height": 63.6363525390625,
+                "left": 1063.270263671875,
+                "right": 1201.0384521484375,
+                "top": 566.9036865234375,
+                "width": 137.7681884765625,
+                "x": 1063.270263671875,
+                "y": 566.9036865234375
+              },
+              "source": "/assets/opening/branding/saion-logo.png",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1280px"
+              },
+              "element": "img.fx__building",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1280px"
+              },
+              "element": "img.rc__film",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": "left: -7.5px; top: 0px; width: 1280px; height: 720px; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "745.672px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "573.297px 372.836px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1146.59px"
+              },
+              "element": "img.rc__still",
+              "rect": {
+                "bottom": 719.671875,
+                "height": 745.671875,
+                "left": 59.15625,
+                "right": 1205.75,
+                "top": -26,
+                "width": 1146.59375,
+                "x": 59.15625,
+                "y": -26
+              },
+              "source": "/assets/reception-entry/building-final.webp",
+              "style": "left: 59.1668px; top: -26.0004px; width: 1146.6px; height: 745.68px; opacity: 0; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "79.5781px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "90.3516px 39.7891px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "180.703px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 656.5,
+                "height": 79.578125,
+                "left": 713.890625,
+                "right": 894.59375,
+                "top": 576.921875,
+                "width": 180.703125,
+                "x": 713.890625,
+                "y": 576.921875
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "width: 180.714px; height: 79.5821px;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "557.062px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 278.531px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1265px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 638.515625,
+                "height": 557.0625,
+                "left": 0,
+                "right": 1265,
+                "top": 81.453125,
+                "width": 1265,
+                "x": 0,
+                "y": 81.453125
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "left: 0px; top: 81.4628px; width: 1265px; height: 557.074px;"
+            }
+          ],
+          "triggers": [
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0,
+              "start": 5544,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": []
+                },
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": [
+                    {}
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hint"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hero"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.opening__scrim"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.op-line__inner",
+                    "span.op-line__inner"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__hrule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.cb__meta"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.why-dubai__panel"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.why-dubai__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.why-dubai__body"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__eyebrow"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.tallest-building__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__sub"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.tallest-building"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "section.opening"
+                  ]
+                }
+              ],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            }
+          ],
+          "viewport": {
+            "dpr": 1,
+            "height": 720,
+            "width": 1280,
+            "y": 5328
+          }
+        }
+      }
+    },
+    {
+      "reference": {
+        "viewport": {
+          "clientWidth": 1265,
+          "height": 720,
+          "scrollWidth": 1265,
+          "width": 1280,
+          "y": 5328
+        },
+        "state": {
+          "elements": [
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "119.547px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, -43.3125, 12)",
+                "transformOrigin": "43.3125px 59.7734px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "86.625px"
+              },
+              "element": "div.op-hint",
+              "rect": {
+                "bottom": 700,
+                "height": 119.546875,
+                "left": 589.1875,
+                "right": 675.8125,
+                "top": 580.453125,
+                "width": 86.625,
+                "x": 589.1875,
+                "y": 580.453125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(-43.3125px, 12px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(5px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1.035, 0, 0, 1.035, 0, -64.8)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.op-hero",
+              "rect": {
+                "bottom": 667.7999877929688,
+                "height": 745.199951171875,
+                "left": -22.137451171875,
+                "right": 1287.137451171875,
+                "top": -77.39996337890625,
+                "width": 1309.27490234375,
+                "x": -22.137451171875,
+                "y": -77.39996337890625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(5px); opacity: 0; transform: translate(0%, -9%) scale(1.035, 1.035);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.opening__scrim",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__veil",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(0px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "canvas.opening__canvas",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(0px); transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__field",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 139.140625,
+                "right": 140.140625,
+                "top": 0,
+                "width": 1,
+                "x": 139.140625,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 11%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 341.546875,
+                "right": 342.546875,
+                "top": 0,
+                "width": 1,
+                "x": 341.546875,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 27%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 632.5,
+                "right": 633.5,
+                "top": 0,
+                "width": 1,
+                "x": 632.5,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 50%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 923.4375,
+                "right": 924.4375,
+                "top": 0,
+                "width": 1,
+                "x": 923.4375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 73%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 1125.84375,
+                "right": 1126.84375,
+                "top": 0,
+                "width": 1,
+                "x": 1125.84375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 89%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(3px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -18)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__type",
+              "rect": {
+                "bottom": 702,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -18,
+                "width": 1265,
+                "x": 0,
+                "y": -18
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(3px); transform: translate(0px, -18px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 295.03125,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 198.171875,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 198.171875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 398.484375,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 301.625,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 301.625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1008px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 785.552, 0)",
+                "transformOrigin": "290.945px 504px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "581.891px"
+              },
+              "element": "div.cb__sweep",
+              "rect": {
+                "bottom": 864,
+                "height": 1008,
+                "left": 785.5523681640625,
+                "right": 1367.4429931640625,
+                "top": -144,
+                "width": 581.890625,
+                "x": 785.5523681640625,
+                "y": -144
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(135%, 0%); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.38",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "30.7188px 0.5px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "61.4375px"
+              },
+              "element": "div.cb__hrule",
+              "rect": {
+                "bottom": 424.6875,
+                "height": 1,
+                "left": 601.78125,
+                "right": 663.21875,
+                "top": 423.6875,
+                "width": 61.4375,
+                "x": 601.78125,
+                "y": 423.6875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "42.5156px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "104.094px 21.2578px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "208.188px"
+              },
+              "element": "p.cb__meta",
+              "rect": {
+                "bottom": 488,
+                "height": 42.515625,
+                "left": 528.40625,
+                "right": 736.59375,
+                "top": 445.484375,
+                "width": 208.1875,
+                "x": 528.40625,
+                "y": 445.484375
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "inset(0%)",
+                "filter": "none",
+                "height": "400.281px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "319.172px 200.141px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "638.344px"
+              },
+              "element": "span.why-dubai__panel",
+              "rect": {
+                "bottom": 343.078125,
+                "height": 400.28125,
+                "left": 0,
+                "right": 638.34375,
+                "top": -57.203125,
+                "width": 638.34375,
+                "x": 0,
+                "y": -57.203125
+              },
+              "source": null,
+              "style": "opacity: 1; clip-path: inset(0%);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -20)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.why-dubai",
+              "rect": {
+                "bottom": 700,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -20,
+                "width": 1265,
+                "x": 0,
+                "y": -20
+              },
+              "source": null,
+              "style": "opacity: 0; translate: none; rotate: none; scale: none; transform: translate(0px, -20px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "84.7812px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 42.3906px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "h2.why-dubai__heading",
+              "rect": {
+                "bottom": 146.84375,
+                "height": 84.78125,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 62.0625,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 62.0625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "44.3438px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 22.1719px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "p.why-dubai__body",
+              "rect": {
+                "bottom": 210.375,
+                "height": 44.34375,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 166.03125,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 166.03125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "23.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "109.57px 11.7422px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "219.141px"
+              },
+              "element": "span.tallest-building__eyebrow",
+              "rect": {
+                "bottom": 278.9765625,
+                "height": 23.484375,
+                "left": 969.0625,
+                "right": 1188.203125,
+                "top": 255.4921875,
+                "width": 219.140625,
+                "x": 969.0625,
+                "y": 255.4921875
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "51.1875px 0.5px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "51.1875px"
+              },
+              "element": "span.tallest-building__rule",
+              "rect": {
+                "bottom": 291.1640625,
+                "height": 1,
+                "left": 1137.015625,
+                "right": 1188.203125,
+                "top": 290.1640625,
+                "width": 51.1875,
+                "x": 1137.015625,
+                "y": 290.1640625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "91.4375px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "103.117px 45.7188px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "206.234px"
+              },
+              "element": "h2.tallest-building__heading",
+              "rect": {
+                "bottom": 396.9921875,
+                "height": 91.4375,
+                "left": 981.96875,
+                "right": 1188.203125,
+                "top": 305.5546875,
+                "width": 206.234375,
+                "x": 981.96875,
+                "y": 305.5546875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "22.7188px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "75.0078px 11.3594px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "150.016px"
+              },
+              "element": "span.tallest-building__sub",
+              "rect": {
+                "bottom": 432.5078125,
+                "height": 22.71875,
+                "left": 1038.1875,
+                "right": 1188.203125,
+                "top": 409.7890625,
+                "width": 150.015625,
+                "x": 1038.1875,
+                "y": 409.7890625
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "4px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "209.016px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -104.508)",
+                "transformOrigin": "135.164px 104.508px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "270.328px"
+              },
+              "element": "div.tallest-building",
+              "rect": {
+                "bottom": 448.5078125,
+                "height": 209.015625,
+                "left": 943.46875,
+                "right": 1213.796875,
+                "top": 239.4921875,
+                "width": 270.328125,
+                "x": 943.46875,
+                "y": 239.4921875
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "9936px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 4968px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "section.opening",
+              "rect": {
+                "bottom": 4608,
+                "height": 9936,
+                "left": 0,
+                "right": 1265,
+                "top": -5328,
+                "width": 1265,
+                "x": 0,
+                "y": -5328
+              },
+              "source": null,
+              "style": "height: 1380vh; --fx-in: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "61.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.86",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "66.5547px 30.7422px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "133.109px"
+              },
+              "element": "img.op-brand__mark",
+              "rect": {
+                "bottom": 630.5400390625,
+                "height": 63.6363525390625,
+                "left": 1063.270263671875,
+                "right": 1201.0384521484375,
+                "top": 566.9036865234375,
+                "width": 137.7681884765625,
+                "x": 1063.270263671875,
+                "y": 566.9036865234375
+              },
+              "source": "/assets/opening/branding/saion-logo.png",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1280px"
+              },
+              "element": "img.fx__building",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1280px"
+              },
+              "element": "img.rc__film",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": "left: -7.5px; top: 0px; width: 1280px; height: 720px; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "745.672px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "573.297px 372.836px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1146.59px"
+              },
+              "element": "img.rc__still",
+              "rect": {
+                "bottom": 719.671875,
+                "height": 745.671875,
+                "left": 59.15625,
+                "right": 1205.75,
+                "top": -26,
+                "width": 1146.59375,
+                "x": 59.15625,
+                "y": -26
+              },
+              "source": "/assets/reception-entry/building-final.webp",
+              "style": "left: 59.1668px; top: -26.0004px; width: 1146.6px; height: 745.68px; opacity: 0; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "79.5781px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "90.3516px 39.7891px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "180.703px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 656.5,
+                "height": 79.578125,
+                "left": 713.890625,
+                "right": 894.59375,
+                "top": 576.921875,
+                "width": 180.703125,
+                "x": 713.890625,
+                "y": 576.921875
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "width: 180.714px; height: 79.5821px;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "557.062px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 278.531px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1265px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 638.515625,
+                "height": 557.0625,
+                "left": 0,
+                "right": 1265,
+                "top": 81.453125,
+                "width": 1265,
+                "x": 0,
+                "y": 81.453125
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "left: 0px; top: 81.4628px; width: 1265px; height: 557.074px;"
+            }
+          ],
+          "triggers": [
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0,
+              "start": 5544,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": []
+                },
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": [
+                    {}
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hint"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hero"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.opening__scrim"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.op-line__inner",
+                    "span.op-line__inner"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__hrule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.cb__meta"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.why-dubai__panel"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.why-dubai__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.why-dubai__body"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__eyebrow"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.tallest-building__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__sub"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.tallest-building"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "section.opening"
+                  ]
+                }
+              ],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            }
+          ],
+          "viewport": {
+            "dpr": 1,
+            "height": 720,
+            "width": 1280,
+            "y": 5328
+          }
+        }
+      },
+      "local": {
+        "viewport": {
+          "clientWidth": 1265,
+          "height": 720,
+          "scrollWidth": 1265,
+          "width": 1280,
+          "y": 5328
+        },
+        "state": {
+          "elements": [
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "119.547px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, -43.3125, 12)",
+                "transformOrigin": "43.3125px 59.7734px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "86.625px"
+              },
+              "element": "div.op-hint",
+              "rect": {
+                "bottom": 700,
+                "height": 119.546875,
+                "left": 589.1875,
+                "right": 675.8125,
+                "top": 580.453125,
+                "width": 86.625,
+                "x": 589.1875,
+                "y": 580.453125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(-43.3125px, 12px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(5px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1.035, 0, 0, 1.035, 0, -64.8)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.op-hero",
+              "rect": {
+                "bottom": 667.7999877929688,
+                "height": 745.199951171875,
+                "left": -22.137451171875,
+                "right": 1287.137451171875,
+                "top": -77.39996337890625,
+                "width": 1309.27490234375,
+                "x": -22.137451171875,
+                "y": -77.39996337890625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(5px); opacity: 0; transform: translate(0%, -9%) scale(1.035, 1.035);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.opening__scrim",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__veil",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(0px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "canvas.opening__canvas",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(0px); transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__field",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": 0,
+                "width": 1265,
+                "x": 0,
+                "y": 0
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 139.140625,
+                "right": 140.140625,
+                "top": 0,
+                "width": 1,
+                "x": 139.140625,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 11%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 341.546875,
+                "right": 342.546875,
+                "top": 0,
+                "width": 1,
+                "x": 341.546875,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 27%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 632.5,
+                "right": 633.5,
+                "top": 0,
+                "width": 1,
+                "x": 632.5,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 50%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 923.4375,
+                "right": 924.4375,
+                "top": 0,
+                "width": 1,
+                "x": 923.4375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 73%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "0.5px 0px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1px"
+              },
+              "element": "span.cb__rule",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": 1125.84375,
+                "right": 1126.84375,
+                "top": 0,
+                "width": 1,
+                "x": 1125.84375,
+                "y": 0
+              },
+              "source": null,
+              "style": "left: 89%; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "blur(3px)",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -18)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.cb__type",
+              "rect": {
+                "bottom": 702,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -18,
+                "width": 1265,
+                "x": 0,
+                "y": -18
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; filter: blur(3px); transform: translate(0px, -18px); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 295.03125,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 198.171875,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 198.171875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "96.8594px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "170.406px 48.4297px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "340.812px"
+              },
+              "element": "span.op-line__inner",
+              "rect": {
+                "bottom": 398.484375,
+                "height": 96.859375,
+                "left": 462.09375,
+                "right": 802.90625,
+                "top": 301.625,
+                "width": 340.8125,
+                "x": 462.09375,
+                "y": 301.625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1008px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 785.552, 0)",
+                "transformOrigin": "290.945px 504px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "581.891px"
+              },
+              "element": "div.cb__sweep",
+              "rect": {
+                "bottom": 864,
+                "height": 1008,
+                "left": 785.5523681640625,
+                "right": 1367.4429931640625,
+                "top": -144,
+                "width": 581.890625,
+                "x": 785.5523681640625,
+                "y": -144
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(135%, 0%); opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.38",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "30.7188px 0.5px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "61.4375px"
+              },
+              "element": "div.cb__hrule",
+              "rect": {
+                "bottom": 424.6875,
+                "height": 1,
+                "left": 601.78125,
+                "right": 663.21875,
+                "top": 423.6875,
+                "width": 61.4375,
+                "x": 601.78125,
+                "y": 423.6875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "42.5156px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "104.094px 21.2578px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "208.188px"
+              },
+              "element": "p.cb__meta",
+              "rect": {
+                "bottom": 488,
+                "height": 42.515625,
+                "left": 528.40625,
+                "right": 736.59375,
+                "top": 445.484375,
+                "width": 208.1875,
+                "x": 528.40625,
+                "y": 445.484375
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "inset(0%)",
+                "filter": "none",
+                "height": "400.281px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "319.172px 200.141px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "638.344px"
+              },
+              "element": "span.why-dubai__panel",
+              "rect": {
+                "bottom": 343.078125,
+                "height": 400.28125,
+                "left": 0,
+                "right": 638.34375,
+                "top": -57.203125,
+                "width": 638.34375,
+                "x": 0,
+                "y": -57.203125
+              },
+              "source": null,
+              "style": "opacity: 1; clip-path: inset(0%);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -20)",
+                "transformOrigin": "632.5px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "div.why-dubai",
+              "rect": {
+                "bottom": 700,
+                "height": 720,
+                "left": 0,
+                "right": 1265,
+                "top": -20,
+                "width": 1265,
+                "x": 0,
+                "y": -20
+              },
+              "source": null,
+              "style": "opacity: 0; translate: none; rotate: none; scale: none; transform: translate(0px, -20px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "84.7812px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 42.3906px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "h2.why-dubai__heading",
+              "rect": {
+                "bottom": 146.84375,
+                "height": 84.78125,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 62.0625,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 62.0625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "44.3438px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "188.797px 22.1719px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "377.594px"
+              },
+              "element": "p.why-dubai__body",
+              "rect": {
+                "bottom": 210.375,
+                "height": 44.34375,
+                "left": 116.453125,
+                "right": 494.046875,
+                "top": 166.03125,
+                "width": 377.59375,
+                "x": 116.453125,
+                "y": 166.03125
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "23.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "109.57px 11.7422px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "219.141px"
+              },
+              "element": "span.tallest-building__eyebrow",
+              "rect": {
+                "bottom": 278.9765625,
+                "height": 23.484375,
+                "left": 969.0625,
+                "right": 1188.203125,
+                "top": 255.4921875,
+                "width": 219.140625,
+                "x": 969.0625,
+                "y": 255.4921875
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "1px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "51.1875px 0.5px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "51.1875px"
+              },
+              "element": "span.tallest-building__rule",
+              "rect": {
+                "bottom": 291.1640625,
+                "height": 1,
+                "left": 1137.015625,
+                "right": 1188.203125,
+                "top": 290.1640625,
+                "width": 51.1875,
+                "x": 1137.015625,
+                "y": 290.1640625
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "91.4375px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                "transformOrigin": "103.117px 45.7188px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "206.234px"
+              },
+              "element": "h2.tallest-building__heading",
+              "rect": {
+                "bottom": 396.9921875,
+                "height": 91.4375,
+                "left": 981.96875,
+                "right": 1188.203125,
+                "top": 305.5546875,
+                "width": 206.234375,
+                "x": 981.96875,
+                "y": 305.5546875
+              },
+              "source": null,
+              "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "22.7188px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "75.0078px 11.3594px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "150.016px"
+              },
+              "element": "span.tallest-building__sub",
+              "rect": {
+                "bottom": 432.5078125,
+                "height": 22.71875,
+                "left": 1038.1875,
+                "right": 1188.203125,
+                "top": 409.7890625,
+                "width": 150.015625,
+                "x": 1038.1875,
+                "y": 409.7890625
+              },
+              "source": null,
+              "style": "opacity: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "4px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "209.016px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "matrix(1, 0, 0, 1, 0, -104.508)",
+                "transformOrigin": "135.164px 104.508px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "270.328px"
+              },
+              "element": "div.tallest-building",
+              "rect": {
+                "bottom": 448.5078125,
+                "height": 209.015625,
+                "left": 943.46875,
+                "right": 1213.796875,
+                "top": 239.4921875,
+                "width": 270.328125,
+                "x": 943.46875,
+                "y": 239.4921875
+              },
+              "source": null,
+              "style": "opacity: 0;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "9936px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "visible",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 4968px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1265px"
+              },
+              "element": "section.opening",
+              "rect": {
+                "bottom": 4608,
+                "height": 9936,
+                "left": 0,
+                "right": 1265,
+                "top": -5328,
+                "width": 1265,
+                "x": 0,
+                "y": -5328
+              },
+              "source": null,
+              "style": "height: 1380vh; --fx-in: 1;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "61.4844px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0.86",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "66.5547px 30.7422px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "133.109px"
+              },
+              "element": "img.op-brand__mark",
+              "rect": {
+                "bottom": 630.5400390625,
+                "height": 63.6363525390625,
+                "left": 1063.270263671875,
+                "right": 1201.0384521484375,
+                "top": 566.9036865234375,
+                "width": 137.7681884765625,
+                "x": 1063.270263671875,
+                "y": 566.9036865234375
+              },
+              "source": "/assets/opening/branding/saion-logo.png",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "visible",
+                "width": "1280px"
+              },
+              "element": "img.fx__building",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": null
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "720px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "640px 360px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1280px"
+              },
+              "element": "img.rc__film",
+              "rect": {
+                "bottom": 720,
+                "height": 720,
+                "left": -7.5,
+                "right": 1272.5,
+                "top": 0,
+                "width": 1280,
+                "x": -7.5,
+                "y": 0
+              },
+              "source": "/assets/opening/building/final-frame.webp",
+              "style": "left: -7.5px; top: 0px; width: 1280px; height: 720px; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "745.672px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "0",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "573.297px 372.836px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1146.59px"
+              },
+              "element": "img.rc__still",
+              "rect": {
+                "bottom": 719.671875,
+                "height": 745.671875,
+                "left": 59.15625,
+                "right": 1205.75,
+                "top": -26,
+                "width": 1146.59375,
+                "x": 59.15625,
+                "y": -26
+              },
+              "source": "/assets/reception-entry/building-final.webp",
+              "style": "left: 59.1668px; top: -26.0004px; width: 1146.6px; height: 745.68px; opacity: 0; filter: none;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "79.5781px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "90.3516px 39.7891px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "180.703px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 656.5,
+                "height": 79.578125,
+                "left": 713.890625,
+                "right": 894.59375,
+                "top": 576.921875,
+                "width": 180.703125,
+                "x": 713.890625,
+                "y": 576.921875
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "width: 180.714px; height: 79.5821px;"
+            },
+            {
+              "computed": {
+                "backdropFilter": "none",
+                "borderRadius": "0px",
+                "clipPath": "none",
+                "filter": "none",
+                "height": "557.062px",
+                "objectFit": "fill",
+                "objectPosition": "50% 50%",
+                "opacity": "1",
+                "overflow": "clip",
+                "rotate": "none",
+                "scale": "none",
+                "transform": "none",
+                "transformOrigin": "632.5px 278.531px",
+                "translate": "none",
+                "visibility": "hidden",
+                "width": "1265px"
+              },
+              "element": "img.",
+              "rect": {
+                "bottom": 638.515625,
+                "height": 557.0625,
+                "left": 0,
+                "right": 1265,
+                "top": 81.453125,
+                "width": 1265,
+                "x": 0,
+                "y": 81.453125
+              },
+              "source": "/assets/reception-entry/reception-final.webp",
+              "style": "left: 0px; top: 81.4628px; width: 1265px; height: 557.074px;"
+            }
+          ],
+          "triggers": [
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0.5675675675675675,
+              "start": -720,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [],
+              "end": 9936,
+              "progress": 0,
+              "start": 5544,
+              "trigger": "section.opening"
+            },
+            {
+              "animations": [
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": []
+                },
+                {
+                  "progress": 0.5781250143798831,
+                  "targets": [
+                    {}
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hint"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.op-hero"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.opening__scrim"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule",
+                    "span.cb__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.op-line__inner",
+                    "span.op-line__inner"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__hrule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.cb__meta"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "canvas.opening__canvas"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__veil"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__field"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__sweep"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.cb__type"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.why-dubai__panel"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.why-dubai__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "p.why-dubai__body"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.why-dubai"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__eyebrow"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__rule"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "h2.tallest-building__heading"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "span.tallest-building__sub"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "div.tallest-building"
+                  ]
+                },
+                {
+                  "progress": 1,
+                  "targets": [
+                    "section.opening"
+                  ]
+                }
+              ],
+              "end": 9216,
+              "progress": 0.578125,
+              "start": 0,
+              "trigger": "section.opening"
+            }
+          ],
+          "viewport": {
+            "dpr": 1,
+            "height": 720,
+            "width": 1280,
+            "y": 5328
+          }
+        }
+      }
+    }
+  ]
+}

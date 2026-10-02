@@ -1,0 +1,1506 @@
+{
+  "schemaVersion": "1.0.0",
+  "project": {
+    "name": "Reposé Residence",
+    "developer": "SAION Properties",
+    "location": "Al Furjan, Dubai",
+    "source": "SAION Brochure Updated 2026",
+    "sourcePageCount": 62
+  },
+  "verificationValues": [
+    "VERIFIED",
+    "NEEDS MANUAL VERIFICATION"
+  ],
+  "scopeNote": "Selectable residential levels are 01-15 because these are the numbered residence floorplates supplied. The brochure also describes a podium amenity level but does not give it a numbered level or a residential floorplate.",
+  "floorplates": {
+    "fp-l01-05-07-11": {
+      "levels": [
+        "01",
+        "05",
+        "07",
+        "11"
+      ],
+      "masterFile": "floorplates-master/floorplate-l01-05-07-11.png",
+      "webFile": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "brochurePage": 52
+    },
+    "fp-l02-04-08-10": {
+      "levels": [
+        "02",
+        "04",
+        "08",
+        "10"
+      ],
+      "masterFile": "floorplates-master/floorplate-l02-04-08-10.png",
+      "webFile": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "brochurePage": 53
+    },
+    "fp-l03-09": {
+      "levels": [
+        "03",
+        "09"
+      ],
+      "masterFile": "floorplates-master/floorplate-l03-09.png",
+      "webFile": "floorplates-web/floorplate-l03-09.webp",
+      "brochurePage": 54
+    },
+    "fp-l06": {
+      "levels": [
+        "06"
+      ],
+      "masterFile": "floorplates-master/floorplate-l06.png",
+      "webFile": "floorplates-web/floorplate-l06.webp",
+      "brochurePage": 55
+    },
+    "fp-l12": {
+      "levels": [
+        "12"
+      ],
+      "masterFile": "floorplates-master/floorplate-l12.png",
+      "webFile": "floorplates-web/floorplate-l12.webp",
+      "brochurePage": 56
+    },
+    "fp-l13": {
+      "levels": [
+        "13"
+      ],
+      "masterFile": "floorplates-master/floorplate-l13.png",
+      "webFile": "floorplates-web/floorplate-l13.webp",
+      "brochurePage": 57
+    },
+    "fp-l14": {
+      "levels": [
+        "14"
+      ],
+      "masterFile": "floorplates-master/floorplate-l14.png",
+      "webFile": "floorplates-web/floorplate-l14.webp",
+      "brochurePage": 58
+    },
+    "fp-l15": {
+      "levels": [
+        "15"
+      ],
+      "masterFile": "floorplates-master/floorplate-l15-penthouse.png",
+      "webFile": "floorplates-web/floorplate-l15-penthouse.webp",
+      "brochurePage": 59
+    }
+  },
+  "unitPlans": {
+    "up-l01-05-07-11-1bhk-a": {
+      "id": "up-l01-05-07-11-1bhk-a",
+      "file": "units-web/unit-l01-05-07-11-1bhk-a.webp",
+      "masterFile": "units-master/unit-l01-05-07-11-1bhk-a.png",
+      "brochurePage": 31,
+      "sourcePages": [
+        31
+      ],
+      "levelsClaimedByDetailPage": [
+        "01",
+        "05",
+        "07",
+        "11"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l01-05-07-11-1bhk-a-prime": {
+      "id": "up-l01-05-07-11-1bhk-a-prime",
+      "file": "units-web/unit-l01-05-07-11-1bhk-a-prime.webp",
+      "masterFile": "units-master/unit-l01-05-07-11-1bhk-a-prime.png",
+      "brochurePage": 31,
+      "sourcePages": [
+        31
+      ],
+      "levelsClaimedByDetailPage": [
+        "01",
+        "05",
+        "07",
+        "11"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l01-05-07-11-1bhk-study-b": {
+      "id": "up-l01-05-07-11-1bhk-study-b",
+      "file": "units-web/unit-l01-05-07-11-1bhk-study-b.webp",
+      "masterFile": "units-master/unit-l01-05-07-11-1bhk-study-b.png",
+      "brochurePage": 32,
+      "sourcePages": [
+        32
+      ],
+      "levelsClaimedByDetailPage": [
+        "01",
+        "05",
+        "07",
+        "11"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B",
+      "notes": ""
+    },
+    "up-l01-05-07-11-1bhk-study-b-prime": {
+      "id": "up-l01-05-07-11-1bhk-study-b-prime",
+      "file": "units-web/unit-l01-05-07-11-1bhk-study-b-prime.webp",
+      "masterFile": "units-master/unit-l01-05-07-11-1bhk-study-b-prime.png",
+      "brochurePage": 32,
+      "sourcePages": [
+        32
+      ],
+      "levelsClaimedByDetailPage": [
+        "01",
+        "05",
+        "07",
+        "11"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B′",
+      "notes": ""
+    },
+    "up-l01-05-07-11-2bhk-maidroom-a": {
+      "id": "up-l01-05-07-11-2bhk-maidroom-a",
+      "file": "units-web/unit-l01-05-07-11-2bhk-maidroom-a.webp",
+      "masterFile": "units-master/unit-l01-05-07-11-2bhk-maidroom-a.png",
+      "brochurePage": 33,
+      "sourcePages": [
+        33
+      ],
+      "levelsClaimedByDetailPage": [
+        "01",
+        "05",
+        "07",
+        "11"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l01-05-07-11-2bhk-maidroom-a-prime": {
+      "id": "up-l01-05-07-11-2bhk-maidroom-a-prime",
+      "file": "units-web/unit-l01-05-07-11-2bhk-maidroom-a-prime.webp",
+      "masterFile": "units-master/unit-l01-05-07-11-2bhk-maidroom-a-prime.png",
+      "brochurePage": 33,
+      "sourcePages": [
+        33
+      ],
+      "levelsClaimedByDetailPage": [
+        "01",
+        "05",
+        "07",
+        "11"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l02-04-08-10-1bhk-a": {
+      "id": "up-l02-04-08-10-1bhk-a",
+      "file": "units-web/unit-l02-04-08-10-1bhk-a.webp",
+      "masterFile": "units-master/unit-l02-04-08-10-1bhk-a.png",
+      "brochurePage": 34,
+      "sourcePages": [
+        34
+      ],
+      "levelsClaimedByDetailPage": [
+        "02",
+        "04",
+        "08",
+        "10"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l02-04-08-10-1bhk-a-prime": {
+      "id": "up-l02-04-08-10-1bhk-a-prime",
+      "file": "units-web/unit-l02-04-08-10-1bhk-a-prime.webp",
+      "masterFile": "units-master/unit-l02-04-08-10-1bhk-a-prime.png",
+      "brochurePage": 34,
+      "sourcePages": [
+        34
+      ],
+      "levelsClaimedByDetailPage": [
+        "02",
+        "04",
+        "08",
+        "10"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l02-04-08-10-1bhk-study-b": {
+      "id": "up-l02-04-08-10-1bhk-study-b",
+      "file": "units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+      "masterFile": "units-master/unit-l02-04-08-10-1bhk-study-b.png",
+      "brochurePage": 35,
+      "sourcePages": [
+        35
+      ],
+      "levelsClaimedByDetailPage": [
+        "02",
+        "04",
+        "08",
+        "10"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B",
+      "notes": ""
+    },
+    "up-l02-04-08-10-1bhk-study-b-prime": {
+      "id": "up-l02-04-08-10-1bhk-study-b-prime",
+      "file": "units-web/unit-l02-04-08-10-1bhk-study-b-prime.webp",
+      "masterFile": "units-master/unit-l02-04-08-10-1bhk-study-b-prime.png",
+      "brochurePage": 35,
+      "sourcePages": [
+        35
+      ],
+      "levelsClaimedByDetailPage": [
+        "02",
+        "04",
+        "08",
+        "10"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B′",
+      "notes": ""
+    },
+    "up-l02-04-08-10-2bhk-maidroom-a": {
+      "id": "up-l02-04-08-10-2bhk-maidroom-a",
+      "file": "units-web/unit-l02-04-08-10-2bhk-maidroom-a.webp",
+      "masterFile": "units-master/unit-l02-04-08-10-2bhk-maidroom-a.png",
+      "brochurePage": 36,
+      "sourcePages": [
+        36
+      ],
+      "levelsClaimedByDetailPage": [
+        "02",
+        "04",
+        "08",
+        "10"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l02-04-08-10-2bhk-maidroom-a-prime": {
+      "id": "up-l02-04-08-10-2bhk-maidroom-a-prime",
+      "file": "units-web/unit-l02-04-08-10-2bhk-maidroom-a-prime.webp",
+      "masterFile": "units-master/unit-l02-04-08-10-2bhk-maidroom-a-prime.png",
+      "brochurePage": 36,
+      "sourcePages": [
+        36
+      ],
+      "levelsClaimedByDetailPage": [
+        "02",
+        "04",
+        "08",
+        "10"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l03-09-1bhk-a": {
+      "id": "up-l03-09-1bhk-a",
+      "file": "units-web/unit-l03-09-1bhk-a.webp",
+      "masterFile": "units-master/unit-l03-09-1bhk-a.png",
+      "brochurePage": 37,
+      "sourcePages": [
+        37
+      ],
+      "levelsClaimedByDetailPage": [
+        "03",
+        "09"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l03-09-1bhk-a-prime": {
+      "id": "up-l03-09-1bhk-a-prime",
+      "file": "units-web/unit-l03-09-1bhk-a-prime.webp",
+      "masterFile": "units-master/unit-l03-09-1bhk-a-prime.png",
+      "brochurePage": 37,
+      "sourcePages": [
+        37
+      ],
+      "levelsClaimedByDetailPage": [
+        "03",
+        "09"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l03-09-1bhk-study-b": {
+      "id": "up-l03-09-1bhk-study-b",
+      "file": "units-web/unit-l03-09-1bhk-study-b.webp",
+      "masterFile": "units-master/unit-l03-09-1bhk-study-b.png",
+      "brochurePage": 38,
+      "sourcePages": [
+        38
+      ],
+      "levelsClaimedByDetailPage": [
+        "03",
+        "09"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B",
+      "notes": ""
+    },
+    "up-l03-09-1bhk-study-b-prime": {
+      "id": "up-l03-09-1bhk-study-b-prime",
+      "file": "units-web/unit-l03-09-1bhk-study-b-prime.webp",
+      "masterFile": "units-master/unit-l03-09-1bhk-study-b-prime.png",
+      "brochurePage": 38,
+      "sourcePages": [
+        38
+      ],
+      "levelsClaimedByDetailPage": [
+        "03",
+        "09"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B′",
+      "notes": ""
+    },
+    "up-l03-09-2bhk-maidroom-a": {
+      "id": "up-l03-09-2bhk-maidroom-a",
+      "file": "units-web/unit-l03-09-2bhk-maidroom-a.webp",
+      "masterFile": "units-master/unit-l03-09-2bhk-maidroom-a.png",
+      "brochurePage": 39,
+      "sourcePages": [
+        39
+      ],
+      "levelsClaimedByDetailPage": [
+        "03",
+        "09"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l03-09-2bhk-maidroom-a-prime": {
+      "id": "up-l03-09-2bhk-maidroom-a-prime",
+      "file": "units-web/unit-l03-09-2bhk-maidroom-a-prime.webp",
+      "masterFile": "units-master/unit-l03-09-2bhk-maidroom-a-prime.png",
+      "brochurePage": 39,
+      "sourcePages": [
+        39
+      ],
+      "levelsClaimedByDetailPage": [
+        "03",
+        "09"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l06-1bhk-a": {
+      "id": "up-l06-1bhk-a",
+      "file": "units-web/unit-l06-1bhk-a.webp",
+      "masterFile": "units-master/unit-l06-1bhk-a.png",
+      "brochurePage": 40,
+      "sourcePages": [
+        40
+      ],
+      "levelsClaimedByDetailPage": [
+        "06"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l06-1bhk-a-prime": {
+      "id": "up-l06-1bhk-a-prime",
+      "file": "units-web/unit-l06-1bhk-a-prime.webp",
+      "masterFile": "units-master/unit-l06-1bhk-a-prime.png",
+      "brochurePage": 40,
+      "sourcePages": [
+        40
+      ],
+      "levelsClaimedByDetailPage": [
+        "06"
+      ],
+      "residenceType": "1 BHK",
+      "bedrooms": "1",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l06-1bhk-study-b": {
+      "id": "up-l06-1bhk-study-b",
+      "file": "units-web/unit-l06-1bhk-study-b.webp",
+      "masterFile": "units-master/unit-l06-1bhk-study-b.png",
+      "brochurePage": 41,
+      "sourcePages": [
+        41
+      ],
+      "levelsClaimedByDetailPage": [
+        "06"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B",
+      "notes": ""
+    },
+    "up-l06-1bhk-study-b-prime": {
+      "id": "up-l06-1bhk-study-b-prime",
+      "file": "units-web/unit-l06-1bhk-study-b-prime.webp",
+      "masterFile": "units-master/unit-l06-1bhk-study-b-prime.png",
+      "brochurePage": 41,
+      "sourcePages": [
+        41
+      ],
+      "levelsClaimedByDetailPage": [
+        "06"
+      ],
+      "residenceType": "1 BHK + Study",
+      "bedrooms": "1",
+      "brochureVariant": "B′",
+      "notes": ""
+    },
+    "up-l06-2bhk-maidroom-a": {
+      "id": "up-l06-2bhk-maidroom-a",
+      "file": "units-web/unit-l06-2bhk-maidroom-a.webp",
+      "masterFile": "units-master/unit-l06-2bhk-maidroom-a.png",
+      "brochurePage": 42,
+      "sourcePages": [
+        42
+      ],
+      "levelsClaimedByDetailPage": [
+        "06"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A",
+      "notes": ""
+    },
+    "up-l06-2bhk-maidroom-a-prime": {
+      "id": "up-l06-2bhk-maidroom-a-prime",
+      "file": "units-web/unit-l06-2bhk-maidroom-a-prime.webp",
+      "masterFile": "units-master/unit-l06-2bhk-maidroom-a-prime.png",
+      "brochurePage": 42,
+      "sourcePages": [
+        42
+      ],
+      "levelsClaimedByDetailPage": [
+        "06"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "A′",
+      "notes": ""
+    },
+    "up-l12-3bhk-maidroom-a": {
+      "id": "up-l12-3bhk-maidroom-a",
+      "file": "units-web/unit-l12-3bhk-maidroom-a.webp",
+      "masterFile": "units-master/unit-l12-3bhk-maidroom-a.png",
+      "brochurePage": 43,
+      "sourcePages": [
+        43
+      ],
+      "levelsClaimedByDetailPage": [
+        "12"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "A",
+      "notes": "Detail page badge is A; locator/geometry corresponds to the centre residence labelled 3-BED B on the floorplate."
+    },
+    "up-l12-3bhk-maidroom-b": {
+      "id": "up-l12-3bhk-maidroom-b",
+      "file": "units-web/unit-l12-3bhk-maidroom-b.webp",
+      "masterFile": "units-master/unit-l12-3bhk-maidroom-b.png",
+      "brochurePage": 44,
+      "sourcePages": [
+        44
+      ],
+      "levelsClaimedByDetailPage": [
+        "12"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "B",
+      "notes": "Detail page badge is B; locator/geometry corresponds to the left residence labelled 3-BED A on the floorplate."
+    },
+    "up-l12-3bhk-maidroom-b-prime": {
+      "id": "up-l12-3bhk-maidroom-b-prime",
+      "file": "units-web/unit-l12-3bhk-maidroom-b-prime.webp",
+      "masterFile": "units-master/unit-l12-3bhk-maidroom-b-prime.png",
+      "brochurePage": 44,
+      "sourcePages": [
+        44
+      ],
+      "levelsClaimedByDetailPage": [
+        "12"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "B′",
+      "notes": "Detail page badge is B′; locator/geometry corresponds to the right residence labelled 3-BED A′ on the floorplate."
+    },
+    "up-l13-3bhk-maidroom-a": {
+      "id": "up-l13-3bhk-maidroom-a",
+      "file": "units-web/unit-l13-3bhk-maidroom-a.webp",
+      "masterFile": "units-master/unit-l13-3bhk-maidroom-a.png",
+      "brochurePage": 45,
+      "sourcePages": [
+        45
+      ],
+      "levelsClaimedByDetailPage": [
+        "13"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "A",
+      "notes": "Detail page badge is A; locator/geometry corresponds to the centre residence labelled 3-BED B on the floorplate."
+    },
+    "up-l13-3bhk-maidroom-b": {
+      "id": "up-l13-3bhk-maidroom-b",
+      "file": "units-web/unit-l13-3bhk-maidroom-b.webp",
+      "masterFile": "units-master/unit-l13-3bhk-maidroom-b.png",
+      "brochurePage": 46,
+      "sourcePages": [
+        46
+      ],
+      "levelsClaimedByDetailPage": [
+        "13"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "B",
+      "notes": "Detail page badge is B; locator/geometry corresponds to the left residence labelled 3-BED A on the floorplate."
+    },
+    "up-l13-3bhk-maidroom-b-prime": {
+      "id": "up-l13-3bhk-maidroom-b-prime",
+      "file": "units-web/unit-l13-3bhk-maidroom-b-prime.webp",
+      "masterFile": "units-master/unit-l13-3bhk-maidroom-b-prime.png",
+      "brochurePage": 46,
+      "sourcePages": [
+        46
+      ],
+      "levelsClaimedByDetailPage": [
+        "13"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "B′",
+      "notes": "Supplied by the 2026 brochure revision: page 46 right, captioned Level 13. The earlier printing captioned this same drawing Level 14. The 2026-09 brochure revision then revised its balcony and total (660.58 / 2351.91 → 670.91 / 2362.24 sq ft) so that they no longer equal Level 14 B′, which still prints 660.58 / 2351.91. The two floors' right wings are therefore stated as different apartments."
+    },
+    "up-l14-3bhk-maidroom-a": {
+      "id": "up-l14-3bhk-maidroom-a",
+      "file": "units-web/unit-l14-3bhk-maidroom-a.webp",
+      "masterFile": "units-master/unit-l14-3bhk-maidroom-a.png",
+      "brochurePage": 47,
+      "sourcePages": [
+        47
+      ],
+      "levelsClaimedByDetailPage": [
+        "14"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "A",
+      "notes": "Detail page badge is A; locator/geometry corresponds to the centre residence labelled 3-BED B on the floorplate."
+    },
+    "up-l14-3bhk-maidroom-b": {
+      "id": "up-l14-3bhk-maidroom-b",
+      "file": "units-web/unit-l14-3bhk-maidroom-b.webp",
+      "masterFile": "units-master/unit-l14-3bhk-maidroom-b.png",
+      "brochurePage": 48,
+      "sourcePages": [
+        48
+      ],
+      "levelsClaimedByDetailPage": [
+        "14"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "B",
+      "notes": "Detail page badge is B; locator/geometry corresponds to the left residence labelled 3-BED A on the floorplate."
+    },
+    "up-l14-3bhk-maidroom-b-prime": {
+      "id": "up-l14-3bhk-maidroom-b-prime",
+      "file": "units-web/unit-l14-3bhk-maidroom-b-prime.webp",
+      "masterFile": "units-master/unit-l14-3bhk-maidroom-b-prime.png",
+      "brochurePage": 48,
+      "sourcePages": [
+        48
+      ],
+      "levelsClaimedByDetailPage": [
+        "14"
+      ],
+      "residenceType": "3 BHK + Maid Room",
+      "bedrooms": "3",
+      "brochureVariant": "B′",
+      "notes": "Brochure page 48 right. In the earlier printing the same drawing also appeared on page 46 captioned Level 14; the 2026 revision re-captions page 46 as Level 13, so page 48 is now this plan's only source."
+    },
+    "up-l15-4bhk-penthouse-jacuzzi-a": {
+      "id": "up-l15-4bhk-penthouse-jacuzzi-a",
+      "file": "units-web/unit-l15-4bhk-penthouse-jacuzzi-a.webp",
+      "masterFile": "units-master/unit-l15-4bhk-penthouse-jacuzzi-a.png",
+      "brochurePage": 49,
+      "sourcePages": [
+        49
+      ],
+      "levelsClaimedByDetailPage": [
+        "15"
+      ],
+      "residenceType": "4 BHK Penthouse with Jacuzzi",
+      "bedrooms": "4",
+      "brochureVariant": "A",
+      "notes": "Locator and floorplate position agree with the left 4-BED A residence."
+    },
+    "up-l15-3bhk-penthouse-jacuzzi-a": {
+      "id": "up-l15-3bhk-penthouse-jacuzzi-a",
+      "file": "units-web/unit-l15-3bhk-penthouse-jacuzzi-a.webp",
+      "masterFile": "units-master/unit-l15-3bhk-penthouse-jacuzzi-a.png",
+      "brochurePage": 50,
+      "sourcePages": [
+        50
+      ],
+      "levelsClaimedByDetailPage": [
+        "15"
+      ],
+      "residenceType": "3 BHK Penthouse with Jacuzzi",
+      "bedrooms": "3",
+      "brochureVariant": "C",
+      "notes": "Badged C by the 2026-09 brochure revision (page 50); the earlier printing badged this same sheet A, which collided with the 4-bedroom penthouse A on the same floor. The Level 15 floorplate still prints no type label for this residence, so nothing contradicts the sheet."
+    },
+    "up-l15-2bhk-maidroom-b": {
+      "id": "up-l15-2bhk-maidroom-b",
+      "file": "units-web/unit-l15-2bhk-maidroom-b.webp",
+      "masterFile": "units-master/unit-l15-2bhk-maidroom-b.png",
+      "brochurePage": 51,
+      "sourcePages": [
+        51
+      ],
+      "levelsClaimedByDetailPage": [
+        "15"
+      ],
+      "residenceType": "2 BHK + Maid Room",
+      "bedrooms": "2",
+      "brochureVariant": "B",
+      "notes": "Detail page badge is B; the centre residence is labelled 2-BED C on the floorplate."
+    }
+  },
+  "residenceSets": {
+    "rs-l01-05-07-11": [
+      {
+        "id": "l01-05-07-11-1bhk-a",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": "up-l01-05-07-11-1bhk-a",
+        "unitPlan": "units-web/unit-l01-05-07-11-1bhk-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l01-05-07-11-1bhk-a-prime",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A′",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": "up-l01-05-07-11-1bhk-a-prime",
+        "unitPlan": "units-web/unit-l01-05-07-11-1bhk-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l01-05-07-11-1bhk-study-b",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B",
+        "floorplatePosition": "centre-left",
+        "unitPlanId": "up-l01-05-07-11-1bhk-study-b",
+        "unitPlan": "units-web/unit-l01-05-07-11-1bhk-study-b.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l01-05-07-11-1bhk-study-b-prime",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B′",
+        "floorplatePosition": "centre-right",
+        "unitPlanId": "up-l01-05-07-11-1bhk-study-b-prime",
+        "unitPlan": "units-web/unit-l01-05-07-11-1bhk-study-b-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l01-05-07-11-2bhk-maidroom-a",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A",
+        "floorplatePosition": "inner-left",
+        "unitPlanId": "up-l01-05-07-11-2bhk-maidroom-a",
+        "unitPlan": "units-web/unit-l01-05-07-11-2bhk-maidroom-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l01-05-07-11-2bhk-maidroom-a-prime",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A′",
+        "floorplatePosition": "inner-right",
+        "unitPlanId": "up-l01-05-07-11-2bhk-maidroom-a-prime",
+        "unitPlan": "units-web/unit-l01-05-07-11-2bhk-maidroom-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      }
+    ],
+    "rs-l02-04-08-10": [
+      {
+        "id": "l02-04-08-10-1bhk-a",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": "up-l02-04-08-10-1bhk-a",
+        "unitPlan": "units-web/unit-l02-04-08-10-1bhk-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l02-04-08-10-1bhk-a-prime",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A′",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": "up-l02-04-08-10-1bhk-a-prime",
+        "unitPlan": "units-web/unit-l02-04-08-10-1bhk-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l02-04-08-10-1bhk-study-b",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B",
+        "floorplatePosition": "centre-left",
+        "unitPlanId": "up-l02-04-08-10-1bhk-study-b",
+        "unitPlan": "units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l02-04-08-10-1bhk-study-b-prime",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B′",
+        "floorplatePosition": "centre-right",
+        "unitPlanId": "up-l02-04-08-10-1bhk-study-b-prime",
+        "unitPlan": "units-web/unit-l02-04-08-10-1bhk-study-b-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l02-04-08-10-2bhk-maidroom-a",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A",
+        "floorplatePosition": "inner-left",
+        "unitPlanId": "up-l02-04-08-10-2bhk-maidroom-a",
+        "unitPlan": "units-web/unit-l02-04-08-10-2bhk-maidroom-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l02-04-08-10-2bhk-maidroom-a-prime",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A′",
+        "floorplatePosition": "inner-right",
+        "unitPlanId": "up-l02-04-08-10-2bhk-maidroom-a-prime",
+        "unitPlan": "units-web/unit-l02-04-08-10-2bhk-maidroom-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      }
+    ],
+    "rs-l03-09": [
+      {
+        "id": "l03-09-1bhk-a",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": "up-l03-09-1bhk-a",
+        "unitPlan": "units-web/unit-l03-09-1bhk-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l03-09-1bhk-a-prime",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A′",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": "up-l03-09-1bhk-a-prime",
+        "unitPlan": "units-web/unit-l03-09-1bhk-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l03-09-1bhk-study-b",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B",
+        "floorplatePosition": "centre-left",
+        "unitPlanId": "up-l03-09-1bhk-study-b",
+        "unitPlan": "units-web/unit-l03-09-1bhk-study-b.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l03-09-1bhk-study-b-prime",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B′",
+        "floorplatePosition": "centre-right",
+        "unitPlanId": "up-l03-09-1bhk-study-b-prime",
+        "unitPlan": "units-web/unit-l03-09-1bhk-study-b-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l03-09-2bhk-maidroom-a",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A",
+        "floorplatePosition": "inner-left",
+        "unitPlanId": "up-l03-09-2bhk-maidroom-a",
+        "unitPlan": "units-web/unit-l03-09-2bhk-maidroom-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l03-09-2bhk-maidroom-a-prime",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A′",
+        "floorplatePosition": "inner-right",
+        "unitPlanId": "up-l03-09-2bhk-maidroom-a-prime",
+        "unitPlan": "units-web/unit-l03-09-2bhk-maidroom-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      }
+    ],
+    "rs-l06": [
+      {
+        "id": "l06-1bhk-a",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": "up-l06-1bhk-a",
+        "unitPlan": "units-web/unit-l06-1bhk-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l06-1bhk-a-prime",
+        "name": "1 BHK",
+        "bedrooms": "1",
+        "variant": "A′",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": "up-l06-1bhk-a-prime",
+        "unitPlan": "units-web/unit-l06-1bhk-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l06-1bhk-study-b",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B",
+        "floorplatePosition": "centre-left",
+        "unitPlanId": "up-l06-1bhk-study-b",
+        "unitPlan": "units-web/unit-l06-1bhk-study-b.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l06-1bhk-study-b-prime",
+        "name": "1 BHK + Study",
+        "bedrooms": "1",
+        "variant": "B′",
+        "floorplatePosition": "centre-right",
+        "unitPlanId": "up-l06-1bhk-study-b-prime",
+        "unitPlan": "units-web/unit-l06-1bhk-study-b-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l06-2bhk-maidroom-a",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A",
+        "floorplatePosition": "inner-left",
+        "unitPlanId": "up-l06-2bhk-maidroom-a",
+        "unitPlan": "units-web/unit-l06-2bhk-maidroom-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l06-2bhk-maidroom-a-prime",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "A′",
+        "floorplatePosition": "inner-right",
+        "unitPlanId": "up-l06-2bhk-maidroom-a-prime",
+        "unitPlan": "units-web/unit-l06-2bhk-maidroom-a-prime.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      }
+    ],
+    "rs-l12": [
+      {
+        "id": "l12-3bed-a",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says A; matching detail-plan geometry/locator is badged B.",
+        "candidateUnitPlanId": "up-l12-3bhk-maidroom-b",
+        "candidateUnitPlan": "units-web/unit-l12-3bhk-maidroom-b.webp"
+      },
+      {
+        "id": "l12-3bed-b",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "B",
+        "floorplatePosition": "centre",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says B; matching detail-plan geometry/locator is badged A.",
+        "candidateUnitPlanId": "up-l12-3bhk-maidroom-a",
+        "candidateUnitPlan": "units-web/unit-l12-3bhk-maidroom-a.webp"
+      },
+      {
+        "id": "l12-3bed-a-prime",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "A′",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says A′; matching detail-plan geometry/locator is badged B′.",
+        "candidateUnitPlanId": "up-l12-3bhk-maidroom-b-prime",
+        "candidateUnitPlan": "units-web/unit-l12-3bhk-maidroom-b-prime.webp"
+      }
+    ],
+    "rs-l13": [
+      {
+        "id": "l13-3bed-a",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says A; matching detail-plan geometry/locator is badged B.",
+        "candidateUnitPlanId": "up-l13-3bhk-maidroom-b",
+        "candidateUnitPlan": "units-web/unit-l13-3bhk-maidroom-b.webp"
+      },
+      {
+        "id": "l13-3bed-b",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "B",
+        "floorplatePosition": "centre",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says B; matching detail-plan geometry/locator is badged A.",
+        "candidateUnitPlanId": "up-l13-3bhk-maidroom-a",
+        "candidateUnitPlan": "units-web/unit-l13-3bhk-maidroom-a.webp"
+      },
+      {
+        "id": "l13-3bed-a-prime",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "A′",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says A′; the matching detail plan (page 46 right) is badged B′. That page previously captioned this drawing Level 14; the 2026-09 brochure revision captions it Level 13 and gives it its own balcony and total, distinct from Level 14 B′.",
+        "candidateUnitPlanId": "up-l13-3bhk-maidroom-b-prime",
+        "candidateUnitPlan": "units-web/unit-l13-3bhk-maidroom-b-prime.webp"
+      }
+    ],
+    "rs-l14": [
+      {
+        "id": "l14-3bed-a",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says A; matching detail-plan geometry/locator is badged B.",
+        "candidateUnitPlanId": "up-l14-3bhk-maidroom-b",
+        "candidateUnitPlan": "units-web/unit-l14-3bhk-maidroom-b.webp"
+      },
+      {
+        "id": "l14-3bed-b",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "B",
+        "floorplatePosition": "centre",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says B; matching detail-plan geometry/locator is badged A.",
+        "candidateUnitPlanId": "up-l14-3bhk-maidroom-a",
+        "candidateUnitPlan": "units-web/unit-l14-3bhk-maidroom-a.webp"
+      },
+      {
+        "id": "l14-3bed-a-prime",
+        "name": "3 BHK + Maid Room",
+        "bedrooms": "3",
+        "variant": "A′",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says A′; matching detail-plan geometry/locator is badged B′.",
+        "candidateUnitPlanId": "up-l14-3bhk-maidroom-b-prime",
+        "candidateUnitPlan": "units-web/unit-l14-3bhk-maidroom-b-prime.webp"
+      }
+    ],
+    "rs-l15": [
+      {
+        "id": "l15-4bed-a",
+        "name": "4 BHK Penthouse with Jacuzzi",
+        "bedrooms": "4",
+        "variant": "A",
+        "floorplatePosition": "outer-left",
+        "unitPlanId": "up-l15-4bhk-penthouse-jacuzzi-a",
+        "unitPlan": "units-web/unit-l15-4bhk-penthouse-jacuzzi-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": ""
+      },
+      {
+        "id": "l15-2bed-c",
+        "name": "2 BHK + Maid Room",
+        "bedrooms": "2",
+        "variant": "C",
+        "floorplatePosition": "centre",
+        "unitPlanId": null,
+        "unitPlan": null,
+        "mappingStatus": "NEEDS MANUAL VERIFICATION",
+        "notes": "Floorplate says 2-BED C; matching detail-plan page is badged B. Unchanged by the 2026-09 brochure revision, which touched only the right-hand penthouse's badge. The two sources appear to letter by different schemes — the plate by bedroom-count type (4-BED A, 2-BED C), the sheets by position across the floor (A / B / C) — so no letter is asserted for this residence.",
+        "candidateUnitPlanId": "up-l15-2bhk-maidroom-b",
+        "candidateUnitPlan": "units-web/unit-l15-2bhk-maidroom-b.webp"
+      },
+      {
+        "id": "l15-3bed-variant-unstated",
+        "name": "3 BHK Penthouse with Jacuzzi",
+        "bedrooms": "3",
+        "variant": "C",
+        "floorplatePosition": "outer-right",
+        "unitPlanId": "up-l15-3bhk-penthouse-jacuzzi-a",
+        "unitPlan": "units-web/unit-l15-3bhk-penthouse-jacuzzi-a.webp",
+        "mappingStatus": "VERIFIED",
+        "notes": "Type letter supplied by the 2026-09 brochure revision: page 50 is now badged C. With the 4-bedroom penthouse A and the centre 2-bedroom B, the three detail sheets read A / B / C from left to right. The floorplate prints no label here."
+      }
+    ]
+  },
+  "levels": [
+    {
+      "level": "01",
+      "displayLabel": "LEVEL 01",
+      "floorGroup": "Levels 01, 05, 07 and 11",
+      "floorplateId": "fp-l01-05-07-11",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "sharedWith": [
+        "05",
+        "07",
+        "11"
+      ],
+      "residenceSetId": "rs-l01-05-07-11",
+      "residenceIds": [
+        "l01-05-07-11-1bhk-a",
+        "l01-05-07-11-1bhk-a-prime",
+        "l01-05-07-11-1bhk-study-b",
+        "l01-05-07-11-1bhk-study-b-prime",
+        "l01-05-07-11-2bhk-maidroom-a",
+        "l01-05-07-11-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "02",
+      "displayLabel": "LEVEL 02",
+      "floorGroup": "Levels 02, 04, 08 and 10",
+      "floorplateId": "fp-l02-04-08-10",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "sharedWith": [
+        "04",
+        "08",
+        "10"
+      ],
+      "residenceSetId": "rs-l02-04-08-10",
+      "residenceIds": [
+        "l02-04-08-10-1bhk-a",
+        "l02-04-08-10-1bhk-a-prime",
+        "l02-04-08-10-1bhk-study-b",
+        "l02-04-08-10-1bhk-study-b-prime",
+        "l02-04-08-10-2bhk-maidroom-a",
+        "l02-04-08-10-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "03",
+      "displayLabel": "LEVEL 03",
+      "floorGroup": "Levels 03 and 09",
+      "floorplateId": "fp-l03-09",
+      "floorplate": "floorplates-web/floorplate-l03-09.webp",
+      "sharedWith": [
+        "09"
+      ],
+      "residenceSetId": "rs-l03-09",
+      "residenceIds": [
+        "l03-09-1bhk-a",
+        "l03-09-1bhk-a-prime",
+        "l03-09-1bhk-study-b",
+        "l03-09-1bhk-study-b-prime",
+        "l03-09-2bhk-maidroom-a",
+        "l03-09-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "04",
+      "displayLabel": "LEVEL 04",
+      "floorGroup": "Levels 02, 04, 08 and 10",
+      "floorplateId": "fp-l02-04-08-10",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "sharedWith": [
+        "02",
+        "08",
+        "10"
+      ],
+      "residenceSetId": "rs-l02-04-08-10",
+      "residenceIds": [
+        "l02-04-08-10-1bhk-a",
+        "l02-04-08-10-1bhk-a-prime",
+        "l02-04-08-10-1bhk-study-b",
+        "l02-04-08-10-1bhk-study-b-prime",
+        "l02-04-08-10-2bhk-maidroom-a",
+        "l02-04-08-10-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "05",
+      "displayLabel": "LEVEL 05",
+      "floorGroup": "Levels 01, 05, 07 and 11",
+      "floorplateId": "fp-l01-05-07-11",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "sharedWith": [
+        "01",
+        "07",
+        "11"
+      ],
+      "residenceSetId": "rs-l01-05-07-11",
+      "residenceIds": [
+        "l01-05-07-11-1bhk-a",
+        "l01-05-07-11-1bhk-a-prime",
+        "l01-05-07-11-1bhk-study-b",
+        "l01-05-07-11-1bhk-study-b-prime",
+        "l01-05-07-11-2bhk-maidroom-a",
+        "l01-05-07-11-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "06",
+      "displayLabel": "LEVEL 06",
+      "floorGroup": "Level 06",
+      "floorplateId": "fp-l06",
+      "floorplate": "floorplates-web/floorplate-l06.webp",
+      "sharedWith": [],
+      "residenceSetId": "rs-l06",
+      "residenceIds": [
+        "l06-1bhk-a",
+        "l06-1bhk-a-prime",
+        "l06-1bhk-study-b",
+        "l06-1bhk-study-b-prime",
+        "l06-2bhk-maidroom-a",
+        "l06-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "07",
+      "displayLabel": "LEVEL 07",
+      "floorGroup": "Levels 01, 05, 07 and 11",
+      "floorplateId": "fp-l01-05-07-11",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "sharedWith": [
+        "01",
+        "05",
+        "11"
+      ],
+      "residenceSetId": "rs-l01-05-07-11",
+      "residenceIds": [
+        "l01-05-07-11-1bhk-a",
+        "l01-05-07-11-1bhk-a-prime",
+        "l01-05-07-11-1bhk-study-b",
+        "l01-05-07-11-1bhk-study-b-prime",
+        "l01-05-07-11-2bhk-maidroom-a",
+        "l01-05-07-11-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "08",
+      "displayLabel": "LEVEL 08",
+      "floorGroup": "Levels 02, 04, 08 and 10",
+      "floorplateId": "fp-l02-04-08-10",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "sharedWith": [
+        "02",
+        "04",
+        "10"
+      ],
+      "residenceSetId": "rs-l02-04-08-10",
+      "residenceIds": [
+        "l02-04-08-10-1bhk-a",
+        "l02-04-08-10-1bhk-a-prime",
+        "l02-04-08-10-1bhk-study-b",
+        "l02-04-08-10-1bhk-study-b-prime",
+        "l02-04-08-10-2bhk-maidroom-a",
+        "l02-04-08-10-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "09",
+      "displayLabel": "LEVEL 09",
+      "floorGroup": "Levels 03 and 09",
+      "floorplateId": "fp-l03-09",
+      "floorplate": "floorplates-web/floorplate-l03-09.webp",
+      "sharedWith": [
+        "03"
+      ],
+      "residenceSetId": "rs-l03-09",
+      "residenceIds": [
+        "l03-09-1bhk-a",
+        "l03-09-1bhk-a-prime",
+        "l03-09-1bhk-study-b",
+        "l03-09-1bhk-study-b-prime",
+        "l03-09-2bhk-maidroom-a",
+        "l03-09-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "10",
+      "displayLabel": "LEVEL 10",
+      "floorGroup": "Levels 02, 04, 08 and 10",
+      "floorplateId": "fp-l02-04-08-10",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "sharedWith": [
+        "02",
+        "04",
+        "08"
+      ],
+      "residenceSetId": "rs-l02-04-08-10",
+      "residenceIds": [
+        "l02-04-08-10-1bhk-a",
+        "l02-04-08-10-1bhk-a-prime",
+        "l02-04-08-10-1bhk-study-b",
+        "l02-04-08-10-1bhk-study-b-prime",
+        "l02-04-08-10-2bhk-maidroom-a",
+        "l02-04-08-10-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "11",
+      "displayLabel": "LEVEL 11",
+      "floorGroup": "Levels 01, 05, 07 and 11",
+      "floorplateId": "fp-l01-05-07-11",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "sharedWith": [
+        "01",
+        "05",
+        "07"
+      ],
+      "residenceSetId": "rs-l01-05-07-11",
+      "residenceIds": [
+        "l01-05-07-11-1bhk-a",
+        "l01-05-07-11-1bhk-a-prime",
+        "l01-05-07-11-1bhk-study-b",
+        "l01-05-07-11-1bhk-study-b-prime",
+        "l01-05-07-11-2bhk-maidroom-a",
+        "l01-05-07-11-2bhk-maidroom-a-prime"
+      ],
+      "mappingStatus": "VERIFIED"
+    },
+    {
+      "level": "12",
+      "displayLabel": "LEVEL 12",
+      "floorGroup": "Level 12",
+      "floorplateId": "fp-l12",
+      "floorplate": "floorplates-web/floorplate-l12.webp",
+      "sharedWith": [],
+      "residenceSetId": "rs-l12",
+      "residenceIds": [
+        "l12-3bed-a",
+        "l12-3bed-b",
+        "l12-3bed-a-prime"
+      ],
+      "mappingStatus": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "level": "13",
+      "displayLabel": "LEVEL 13",
+      "floorGroup": "Level 13",
+      "floorplateId": "fp-l13",
+      "floorplate": "floorplates-web/floorplate-l13.webp",
+      "sharedWith": [],
+      "residenceSetId": "rs-l13",
+      "residenceIds": [
+        "l13-3bed-a",
+        "l13-3bed-b",
+        "l13-3bed-a-prime"
+      ],
+      "mappingStatus": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "level": "14",
+      "displayLabel": "LEVEL 14",
+      "floorGroup": "Level 14",
+      "floorplateId": "fp-l14",
+      "floorplate": "floorplates-web/floorplate-l14.webp",
+      "sharedWith": [],
+      "residenceSetId": "rs-l14",
+      "residenceIds": [
+        "l14-3bed-a",
+        "l14-3bed-b",
+        "l14-3bed-a-prime"
+      ],
+      "mappingStatus": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "level": "15",
+      "displayLabel": "LEVEL 15",
+      "floorGroup": "Level 15 - Penthouse",
+      "floorplateId": "fp-l15",
+      "floorplate": "floorplates-web/floorplate-l15-penthouse.webp",
+      "sharedWith": [],
+      "residenceSetId": "rs-l15",
+      "residenceIds": [
+        "l15-4bed-a",
+        "l15-2bed-c",
+        "l15-3bed-variant-unstated"
+      ],
+      "mappingStatus": "NEEDS MANUAL VERIFICATION"
+    }
+  ],
+  "nonResidentialLevels": [
+    {
+      "name": "Podium level",
+      "number": null,
+      "use": "Amenities",
+      "evidencePages": [
+        20,
+        25
+      ],
+      "asset": "supporting-assets/amenities/amenity-podium-plan-01.webp",
+      "verificationStatus": "NEEDS MANUAL VERIFICATION",
+      "notes": "Page 20 explicitly locates pool, kids' splash zone and jacuzzi on the podium level. Page 25 shows an amenity layout but does not print a numbered level label."
+    }
+  ],
+  "brochureConflicts": [
+    {
+      "levels": [
+        "12",
+        "13",
+        "14"
+      ],
+      "issue": "Detailed plan badges A/B do not agree with the A/B labels on the complete floorplates when matched by geometry and locator thumbnail.",
+      "status": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "levels": [
+        "13"
+      ],
+      "issue": "RESOLVED by the 2026 brochure revisions: page 46 right is captioned Level 13, and the 2026-09 revision gives it a balcony and total of its own (670.91 / 2362.24 sq ft) where it previously repeated Level 14 B′ exactly.",
+      "status": "RESOLVED"
+    },
+    {
+      "levels": [
+        "15"
+      ],
+      "issue": "The centre 2-bedroom residence is labelled C on the floorplate but B on its detailed unit page.",
+      "status": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "levels": [
+        "15"
+      ],
+      "issue": "RESOLVED by the 2026-09 brochure revision: the right 3-bedroom penthouse detail page is now badged C, not A. The floorplate still prints no label for that residence.",
+      "status": "RESOLVED"
+    },
+    {
+      "levels": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ],
+      "issue": "Narrative copy on the A-type 1 BHK pages mentions a study, but the plan drawing labels that small room STORE. The package follows the plan label and brochure plan name 1BHK-A; Study is assigned only to B/B′ drawings that explicitly label STUDY.",
+      "status": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "levels": [],
+      "issue": "The brochure markets a 20-story tower, but only residential Levels 01-15 and an unnumbered podium amenity level are explicitly mapped. The remaining storey numbering/use is not stated.",
+      "status": "NEEDS MANUAL VERIFICATION"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "origin": "reference",
+    "events": [
+      {
+        "delta": 100,
+        "x": 320,
+        "y": 180
+      }
+    ],
+    "y": 113
+  },
+  {
+    "origin": "local",
+    "events": [
+      {
+        "delta": 100,
+        "x": 320,
+        "y": 180
+      }
+    ],
+    "y": 113
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "enterIntroActive": {
+    "reference": true,
+    "local": true
+  },
+  "introAfterEnter": {
+    "reference": {
+      "intro": false,
+      "title": "The One-Bedroom",
+      "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4"
+    },
+    "local": {
+      "intro": false,
+      "title": "The One-Bedroom",
+      "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+/* opening loader — the arch draws itself while frames arrive */
+.ol {
+  z-index: 300;
+  background: var(--ink);
+  height: 100svh;
+  color: var(--paper);
+  touch-action: none;
+  will-change: opacity;
+  contain: layout paint;
+  display: grid;
+  grid-template: 1fr / 1fr;
+  place-items: center;
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+}
+.ol__plate {
+  will-change: transform, opacity;
+  grid-area: 1 / 1;
+  width: auto;
+  height: min(42svh, 50vw);
+  overflow: visible;
+}
+.ol__line {
+  fill: none;
+  stroke: var(--paper);
+  stroke-width: 1.15px;
+  stroke-linecap: square;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1px;
+  opacity: 0;
+}
+.ol__line--soft {
+  stroke-width: 0.75px;
+  stroke-opacity: 0.5;
+}
+.ol__storeys line {
+  stroke: var(--paper);
+  stroke-width: 0.85px;
+  stroke-opacity: 0.62;
+  vector-effect: non-scaling-stroke;
+}
+.ol__level {
+  stroke: var(--paper);
+  stroke-width: 0.75px;
+  stroke-opacity: 0.34;
+  vector-effect: non-scaling-stroke;
+}
+.ol__meta,
+.ol__foot {
+  opacity: 0;
+  pointer-events: none;
+  position: absolute;
+  left: 6%;
+  right: 6%;
+  transform: translateY(10px);
+}
+.ol__meta {
+  font-family: var(--font-sans);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #f6f4f19e;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  font-size: clamp(0.56rem, 0.72vw, 0.68rem);
+  font-weight: 300;
+  top: 6svh;
+}
+.ol__pct {
+  color: #f6f4f1e0;
+  font-variant-numeric: tabular-nums;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.15em;
+}
+.ol__pct > span {
+  text-align: right;
+  min-width: 3ch;
+}
+.ol__pct i {
+  opacity: 0.45;
+  font-style: normal;
+}
+.ol__foot {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: clamp(0.5rem, 1.2vh, 0.85rem);
+  bottom: 7svh;
+}
+.ol__project {
+  display: block;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #f6f4f1eb;
+  font-family: var(--font-display);
+  font-size: clamp(1.05rem, 1.9vw, 1.6rem);
+  font-weight: 300;
+}
+.ol__place {
+  font-family: var(--font-sans);
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: #f6f4f175;
+  font-size: clamp(0.54rem, 0.7vw, 0.64rem);
+  font-weight: 300;
+}

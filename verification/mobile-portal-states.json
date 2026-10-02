@@ -1,0 +1,353 @@
+{
+  "reference-first": [
+    {
+      "class": "rp-portal",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "1055px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "187.5px 527.5px",
+        "width": "375px"
+      },
+      "rect": {
+        "bottom": 844.171875,
+        "height": 1055,
+        "left": 0,
+        "right": 375,
+        "top": -210.828125,
+        "width": 375,
+        "x": 0,
+        "y": -210.828125
+      },
+      "style": "opacity: 1; visibility: inherit;"
+    },
+    {
+      "class": "rp-portal-mask",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "inset(1347.69px 560.46px 581.62px round 191.76px 191.76px 0px 0px / 218.95px 218.95px 0px 0px)",
+        "height": "2367.19px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "752.219px 1183.59px",
+        "width": "1504.44px"
+      },
+      "rect": {
+        "bottom": 1099.203125,
+        "height": 2367.1875,
+        "left": -564.71875,
+        "right": 939.71875,
+        "top": -1267.984375,
+        "width": 1504.4375,
+        "x": -564.71875,
+        "y": -1267.984375
+      },
+      "style": "left: -564.72px; top: -1057.17px; width: 1504.44px; height: 2367.2px; clip-path: inset(1347.69px 560.46px 581.62px round 191.76px 191.76px 0px 0px / 218.95px 218.95px 0px 0px);"
+    },
+    {
+      "class": "rp-portal-content",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "844px",
+        "opacity": "1",
+        "transform": "matrix(0.54835, 0, 0, 0.54835, 338.84, 76.36)",
+        "transformOrigin": "0px 0px",
+        "width": "1500.44px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 462.807373046875,
+        "left": -223.87875366210935,
+        "right": 598.8861389160156,
+        "top": 76.3756103515625,
+        "width": 822.764892578125,
+        "x": -223.87875366210935,
+        "y": 76.3756103515625
+      },
+      "style": "left: 2px; top: 1268px; width: 1500.44px; height: 844px; transform: translate(338.84px, 76.36px) scale(0.54835);"
+    },
+    {
+      "class": "rp-portal-still",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "844px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "750.219px 422px",
+        "width": "1500.44px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 462.807373046875,
+        "left": -223.87875366210935,
+        "right": 598.8861389160156,
+        "top": 76.3756103515625,
+        "width": 822.764892578125,
+        "x": -223.87875366210935,
+        "y": 76.3756103515625
+      },
+      "style": null
+    },
+    {
+      "class": "rp-portal-capture",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "inset(3.456% 0px 0px)",
+        "height": "874.203px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "672.242px 437.102px",
+        "width": "1344.48px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 479.3692626953125,
+        "left": -181.1246032714844,
+        "right": 556.1234436035156,
+        "top": 59.813720703125,
+        "width": 737.248046875,
+        "x": -181.1246032714844,
+        "y": 59.813720703125
+      },
+      "style": "left: 77.98px; top: -30.21px; width: 1344.49px; height: 874.21px; opacity: 1;"
+    }
+  ],
+  "reference-second": [
+    {
+      "class": "rp-portal",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "1055px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "187.5px 527.5px",
+        "width": "375px"
+      },
+      "rect": {
+        "bottom": 844.171875,
+        "height": 1055,
+        "left": 0,
+        "right": 375,
+        "top": -210.828125,
+        "width": 375,
+        "x": 0,
+        "y": -210.828125
+      },
+      "style": "opacity: 1; visibility: inherit;"
+    },
+    {
+      "class": "rp-portal-mask",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "inset(1347.69px 560.46px 581.62px round 191.76px 191.76px 0px 0px / 218.95px 218.95px 0px 0px)",
+        "height": "2367.19px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "752.219px 1183.59px",
+        "width": "1504.44px"
+      },
+      "rect": {
+        "bottom": 1099.203125,
+        "height": 2367.1875,
+        "left": -564.71875,
+        "right": 939.71875,
+        "top": -1267.984375,
+        "width": 1504.4375,
+        "x": -564.71875,
+        "y": -1267.984375
+      },
+      "style": "left: -564.72px; top: -1057.17px; width: 1504.44px; height: 2367.2px; clip-path: inset(1347.69px 560.46px 581.62px round 191.76px 191.76px 0px 0px / 218.95px 218.95px 0px 0px);"
+    },
+    {
+      "class": "rp-portal-content",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "844px",
+        "opacity": "1",
+        "transform": "matrix(0.54835, 0, 0, 0.54835, 338.84, 76.36)",
+        "transformOrigin": "0px 0px",
+        "width": "1500.44px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 462.807373046875,
+        "left": -223.87875366210935,
+        "right": 598.8861389160156,
+        "top": 76.3756103515625,
+        "width": 822.764892578125,
+        "x": -223.87875366210935,
+        "y": 76.3756103515625
+      },
+      "style": "left: 2px; top: 1268px; width: 1500.44px; height: 844px; transform: translate(338.84px, 76.36px) scale(0.54835);"
+    },
+    {
+      "class": "rp-portal-still",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "844px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "750.219px 422px",
+        "width": "1500.44px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 462.807373046875,
+        "left": -223.87875366210935,
+        "right": 598.8861389160156,
+        "top": 76.3756103515625,
+        "width": 822.764892578125,
+        "x": -223.87875366210935,
+        "y": 76.3756103515625
+      },
+      "style": null
+    },
+    {
+      "class": "rp-portal-capture",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "inset(3.456% 0px 0px)",
+        "height": "874.203px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "672.242px 437.102px",
+        "width": "1344.48px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 479.3692626953125,
+        "left": -181.1246032714844,
+        "right": 556.1234436035156,
+        "top": 59.813720703125,
+        "width": 737.248046875,
+        "x": -181.1246032714844,
+        "y": 59.813720703125
+      },
+      "style": "left: 77.98px; top: -30.21px; width: 1344.49px; height: 874.21px; opacity: 1;"
+    }
+  ],
+  "local": [
+    {
+      "class": "rp-portal",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "1055px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "187.5px 527.5px",
+        "width": "375px"
+      },
+      "rect": {
+        "bottom": 844.171875,
+        "height": 1055,
+        "left": 0,
+        "right": 375,
+        "top": -210.828125,
+        "width": 375,
+        "x": 0,
+        "y": -210.828125
+      },
+      "style": "opacity: 1; visibility: inherit;"
+    },
+    {
+      "class": "rp-portal-mask",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "inset(1347.69px 560.46px 581.62px round 191.76px 191.76px 0px 0px / 218.95px 218.95px 0px 0px)",
+        "height": "2367.19px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "752.219px 1183.59px",
+        "width": "1504.44px"
+      },
+      "rect": {
+        "bottom": 1099.203125,
+        "height": 2367.1875,
+        "left": -564.71875,
+        "right": 939.71875,
+        "top": -1267.984375,
+        "width": 1504.4375,
+        "x": -564.71875,
+        "y": -1267.984375
+      },
+      "style": "left: -564.72px; top: -1057.17px; width: 1504.44px; height: 2367.2px; clip-path: inset(1347.69px 560.46px 581.62px round 191.76px 191.76px 0px 0px / 218.95px 218.95px 0px 0px);"
+    },
+    {
+      "class": "rp-portal-content",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "844px",
+        "opacity": "1",
+        "transform": "matrix(0.54835, 0, 0, 0.54835, 338.84, 76.36)",
+        "transformOrigin": "0px 0px",
+        "width": "1500.44px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 462.807373046875,
+        "left": -223.87875366210935,
+        "right": 598.8861389160156,
+        "top": 76.3756103515625,
+        "width": 822.764892578125,
+        "x": -223.87875366210935,
+        "y": 76.3756103515625
+      },
+      "style": "left: 2px; top: 1268px; width: 1500.44px; height: 844px; transform: translate(338.84px, 76.36px) scale(0.54835);"
+    },
+    {
+      "class": "rp-portal-still",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "height": "844px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "750.219px 422px",
+        "width": "1500.44px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 462.807373046875,
+        "left": -223.87875366210935,
+        "right": 598.8861389160156,
+        "top": 76.3756103515625,
+        "width": 822.764892578125,
+        "x": -223.87875366210935,
+        "y": 76.3756103515625
+      },
+      "style": null
+    },
+    {
+      "class": "rp-portal-capture",
+      "computed": {
+        "borderRadius": "0px",
+        "clipPath": "inset(3.456% 0px 0px)",
+        "height": "874.203px",
+        "opacity": "1",
+        "transform": "none",
+        "transformOrigin": "672.242px 437.102px",
+        "width": "1344.48px"
+      },
+      "rect": {
+        "bottom": 539.1829833984375,
+        "height": 479.3692626953125,
+        "left": -181.1246032714844,
+        "right": 556.1234436035156,
+        "top": 59.813720703125,
+        "width": 737.248046875,
+        "x": -181.1246032714844,
+        "y": 59.813720703125
+      },
+      "style": "left: 77.98px; top: -30.21px; width: 1344.49px; height: 874.21px; opacity: 1;"
+    }
+  ]
+}

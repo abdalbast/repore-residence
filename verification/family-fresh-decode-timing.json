@@ -1,0 +1,36 @@
+[
+  {
+    "name": "reference",
+    "result": [
+      {
+        "delay": 0,
+        "sha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e"
+      },
+      {
+        "delay": 300,
+        "sha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e"
+      },
+      {
+        "delay": 1200,
+        "sha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e"
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "result": [
+      {
+        "delay": 0,
+        "sha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e"
+      },
+      {
+        "delay": 300,
+        "sha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e"
+      },
+      {
+        "delay": 1200,
+        "sha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e"
+      }
+    ]
+  }
+]

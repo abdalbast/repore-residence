@@ -1,0 +1,18 @@
+{
+  "size": [
+    1280,
+    720
+  ],
+  "mean_channel_difference": [
+    0.11587131076388889,
+    0.10753797743055556,
+    0.11912977430555556
+  ],
+  "changed_pixel_bbox": [
+    78,
+    0,
+    1153,
+    527
+  ],
+  "exact_pixel_match": false
+}

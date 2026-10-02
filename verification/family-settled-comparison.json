@@ -1,0 +1,49 @@
+[
+  {
+    "name": "family",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": false,
+        "changed_pixels": 184108,
+        "max_channel_difference": 19,
+        "bounds": [
+          10,
+          0,
+          1162,
+          701
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": false,
+        "changed_pixels": 184108,
+        "max_channel_difference": 19,
+        "bounds": [
+          10,
+          0,
+          1162,
+          701
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": false,
+        "changed_pixels": 184108,
+        "max_channel_difference": 19,
+        "bounds": [
+          10,
+          0,
+          1162,
+          701
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  }
+]

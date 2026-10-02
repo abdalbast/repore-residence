@@ -1,0 +1,690 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1, interactive-widget=resizes-content"
+    />
+    <meta name="theme-color" content="#090c10" />
+    <meta
+      name="description"
+      content="Reposé Residence — a design-study recreation. Al Furjan, Dubai."
+    />
+    <title>Reposé Residence — Design Study</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23090c10'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='19' fill='%23f6f4f1' text-anchor='middle'%3ER%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="preload" as="image" type="image/webp" href="/assets/opening/sequence-01/webp/frame-0001.webp" fetchpriority="high" />
+    <link rel="preload" as="image" href="/assets/opening/branding/saion-logo.png" />
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/repose-display.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/repose-sans.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/repose-display-italic.woff2" crossorigin />
+    <link rel="stylesheet" href="/css/base.css" />
+    <link rel="stylesheet" href="/css/loader.css" />
+    <link rel="stylesheet" href="/css/opening.css" />
+    <link rel="stylesheet" href="/css/fx.css" />
+    <link rel="stylesheet" href="/css/fx-cue.css" />
+    <link rel="stylesheet" href="/css/fx-plate.css" />
+    <link rel="stylesheet" href="/css/rc.css" />
+    <link rel="stylesheet" href="/css/lifestyle.css" />
+    <link rel="stylesheet" href="/css/chapters.css" />
+    <link rel="stylesheet" href="/css/closing.css" />
+    <link rel="stylesheet" href="/css/responsive.css" />
+    <script src="/vendor/gsap.min.js" defer></script>
+    <script src="/vendor/ScrollTrigger.min.js" defer></script>
+    <script src="/vendor/lenis.min.js" defer></script>
+    <script src="/js/floor-data.js" defer></script>
+    <script type="module" src="/js/main.js"></script>
+  </head>
+  <body>
+    <!-- floating enquiry button -->
+    <a
+      class="wa"
+      data-shown
+      href="https://wa.me/971500000000?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Repos%C3%A9%20Residence."
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Talk to us on WhatsApp"
+      title="Talk to us on WhatsApp"
+    >
+      <span class="wa__pulse" aria-hidden="true"></span>
+      <svg class="wa__glyph" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+        <path
+          d="M16.04 3.2c-7.06 0-12.8 5.74-12.8 12.8 0 2.26.59 4.47 1.72 6.42L3.2 28.8l6.55-1.71a12.74 12.74 0 0 0 6.29 1.64h.01c7.06 0 12.8-5.74 12.8-12.8 0-3.42-1.33-6.63-3.75-9.05a12.71 12.71 0 0 0-9.06-3.68Zm0 23.31h-.01a10.63 10.63 0 0 1-5.42-1.48l-.39-.23-4.03 1.06 1.08-3.93-.26-.4a10.6 10.6 0 0 1-1.63-5.66c0-5.86 4.77-10.63 10.64-10.63 2.84 0 5.51 1.11 7.52 3.12a10.57 10.57 0 0 1 3.11 7.52c0 5.86-4.77 10.63-10.62 10.63Zm5.83-7.96c-.32-.16-1.89-.93-2.18-1.04-.29-.11-.5-.16-.72.16-.21.32-.82 1.04-1.01 1.25-.18.21-.37.24-.69.08-.32-.16-1.35-.5-2.57-1.59-.95-.85-1.59-1.9-1.78-2.22-.18-.32-.02-.49.14-.65.14-.14.32-.37.48-.56.16-.18.21-.32.32-.53.11-.21.05-.4-.03-.56-.08-.16-.72-1.73-.98-2.37-.26-.62-.52-.54-.72-.55h-.61c-.21 0-.56.08-.85.4-.29.32-1.11 1.09-1.11 2.65 0 1.56 1.14 3.07 1.3 3.28.16.21 2.24 3.42 5.43 4.79.76.33 1.35.52 1.81.67.76.24 1.45.21 2 .13.61-.09 1.89-.77 2.15-1.52.27-.75.27-1.39.19-1.52-.08-.13-.29-.21-.61-.37Z"
+        />
+      </svg>
+    </a>
+
+    <div class="cursor-label" aria-hidden="true"><span class="cursor-label__text"></span></div>
+
+    <main>
+      <!-- ============================= OPENING ============================= -->
+      <section
+        class="opening"
+        data-opening-root
+        style="height: 1380vh"
+        aria-label="Reposé Residence — the approach"
+      >
+        <div class="opening__viewport">
+          <canvas class="opening__canvas" data-opening-canvas aria-hidden="true"></canvas>
+          <div class="opening__scrim" data-opening-scrim aria-hidden="true"></div>
+
+          <!-- hero -->
+          <div class="op-hero" data-opening-hero>
+            <div class="op-hero__inner">
+              <h1 class="op-title">
+                <span class="op-line"><span class="op-line__inner" data-opening-line>Reposé</span></span>
+                <span class="op-line"><span class="op-line__inner" data-opening-line>Residence</span></span>
+              </h1>
+              <div class="op-rule" data-opening-rule></div>
+              <p class="op-tagline" data-opening-tagline>A luxurious lifestyle awaits you</p>
+            </div>
+            <a
+              class="op-brand"
+              data-opening-brand
+              href="https://saionproperties.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span class="op-brand__label">Developed by</span>
+              <img class="op-brand__mark" src="/assets/opening/branding/saion-logo.png" alt="SAION Properties" width="355" height="164" decoding="async" />
+            </a>
+          </div>
+
+          <!-- scroll hint -->
+          <div class="op-hint" data-opening-hint>
+            <div class="op-hint__inner" data-opening-hint-inner>
+              <span class="op-hint__label">Scroll</span>
+              <span class="op-hint__track"><span class="op-hint__beam"></span></span>
+              <span class="op-hint__chevron" aria-hidden="true">
+                <svg viewBox="0 0 24 14" focusable="false"><path d="M2 2 L12 11 L22 2" /></svg>
+              </span>
+            </div>
+          </div>
+
+          <!-- chapter break -->
+          <div class="cb">
+            <div class="cb__veil" data-cb-veil aria-hidden="true"></div>
+            <div class="cb__field" data-cb-field aria-hidden="true">
+              <div class="cb__grid"></div>
+              <span class="cb__rule" data-cb-rule style="left: 11%"></span>
+              <span class="cb__rule" data-cb-rule style="left: 27%"></span>
+              <span class="cb__rule" data-cb-rule style="left: 50%"></span>
+              <span class="cb__rule" data-cb-rule style="left: 73%"></span>
+              <span class="cb__rule" data-cb-rule style="left: 89%"></span>
+            </div>
+            <div class="cb__type" data-cb-type>
+              <h2 class="cb__title">
+                <span class="op-line"><span class="op-line__inner" data-cb-line>Ready</span></span>
+                <span class="op-line"><span class="op-line__inner" data-cb-line>to Rise.</span></span>
+              </h2>
+              <div class="cb__hrule" data-cb-hrule></div>
+              <p class="cb__meta" data-cb-meta>
+                <span class="cb__project">Reposé Residence</span>
+                <span class="cb__location">Al Furjan · Dubai</span>
+              </p>
+            </div>
+            <div class="cb__sweep" data-cb-sweep aria-hidden="true"></div>
+          </div>
+
+          <!-- why dubai -->
+          <div class="why-dubai" data-why-dubai aria-hidden="true">
+            <div class="why-dubai__block">
+              <span class="why-dubai__panel" data-why-panel></span>
+              <h2 class="why-dubai__heading" data-why-heading>WHY DUBAI?</h2>
+              <p class="why-dubai__body" data-why-body>
+                A city built for ambition. A life designed for possibility.<br />
+                Dubai turns momentum into a way of living.
+              </p>
+            </div>
+          </div>
+
+          <!-- tallest -->
+          <div class="tallest-building" data-tallest aria-hidden="true">
+            <span class="tallest-building__eyebrow" data-tallest-eyebrow>Reposé Residence · Al Furjan</span>
+            <span class="tallest-building__rule" data-tallest-rule></span>
+            <h2 class="tallest-building__heading" data-tallest-heading>
+              Tallest<br /><em>in Al Furjan.</em>
+            </h2>
+            <span class="tallest-building__sub" data-tallest-sub>The uptown of Dubai</span>
+          </div>
+
+          <!-- residences explorer -->
+          <div class="fx" data-fx-root data-mode="selector" aria-hidden="true">
+            <div class="fx__stage" data-fx-stage>
+              <img class="fx__building" src="/assets/opening/building/final-frame.webp" width="1920" height="1080" alt="Reposé Residence, completed" fetchpriority="low" draggable="false" />
+            </div>
+            <div class="fx__tower" data-fx-tower></div>
+            <div class="fx__dim" data-fx-dim aria-hidden="true"></div>
+            <div class="fx__scrim" data-fx-scrim aria-hidden="true"></div>
+            <div class="fx__hits" data-fx-hits></div>
+            <div class="fx__line" data-fx-line aria-hidden="true"></div>
+            <div class="fx__tag" data-fx-tag aria-hidden="true"></div>
+
+            <!-- onboarding cue -->
+            <div class="fx-cue" data-fx-cue aria-hidden="true">
+              <svg class="fx-cue__art" data-fx-cue-art aria-hidden="true" focusable="false"></svg>
+              <div class="fx-cue__copy">
+                <span class="fx-cue__eyebrow">The residences</span>
+                <span class="fx-cue__rule"></span>
+                <h3 class="fx-cue__headline">Fifteen floors.<br /><em>Every plan.</em></h3>
+                <p class="fx-cue__action">Hover the building · choose a level</p>
+              </div>
+            </div>
+
+            <!-- scroll gate -->
+            <div class="fx-gate" data-fx-gate hidden>
+              <span class="fx-gate__rule"></span>
+              <p class="fx-gate__text">Open a residence to carry on</p>
+              <button class="fx-gate__skip" data-fx-gate-skip type="button" hidden>
+                Continue without exploring <span class="fx-gate__skip-arrow">↓</span>
+              </button>
+            </div>
+
+            <!-- selector UI -->
+            <div class="fx__ui" data-fx-ui>
+              <div class="fx-terrace-cue" data-fx-terrace-cue>
+                <span class="fx-terrace-cue__rule"></span>
+                <span class="fx-terrace-cue__label">Open terrace</span>
+                <button class="fx-terrace-cue__open" data-fx-terrace type="button">
+                  Explore <span class="fx-terrace-cue__arrow">→</span>
+                </button>
+              </div>
+              <div class="fx__copy">
+                <div class="fx__copy-inner" data-fx-copy>
+                  <h2 class="fx__title">
+                    <span class="fx__title-line" data-fx-reveal>Explore</span>
+                    <span class="fx__title-line" data-fx-reveal>Residences</span>
+                  </h2>
+                  <div class="fx__rule" data-fx-reveal></div>
+                  <p class="fx__lead" data-fx-reveal>Select a level to discover the residences.</p>
+                  <div class="fx__readout" data-fx-readout aria-live="polite"></div>
+                </div>
+              </div>
+              <nav class="fx__list" data-fx-list aria-label="Levels" data-lenis-prevent data-scroll-lock-allow>
+                <ol data-fx-list-ol></ol>
+              </nav>
+            </div>
+
+            <!-- floorplate -->
+            <div class="fx-plate" data-fx-plate aria-hidden="true">
+              <div class="fx-plate__grid"></div>
+              <div class="fx-plate__head" data-fx-plate-head>
+                <button class="fx-plate__back" data-fx-plate-back type="button">
+                  <span class="fx-plate__back-rule"></span>Back to building
+                </button>
+                <h2 class="fx-plate__title" data-fx-plate-title></h2>
+                <p class="fx-plate__types" data-fx-plate-types></p>
+                <p class="fx-plate__shared" data-fx-plate-shared></p>
+                <p class="fx-plate__lead" data-fx-plate-lead>Select a residence.</p>
+                <div class="fx-plate__unit" data-fx-plate-unit></div>
+              </div>
+              <div class="fx-plate__area fx-viewport" data-fx-plate-area>
+                <div class="fx-zoom" data-fx-plate-zoom>
+                  <figure class="fx-plate__figure" data-fx-plate-figure>
+                    <img class="fx-plate__image" data-fx-plate-image alt="Floorplate" />
+                    <span class="fx-plate__guides"></span>
+                    <svg class="fx-units" data-fx-units viewBox="0 0 100 100" preserveAspectRatio="none" role="group" aria-label="Residences on this floor"></svg>
+                    <div class="fx-units__sold" data-fx-units-sold aria-hidden="true"></div>
+                    <div class="fx-units__tags" data-fx-units-tags aria-hidden="true"></div>
+                  </figure>
+                </div>
+                <button class="fx-viewport__reset" data-fx-viewport-reset type="button">
+                  <span class="fx-viewport__reset-rule"></span>Reset view
+                </button>
+              </div>
+            </div>
+
+            <!-- residence -->
+            <div class="fx-res" data-fx-res aria-hidden="true">
+              <div class="fx-res__head" data-fx-res-head>
+                <button class="fx-res__back fx-plate__back" data-fx-res-back type="button">
+                  <span class="fx-plate__back-rule"></span>Back to floor
+                </button>
+                <span class="fx-res__eyebrow" data-fx-res-eyebrow>Residence</span>
+                <h2 class="fx-res__title" data-fx-res-title></h2>
+                <p class="fx-res__variant" data-fx-res-variant></p>
+                <dl class="fx-res__meta" data-fx-res-meta></dl>
+                <button class="fx-res__view" data-fx-res-view type="button">
+                  <span class="fx-res__view-rule"></span>
+                  <span data-fx-res-view-label>View in 3D</span>
+                </button>
+                <p class="fx-res__note" data-fx-res-note hidden>3D view coming soon</p>
+                <p class="fx-res__invite" data-fx-res-invite>
+                  <span class="fx-res__invite-rule"></span>Open the full plan
+                </p>
+              </div>
+              <div class="fx-res__area fx-viewport" data-fx-res-area>
+                <div class="fx-zoom" data-fx-res-zoom>
+                  <figure class="fx-res__figure" data-fx-res-figure>
+                    <img class="fx-res__image" data-fx-res-image alt="Residence plan" />
+                    <span class="fx-res__guides"></span>
+                  </figure>
+                </div>
+                <button class="fx-viewport__reset" data-fx-viewport-reset type="button">
+                  <span class="fx-viewport__reset-rule"></span>Reset view
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- reception journey -->
+          <div class="rc" data-rc-root data-phase="idle" aria-hidden="true">
+            <div class="rc__camera" data-rc-camera>
+              <img class="rc__film" data-rc-exterior src="/assets/opening/building/final-frame.webp" alt="" draggable="false" />
+              <img class="rc__still" data-rc-still data-rc-exterior src="/assets/reception-entry/building-final.webp" alt="Reposé Residence, the entrance" draggable="false" />
+              <div class="rc__through" data-rc-through>
+                <img src="/assets/reception-entry/reception-final.webp" alt="" draggable="false" />
+              </div>
+              <div class="rc__aperture" data-rc-exterior>
+                <div class="rc__leaf" data-rc-leaf="left"></div>
+                <div class="rc__leaf" data-rc-leaf="right"></div>
+              </div>
+              <div class="rc__streak" data-rc-streak aria-hidden="true"></div>
+            </div>
+            <div class="rc__vignette" data-rc-vignette aria-hidden="true"></div>
+            <div class="rc__bloom" data-rc-bloom aria-hidden="true"></div>
+            <div class="rc__inside" data-rc-inside>
+              <img src="/assets/reception-entry/reception-final.webp" alt="The Reposé reception" draggable="false" />
+            </div>
+            <button class="rc__back" data-rc-back type="button" tabindex="-1">
+              <span class="rc__back-rule"></span>Back outside
+            </button>
+            <p class="rc__welcome" data-rc-welcome aria-hidden="true">Welcome to Reposé</p>
+            <p class="rc__onward" data-rc-onward>Scroll to continue <span class="rc__onward-arrow">↓</span></p>
+            <button class="rc__explore" data-rc-explore type="button" tabindex="-1">
+              Explore Reposé <span class="rc__explore-arrow">→</span>
+            </button>
+          </div>
+
+          <div class="opening__meter" data-opening-meter>
+            <div class="opening__meter-fill" data-opening-meter-fill></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============================= LIFESTYLE CHAPTER ============================= -->
+      <div class="repose-experience" data-repose-root data-phase="residence">
+        <!-- prologue: interiors film gallery -->
+        <section class="ri" id="residence" aria-labelledby="ri-title">
+          <svg class="ri-botanical ri-botanical--top-left" viewBox="-40 -40 400 340" aria-hidden="true" focusable="false">
+            <g class="ri-botanical__stems" fill="none" stroke="currentColor" stroke-width="1.1">
+              <path d="M60 300 C 90 220, 70 150, 110 60" />
+              <path d="M120 300 C 140 230, 120 160, 170 90" />
+              <path d="M180 300 C 190 240, 180 190, 230 130" />
+              <path d="M30 290 C 50 240, 40 200, 20 150" />
+            </g>
+            <g class="ri-botanical__leaves" fill="none" stroke="currentColor" stroke-width="1">
+              <ellipse cx="88" cy="210" rx="26" ry="11" transform="rotate(-38 88 210)" />
+              <ellipse cx="120" cy="170" rx="24" ry="10" transform="rotate(28 120 170)" />
+              <ellipse cx="146" cy="215" rx="22" ry="9" transform="rotate(-24 146 215)" />
+              <ellipse cx="170" cy="150" rx="26" ry="10" transform="rotate(34 170 150)" />
+              <ellipse cx="204" cy="180" rx="20" ry="9" transform="rotate(-30 204 180)" />
+            </g>
+            <g class="ri-botanical__buds" fill="currentColor">
+              <circle cx="110" cy="60" r="3.2" />
+              <circle cx="170" cy="90" r="2.6" />
+              <circle cx="230" cy="130" r="2.4" />
+              <circle cx="20" cy="150" r="2.2" />
+            </g>
+          </svg>
+          <svg class="ri-botanical ri-botanical--bottom-right" viewBox="-40 -40 400 340" aria-hidden="true" focusable="false">
+            <g class="ri-botanical__stems" fill="none" stroke="currentColor" stroke-width="1.1">
+              <path d="M60 300 C 90 220, 70 150, 110 60" />
+              <path d="M140 300 C 160 240, 140 180, 200 110" />
+              <path d="M210 300 C 220 250, 210 210, 260 160" />
+            </g>
+            <g class="ri-botanical__leaves" fill="none" stroke="currentColor" stroke-width="1">
+              <ellipse cx="92" cy="206" rx="25" ry="10" transform="rotate(-34 92 206)" />
+              <ellipse cx="152" cy="196" rx="23" ry="9" transform="rotate(30 152 196)" />
+              <ellipse cx="196" cy="150" rx="24" ry="10" transform="rotate(-26 196 150)" />
+            </g>
+            <g class="ri-botanical__buds" fill="currentColor">
+              <circle cx="110" cy="60" r="3" />
+              <circle cx="200" cy="110" r="2.6" />
+              <circle cx="260" cy="160" r="2.2" />
+            </g>
+          </svg>
+
+          <div class="ri__page">
+            <div class="ri__head">
+              <p class="ri__eyebrow t-ui"><span>The residence</span><i></i></p>
+              <h2 id="ri-title" class="ri__title t-display">
+                <span class="rp-clip"><span>Rooms made for</span></span>
+                <span class="rp-clip"><span><em>the everyday.</em></span></span>
+              </h2>
+              <p class="ri__lead">Four rooms, and the life they are drawn around.</p>
+            </div>
+            <span class="ri__place t-micro">Reposé Residence · Al Furjan, Dubai</span>
+            <ul class="ri__cards" data-ri-cards></ul>
+            <span class="ri__select t-micro">Select a room</span>
+          </div>
+          <div class="ri__tail" data-residence-tail>
+            <span class="ri__tail-rule"></span>
+            <span class="ri__tail-word t-micro">Continue</span>
+            <span class="ri__tail-next t-display">The amenities</span>
+            <span class="ri__tail-arrow">↓</span>
+          </div>
+        </section>
+
+        <!-- chapters -->
+        <div class="rp-main" data-rp-main hidden>
+          <header class="rp-ui rp-header" aria-label="Experience navigation">
+            <button class="rp-brand" data-rp-brand type="button"><span>Reposé</span><small>Residence</small></button>
+            <div class="rp-header-right">
+              <button class="rp-menu-button" data-rp-menu type="button">
+                The chapters
+                <span class="rp-menu-lines"><i></i><i></i></span>
+              </button>
+              <button class="rp-header-enquire" data-rp-enquire type="button">Enquire <span>↗</span></button>
+            </div>
+          </header>
+
+          <aside class="rp-ui rp-progress" aria-label="Journey progress">
+            <span data-progress-count>00</span>
+            <div class="rp-progress-track"><i data-progress-line></i></div>
+            <span class="rp-scroll-word">Scroll</span>
+            <span>↓</span>
+          </aside>
+          <div class="rp-ui rp-chapter-index"><span data-chapter-count>01</span><i></i><span>10</span></div>
+
+          <!-- 01 amenities index -->
+          <section class="rp-index" id="life" data-chapter="01" aria-labelledby="life-title">
+            <div class="rp-index-head">
+              <p class="rp-eyebrow"><span>01</span><i></i><span>The amenity collection</span></p>
+              <h1 id="life-title" class="rp-index-title t-display">
+                <span class="rp-clip"><span>Every way</span></span>
+                <span class="rp-clip"><span><em>to spend a day.</em></span></span>
+              </h1>
+              <p class="rp-index-lead">Twelve addresses inside one address — a podium given entirely to the hours between.</p>
+            </div>
+            <div class="rp-index-body">
+              <figure class="rp-index-stage" aria-hidden="true" data-rp-index-stage></figure>
+              <ol class="rp-index-list" data-rp-index-list></ol>
+            </div>
+            <div class="rp-index-foot">
+              <span class="rp-micro">Twelve amenities · Podium level</span>
+              <button class="rp-text-link" type="button" data-rp-rhythm-link>Discover your rhythm <span>↗</span></button>
+            </div>
+          </section>
+
+          <!-- 02 horizontal wellness -->
+          <section class="rp-horizontal" id="rhythm" data-chapter="02" aria-labelledby="rhythm-title">
+            <div class="rp-horizontal-stage">
+              <div class="rp-horizon-top">
+                <span class="rp-micro">Wellness &amp; wellbeing</span>
+                <span class="rp-micro">The Reposé collection</span>
+              </div>
+              <div class="rp-panels" data-rp-panels></div>
+              <nav class="rp-scene-nav" aria-label="Wellness scenes" data-rp-scene-nav></nav>
+              <div class="rp-scene-line"><span data-rp-scene-line></span></div>
+            </div>
+          </section>
+
+          <!-- 03 water -->
+          <section class="rp-water" id="water" data-chapter="03" aria-labelledby="water-title">
+            <div class="rp-water-stage">
+              <div class="rp-water-visual">
+                <video class="rp-water-film" src="/assets/amenity-videos/pool.mp4" poster="/assets/amenity-videos/pool-poster.webp" muted loop playsinline preload="metadata"></video>
+                <div class="rp-water-shade"></div>
+                <p class="rp-eyebrow"><span>03</span><i></i><span>By the water</span></p>
+                <h2 id="water-title" class="rp-water-title t-display">Nothing to do.<br /><em>Everything to feel.</em></h2>
+                <button class="rp-hotspot rp-hotspot-one" type="button" data-rp-hotspot="pool" aria-label="The pool"><i></i><span class="rp-hotspot-label rp-micro">The pool</span></button>
+                <span class="rp-water-caption rp-micro">All-weather pool · Podium level</span>
+              </div>
+              <div class="rp-curve-sheet">
+                <span class="rp-curve-top rp-micro">The pleasure of pausing</span>
+                <h2 class="rp-curve-title t-display">Less rush.<br /><em>More Reposé.</em></h2>
+                <div class="rp-curve-bottom">
+                  <span class="rp-serif-mark">R.</span>
+                  <figure><img src="/assets/repose-experience/pool-02.webp" alt="Pool detail" loading="lazy" /></figure>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- 04 open terrace -->
+          <section class="rp-terrace rp-dark" id="terrace" data-chapter="04" aria-labelledby="terrace-title">
+            <div class="rp-terrace-photo rp-parallax">
+              <img src="/assets/repose-experience/open-terrace-01.webp" alt="The open terrace" loading="lazy" />
+            </div>
+            <div class="rp-terrace-shade"></div>
+            <div class="rp-terrace-heading">
+              <p class="rp-eyebrow"><span>04</span><i></i><span>The open terrace</span></p>
+              <h2 id="terrace-title" class="rp-reveal t-display">Above the<br /><em>everyday.</em></h2>
+            </div>
+            <div class="rp-terrace-bottom">
+              <p>Skyline views, planted edges, and room to gather.</p>
+              <span class="rp-micro">Space to gather.<br />Time to connect.</span>
+            </div>
+          </section>
+
+          <!-- 05 family -->
+          <section class="rp-family" id="family" data-chapter="05" aria-labelledby="family-title">
+            <div class="rp-family-head">
+              <p class="rp-eyebrow"><span>05</span><i></i><span>Space to grow</span></p>
+              <h2 id="family-title" class="rp-reveal t-display">For every<br /><em>generation.</em></h2>
+            </div>
+            <figure class="rp-family-main rp-mask-reveal">
+              <img class="rp-family-main__image" src="/assets/repose-experience/family-01.webp" alt="Family spaces" loading="lazy" />
+              <figcaption class="rp-micro">Play, gather, rest</figcaption>
+            </figure>
+            <figure class="rp-family-inset rp-mask-reveal">
+              <img class="rp-family-inset__image" src="/assets/repose-experience/kids-play-01.webp" alt="Kids play area" loading="lazy" />
+            </figure>
+            <div class="rp-family-copy">
+              <span class="rp-small">Designed around the people who live here</span>
+              <p>Landscaped pockets, shaded play, and lawns that belong to everyone. The podium is a shared garden first, an amenity second.</p>
+              <span class="rp-micro">01 — 03 · Podium</span>
+            </div>
+            <span class="rp-family-word" aria-hidden="true">together.</span>
+          </section>
+
+          <!-- 06 interiors -->
+          <section class="rp-interiors rp-dark" id="interiors" data-chapter="06" aria-labelledby="interiors-title">
+            <div class="rp-interior-stage">
+              <p class="rp-eyebrow"><span>06</span><i></i><span>The feeling of home</span></p>
+              <figure class="rp-interior-wide">
+                <img src="/assets/repose-experience/interior-living-01.webp" alt="Living room" loading="lazy" />
+              </figure>
+              <h2 id="interiors-title" class="t-display">The luxury of<br /><em>coming home.</em></h2>
+              <figure class="rp-interior-tall">
+                <img src="/assets/repose-experience/interior-kitchen-01.webp" alt="Kitchen" loading="lazy" />
+              </figure>
+              <figure class="rp-interior-bedroom">
+                <img src="/assets/repose-experience/interior-bedroom-01.webp" alt="Bedroom" loading="lazy" />
+              </figure>
+              <div class="rp-interior-caption">
+                <span class="rp-micro">Residential bliss</span>
+                <p>Light that moves through the day, rooms that hold their calm, and finishes chosen to age well.</p>
+              </div>
+            </div>
+          </section>
+
+          <!-- 07 essentials -->
+          <section class="rp-essentials" id="essentials" data-chapter="07" aria-labelledby="essentials-title">
+            <div class="rp-essentials-intro">
+              <p class="rp-eyebrow"><span>07</span><i></i><span>Living essentials</span></p>
+              <h2 id="essentials-title" class="rp-reveal t-display">Considered<br /><em>in every detail.</em></h2>
+              <figure class="rp-mask-reveal">
+                <img src="/assets/repose-experience/interior-dining-01.webp" alt="Dining" loading="lazy" />
+              </figure>
+              <p>Specification as a form of hospitality — the things you notice once, then rely on every day.</p>
+            </div>
+            <div class="rp-essential-facts" data-rp-facts></div>
+          </section>
+
+          <!-- 08 connected -->
+          <section class="rp-connected rp-dark" id="connected" data-chapter="08" aria-labelledby="connected-title">
+            <div class="rp-connected-image rp-parallax">
+              <img src="/assets/repose-experience/al-furjan-01.webp" alt="Al Furjan" loading="lazy" />
+            </div>
+            <div class="rp-connected-shade"></div>
+            <div class="rp-connected-inner">
+              <p class="rp-eyebrow"><span>08</span><i></i><span>Al Furjan · Dubai</span></p>
+              <h2 id="connected-title" class="rp-reveal t-display">Your world.<br /><em>Within reach.</em></h2>
+              <div class="rp-place-line"><span>Reposé</span><i></i><span>Al Furjan</span><i></i><span>Dubai</span></div>
+              <div class="rp-connections" data-rp-connections></div>
+              <div class="rp-connected-bottom"><span class="rp-micro">Minutes by car</span></div>
+            </div>
+          </section>
+
+          <!-- 09 amenities map -->
+          <section class="rp-map" id="amenities-map" data-chapter="09" aria-labelledby="map-title">
+            <div class="rp-map-head">
+              <p class="rp-eyebrow"><span>09</span><i></i><span>Amenities map</span></p>
+              <h2 id="map-title" class="rp-map-title rp-reveal t-display">The podium,<br /><em>drawn to scale.</em></h2>
+              <p class="rp-map-lead">Every amenity placed, connected, and a short walk from your door.</p>
+            </div>
+            <figure class="rp-map-figure">
+              <div class="rp-map-plate">
+                <img src="/assets/amenities/map.webp" width="1754" height="987" alt="Amenities map" loading="lazy" />
+                <span class="rp-map-mark" style="left: 22%; top: 42%"><i></i><span class="rp-map-mark__label rp-micro">Adults' pool</span></span>
+                <span class="rp-map-mark" style="left: 40.4%; top: 16%"><i></i><span class="rp-map-mark__label rp-micro">Kids' pool</span></span>
+                <span class="rp-map-mark" style="left: 54%; top: 13%"><i></i><span class="rp-map-mark__label rp-micro">Pickleball</span></span>
+                <span class="rp-map-mark" style="left: 86%; top: 62%"><i></i><span class="rp-map-mark__label rp-micro">Kids' play</span></span>
+                <span class="rp-map-mark" style="left: 60%; top: 84%"><i></i><span class="rp-map-mark__label rp-micro">Walking track</span></span>
+                <span class="rp-map-mark" style="left: 23.6%; top: 88%"><i></i><span class="rp-map-mark__label rp-micro">Jacuzzi</span></span>
+              </div>
+              <figcaption class="rp-map-note rp-micro">Podium level · Not to scale</figcaption>
+            </figure>
+          </section>
+
+          <!-- 10 finale -->
+          <section class="rp-finale rp-dark" id="finale" data-chapter="10" aria-labelledby="finale-title">
+            <span class="rp-final-intro rp-micro">This is your next chapter.</span>
+            <h2 id="finale-title" class="rp-final-word t-display">Reposé</h2>
+            <figure class="rp-final-image">
+              <img src="/assets/repose-experience/tower-original.png" alt="Reposé Residence" loading="lazy" />
+            </figure>
+            <div class="rp-portal" data-rp-portal aria-hidden="true">
+              <div class="rp-portal-mask" data-rp-mask>
+                <div class="rp-portal-content" data-rp-content>
+                  <img class="rp-portal-still" data-rp-b src="/assets/opening/building/final-frame.webp" alt="" />
+                  <img class="rp-portal-capture" data-rp-a src="/assets/repose-experience/tower-original.png" alt="" />
+                </div>
+              </div>
+            </div>
+            <div class="rp-final-call">
+              <p>Make room for<br /><em>a different rhythm.</em></p>
+              <a class="rp-final-cta" href="https://wa.me/971500000000" target="_blank" rel="noopener noreferrer">Enquire about Reposé <span>↗</span></a>
+            </div>
+            <div class="rp-final-base">
+              <button class="rp-text-link" data-rp-restart type="button">Back to the building <span>↑</span></button>
+            </div>
+          </section>
+        </div>
+
+        <!-- arrival -->
+        <div data-arrival-root>
+          <section class="arrival">
+            <div class="arrival__frame">
+              <img src="/assets/opening/building/final-frame.webp" alt="Reposé Residence" />
+            </div>
+            <div class="arrival__brand">
+              <span class="arrival__mark">Reposé Residence<br />Al Furjan · Dubai</span>
+              <a class="arrival__logo-link" href="https://saionproperties.com/" target="_blank" rel="noopener noreferrer">
+                <img class="arrival__logo" src="/assets/opening/branding/saion-logo.png" alt="SAION Properties" width="355" height="164" />
+              </a>
+            </div>
+          </section>
+        </div>
+
+        <!-- closing -->
+        <section class="closing" data-closing>
+          <div class="closing__inner">
+            <p class="rp-eyebrow"><span>Your next chapter</span></p>
+            <span class="closing__rule"></span>
+            <h2 class="closing__title t-display">Let's talk<br /><em>about Reposé.</em></h2>
+            <div class="closing__actions">
+              <button class="closing__watch" data-closing-watch type="button">
+                <span class="closing__watch-halo"></span>
+                <span class="attn" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+                <span class="closing__watch-glyph">▶</span>
+                Watch the walkthrough
+              </button>
+              <a class="closing__cta" href="https://wa.me/971500000000" target="_blank" rel="noopener noreferrer">Contact us <span>↗</span></a>
+            </div>
+            <p class="closing__details">
+              <a href="mailto:sales@example.com">sales@example.com</a>
+              <span>·</span>
+              <a href="tel:+971500000000">+971 50 000 0000</a>
+            </p>
+            <button class="closing__restart" data-closing-restart type="button">↑ Return to beginning</button>
+          </div>
+          <span class="closing__foot">Reposé Residence · Al Furjan · Dubai</span>
+        </section>
+      </div>
+    </main>
+
+    <!-- loader -->
+    <div class="ol" data-opening-loader role="status" aria-live="polite" aria-label="Loading Reposé Residence">
+      <div class="ol__meta" data-ol-meta>
+        <span>SAION Properties</span>
+        <span class="ol__pct"><span data-ol-pct>00</span><i>%</i></span>
+      </div>
+      <svg class="ol__plate" data-ol-plate viewBox="0 60 220 216" fill="none" aria-hidden="true" focusable="false">
+        <defs>
+          <clipPath id="ol-arch"><path d="M70 262 V140 A40 40 0 0 1 150 140 V262 Z" /></clipPath>
+          <clipPath id="ol-rise"><rect data-ol-rise x="60" y="90" width="100" height="182" /></clipPath>
+        </defs>
+        <g clip-path="url(#ol-arch)">
+          <g class="ol__storeys" clip-path="url(#ol-rise)">
+            <line x1="70" y1="250" x2="150" y2="250" />
+            <line x1="70" y1="236" x2="150" y2="236" />
+            <line x1="70" y1="222" x2="150" y2="222" />
+            <line x1="70" y1="208" x2="150" y2="208" />
+            <line x1="70" y1="194" x2="150" y2="194" />
+            <line x1="70" y1="180" x2="150" y2="180" />
+            <line x1="70" y1="166" x2="150" y2="166" />
+            <line x1="70" y1="152" x2="150" y2="152" />
+            <line x1="70" y1="138" x2="150" y2="138" />
+            <line x1="70" y1="124" x2="150" y2="124" />
+            <line x1="70" y1="110" x2="150" y2="110" />
+          </g>
+          <line class="ol__level" data-ol-level x1="56" y1="262" x2="164" y2="262" />
+        </g>
+        <path class="ol__line" data-ol-draw data-ol-ground d="M14 262 H206" pathLength="1" />
+        <path class="ol__line" data-ol-draw data-ol-outer d="M56 262 V128 A54 54 0 0 1 164 128 V262" pathLength="1" />
+        <path class="ol__line ol__line--soft" data-ol-draw data-ol-inner d="M70 262 V140 A40 40 0 0 1 150 140 V262" pathLength="1" />
+      </svg>
+      <div class="ol__foot" data-ol-foot>
+        <span class="ol__project">Reposé Residence</span>
+        <span class="ol__place">Al Furjan · Dubai</span>
+      </div>
+    </div>
+
+    <!-- modal + walkthrough (lifestyle) -->
+    <div class="rp-dialog" data-repose-modal hidden>
+      <div class="rp-dialog__overlay" data-dialog-overlay></div>
+      <div class="rp-dialog__panel" data-dialog-panel>
+        <button class="rp-dialog__close" data-dialog-close type="button" aria-label="Close">×</button>
+        <div class="rp-dialog__body" data-dialog-body></div>
+      </div>
+    </div>
+
+    <div class="ws" data-ws-root hidden data-lenis-prevent data-scroll-lock-allow>
+      <header class="ws__top">
+        <span class="rp-micro">Walkthrough</span>
+        <button class="ws__close" data-ws-close type="button" aria-label="Close walkthrough">×</button>
+      </header>
+      <div class="ws__frame" data-ws-frame>
+        <div class="ws__picture" data-ws-picture></div>
+      </div>
+      <footer class="ws__foot">
+        <div class="ws__meta">
+          <span class="ws__index rp-micro" data-ws-index>01 / 02</span>
+          <h3 class="ws__title t-display" data-ws-title>One bedroom</h3>
+          <p class="ws__subtitle rp-micro" data-ws-subtitle>0:59 · Interior film</p>
+        </div>
+        <nav class="ws__nav" data-ws-nav>
+          <button class="ws__arrow" data-ws-prev type="button" aria-label="Previous">←</button>
+          <span class="ws__dots" data-ws-dots></span>
+          <button class="ws__arrow" data-ws-next type="button" aria-label="Next">→</button>
+        </nav>
+      </footer>
+    </div>
+  </body>
+</html>

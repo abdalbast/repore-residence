@@ -1,0 +1,375 @@
+[
+  {
+    "name": "steam",
+    "total": {
+      "changed": 18177,
+      "max": 59,
+      "over1": 10173,
+      "over8": 5996,
+      "bbox": [
+        205,
+        212,
+        1101,
+        695
+      ]
+    },
+    "topHeader": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "rightPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "leftPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "bottom": {
+      "changed": 2,
+      "max": 7,
+      "over1": 2,
+      "over8": 0,
+      "bbox": [
+        871,
+        34,
+        873,
+        35
+      ]
+    },
+    "outsideVisibleTextBoxes": {
+      "changed": 122,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        860,
+        403,
+        1029,
+        559
+      ]
+    }
+  },
+  {
+    "name": "zen",
+    "total": {
+      "changed": 82859,
+      "max": 8,
+      "over1": 2200,
+      "over8": 0,
+      "bbox": [
+        249,
+        157,
+        1012,
+        575
+      ]
+    },
+    "topHeader": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "rightPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "leftPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "bottom": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "outsideGarden": {
+      "changed": 13,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        249,
+        367,
+        692,
+        480
+      ]
+    }
+  },
+  {
+    "name": "terrace",
+    "total": {
+      "changed": 66,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        298,
+        17,
+        798,
+        278
+      ]
+    },
+    "topHeader": {
+      "changed": 4,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        298,
+        17,
+        581,
+        103
+      ]
+    },
+    "rightPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "leftPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "bottom": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    }
+  },
+  {
+    "name": "family",
+    "total": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "topHeader": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "rightPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "leftPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "bottom": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    }
+  },
+  {
+    "name": "finale",
+    "total": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "topHeader": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "rightPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "leftPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "bottom": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    }
+  },
+  {
+    "name": "expansion",
+    "total": {
+      "changed": 53,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        42,
+        483,
+        1223,
+        674
+      ]
+    },
+    "topHeader": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "rightPerimeter": {
+      "changed": 19,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        48,
+        492,
+        85,
+        632
+      ]
+    },
+    "leftPerimeter": {
+      "changed": 34,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        42,
+        483,
+        79,
+        674
+      ]
+    },
+    "bottom": {
+      "changed": 2,
+      "max": 1,
+      "over1": 0,
+      "over8": 0,
+      "bbox": [
+        57,
+        12,
+        78,
+        14
+      ]
+    }
+  },
+  {
+    "name": "exchange",
+    "total": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "topHeader": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "rightPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "leftPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "bottom": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    }
+  },
+  {
+    "name": "arrival",
+    "total": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "topHeader": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "rightPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "leftPerimeter": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    },
+    "bottom": {
+      "changed": 0,
+      "max": 0,
+      "over1": 0,
+      "over8": 0,
+      "bbox": null
+    }
+  }
+]

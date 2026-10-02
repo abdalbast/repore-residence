@@ -1,0 +1,1220 @@
+[
+  {
+    "name": "reference",
+    "checkpoint": "opening",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 0
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "stable": true
+    },
+    "fonts": [
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeSans",
+        "status": "loaded"
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "checkpoint": "opening",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 0
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "stable": true
+    },
+    "fonts": [
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeSans",
+        "status": "loaded"
+      }
+    ]
+  },
+  {
+    "name": "reference",
+    "checkpoint": "opening-ready",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 23
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 23
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 23
+      },
+      "stable": true
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "opening-ready",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 23
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 23
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 23
+      },
+      "stable": true
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "unit-selection",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": true,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 5992
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 5992
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 5992
+      },
+      "stable": true
+    },
+    "data": [
+      {
+        "active": "true",
+        "fxRoot": "true",
+        "mode": "floorplate",
+        "revealed": "true"
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "checkpoint": "unit-selection",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": true,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 6090
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 6090
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 6090
+      },
+      "stable": true
+    },
+    "data": [
+      {
+        "active": "true",
+        "fxRoot": "true",
+        "mode": "floorplate",
+        "revealed": "true"
+      }
+    ]
+  },
+  {
+    "name": "reference",
+    "checkpoint": "unit-plan-ready",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": true,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 5992
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 5992
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 5992
+      },
+      "stable": true
+    },
+    "region": []
+  },
+  {
+    "name": "local",
+    "checkpoint": "unit-plan-ready",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": true,
+      "h": 844,
+      "height": 11647,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 6090
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 6090
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 6090
+      },
+      "stable": true
+    },
+    "region": []
+  },
+  {
+    "name": "reference",
+    "checkpoint": "finale-footer",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 30595
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 30595
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 30595
+      },
+      "stable": true
+    },
+    "links": [
+      {
+        "href": "https://wa.me/971563960318?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Repos%C3%A9%20Residence.",
+        "text": "Contact us↗"
+      },
+      {
+        "href": "mailto:info@saionproperties.com",
+        "text": "info@saionproperties.com"
+      },
+      {
+        "href": "https://wa.me/971563960318?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Repos%C3%A9%20Residence.",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "checkpoint": "finale-footer",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 30595
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 30595
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 30595
+      },
+      "stable": true
+    },
+    "links": [
+      {
+        "href": "mailto:info@tapsagency.com",
+        "text": "info@tapsagency.com"
+      }
+    ]
+  },
+  {
+    "name": "reference",
+    "checkpoint": "footer-accessible",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 31439
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 31439
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 31439
+      },
+      "stable": true
+    },
+    "visibleLinks": [
+      {
+        "href": "https://wa.me/971563960318?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Repos%C3%A9%20Residence.",
+        "text": "Contact us↗"
+      },
+      {
+        "href": "mailto:info@saionproperties.com",
+        "text": "info@saionproperties.com"
+      },
+      {
+        "href": "tel:+97142614002",
+        "text": "+971 42 61 4002"
+      },
+      {
+        "href": "https://wa.me/971563960318?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20Repos%C3%A9%20Residence.",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "checkpoint": "footer-accessible",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 31439
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 31439
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 31439
+      },
+      "stable": true
+    },
+    "visibleLinks": [
+      {
+        "href": "mailto:info@tapsagency.com",
+        "text": "info@tapsagency.com"
+      },
+      {
+        "href": "tel:+97142614002",
+        "text": "+971 42 61 4002"
+      }
+    ]
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-open",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "dialog": [
+      {
+        "label": "Interior film",
+        "rect": {
+          "bottom": 844,
+          "height": 844,
+          "left": 0,
+          "right": 390,
+          "top": 0,
+          "width": 390,
+          "x": 0,
+          "y": 0
+        },
+        "text": "←Interiors"
+      },
+      {
+        "label": null,
+        "rect": {
+          "bottom": 696.7421875,
+          "height": 549.484375,
+          "left": 16,
+          "right": 374,
+          "top": 147.2578125,
+          "width": 358,
+          "x": 16,
+          "y": 147.2578125
+        },
+        "text": "CLOSE ×YOUR NEXT CHAPTERLet’s talkabout Reposé.Contact SAION Properties to learn more about Reposé Residence.EMAILinfo@saionproperties.com↗CALL+971 42 61 4002↗SAION PROPERTIES · AL FURJAN, DUBAI"
+      }
+    ],
+    "focus": {
+      "label": null,
+      "tag": "DIV",
+      "text": "CLOSE ×YOUR NEXT CHAPTERLet’s talkabout Reposé.Contact SAION"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-open",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "dialog": [
+      {
+        "label": "Interior film",
+        "rect": {
+          "bottom": 844,
+          "height": 844,
+          "left": 0,
+          "right": 390,
+          "top": 0,
+          "width": 390,
+          "x": 0,
+          "y": 0
+        },
+        "text": "←Interiors"
+      },
+      {
+        "label": null,
+        "rect": {
+          "bottom": 696.7421875,
+          "height": 549.484375,
+          "left": 16,
+          "right": 374,
+          "top": 147.2578125,
+          "width": 358,
+          "x": 16,
+          "y": 147.2578125
+        },
+        "text": "CLOSE ×YOUR NEXT CHAPTERLet’s talkabout Reposé.Contact TAPS AGENCY to learn more about Reposé Residence.EMAILinfo@tapsagency.com↗CALL+971 42 61 4002↗TAPS AGENCY · AL FURJAN, DUBAI"
+      }
+    ],
+    "focus": {
+      "label": null,
+      "tag": "DIV",
+      "text": "CLOSE ×YOUR NEXT CHAPTERLet’s talkabout Reposé.Contact TAPS "
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-tab-0",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": null,
+      "tag": "BUTTON",
+      "text": "CLOSE ×"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-tab-0",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": null,
+      "tag": "BUTTON",
+      "text": "CLOSE ×"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-tab-1",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": "mailto:info@saionproperties.com",
+      "tag": "A",
+      "text": "EMAILinfo@saionproperties.com↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-tab-1",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": "mailto:info@tapsagency.com",
+      "tag": "A",
+      "text": "EMAILinfo@tapsagency.com↗"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-tab-2",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": "tel:+97142614002",
+      "tag": "A",
+      "text": "CALL+971 42 61 4002↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-tab-2",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": "tel:+97142614002",
+      "tag": "A",
+      "text": "CALL+971 42 61 4002↗"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-tab-3",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": null,
+      "tag": "BUTTON",
+      "text": "CLOSE ×"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-tab-3",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "focus": {
+      "href": null,
+      "tag": "BUTTON",
+      "text": "CLOSE ×"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-wheel",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-wheel",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-close-0",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-close-0",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-close-1",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-close-1",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-close-2",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-close-2",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-close-3",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-close-3",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-close-4",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-close-4",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "reference",
+    "checkpoint": "enquiry-close-5",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  },
+  {
+    "name": "local",
+    "checkpoint": "enquiry-close-5",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "capture": {
+      "pre": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "post": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 29714
+      },
+      "stable": true
+    },
+    "focus": {
+      "tag": "BUTTON",
+      "text": "ENQUIRE ↗"
+    }
+  }
+]

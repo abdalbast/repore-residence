@@ -1,0 +1,144 @@
+[
+  {
+    "name": "reference",
+    "profile": "normal loading",
+    "result": {
+      "bitmap": [
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": false
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": true
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": false
+        }
+      ],
+      "blob": [
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": true
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        }
+      ],
+      "delivery": {
+        "bytes": 152146,
+        "sha256": "bbea596f093e8b99975cf7349063ef6eb8191e1e2fd069ee3eaed3f5133e105c",
+        "type": "image/webp"
+      },
+      "native": [
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": true
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        }
+      ]
+    }
+  },
+  {
+    "name": "local",
+    "profile": "normal loading",
+    "result": {
+      "bitmap": [
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": false
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": true
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": false
+        }
+      ],
+      "blob": [
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": true
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        }
+      ],
+      "delivery": {
+        "bytes": 152146,
+        "sha256": "bbea596f093e8b99975cf7349063ef6eb8191e1e2fd069ee3eaed3f5133e105c",
+        "type": "image/webp"
+      },
+      "native": [
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+          "width": 1920,
+          "willReadFrequently": true
+        },
+        {
+          "height": 1080,
+          "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+          "width": 1920,
+          "willReadFrequently": false
+        }
+      ]
+    }
+  }
+]

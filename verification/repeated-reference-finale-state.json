@@ -1,0 +1,176 @@
+{
+  "first": {
+    "animations": [],
+    "computed": {
+      "animation": "none",
+      "clipPath": "none",
+      "filter": "none",
+      "height": "440px",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "opacity": "1",
+      "transform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "transformOrigin": "151.797px 220px",
+      "width": "303.594px"
+    },
+    "currentSrc": "https://reposeresidence.com/assets/repose-experience/tower-original.png",
+    "natural": [
+      1600,
+      1040
+    ],
+    "parents": [
+      {
+        "class": "rp-final-image",
+        "computed": {
+          "animation": "none",
+          "clipPath": "inset(0% round 50% 50% 0% 0%)",
+          "filter": "none",
+          "height": "440px",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "opacity": "1",
+          "transform": "none",
+          "transformOrigin": "151.797px 220px",
+          "width": "303.594px"
+        },
+        "rect": {
+          "bottom": 400.296875,
+          "height": 440,
+          "left": 480.6875,
+          "right": 784.28125,
+          "top": -39.703125,
+          "width": 303.59375,
+          "x": 480.6875,
+          "y": -39.703125
+        },
+        "style": "clip-path: inset(0% round 50% 50% 0% 0%);"
+      },
+      {
+        "class": "rp-finale rp-dark",
+        "computed": {
+          "animation": "none",
+          "clipPath": "none",
+          "filter": "none",
+          "height": "1000px",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transformOrigin": "632.5px 500px",
+          "width": "1265px"
+        },
+        "rect": {
+          "bottom": 720.296875,
+          "height": 1000,
+          "left": 0,
+          "right": 1265,
+          "top": -279.703125,
+          "width": 1265,
+          "x": 0,
+          "y": -279.703125
+        },
+        "style": "translate: none; rotate: none; scale: none; left: 0px; top: -279.703px; margin: 0px; max-width: 1265px; width: 1265px; max-height: 1000px; height: 1000px; padding: 115.2px 76.8px 28.8px; box-sizing: border-box; position: fixed; transform: translate(0px, 0px);"
+      }
+    ],
+    "rect": {
+      "bottom": 417.8968505859375,
+      "height": 475.1999816894531,
+      "left": 468.5437622070313,
+      "right": 796.4249877929688,
+      "top": -57.303131103515625,
+      "width": 327.8812255859375,
+      "x": 468.5437622070313,
+      "y": -57.303131103515625
+    },
+    "src": "/assets/repose-experience/tower-original.png",
+    "style": null,
+    "y": 32100
+  },
+  "second": {
+    "animations": [],
+    "computed": {
+      "animation": "none",
+      "clipPath": "none",
+      "filter": "none",
+      "height": "440px",
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "opacity": "1",
+      "transform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+      "transformOrigin": "151.797px 220px",
+      "width": "303.594px"
+    },
+    "currentSrc": "https://reposeresidence.com/assets/repose-experience/tower-original.png",
+    "natural": [
+      1600,
+      1040
+    ],
+    "parents": [
+      {
+        "class": "rp-final-image",
+        "computed": {
+          "animation": "none",
+          "clipPath": "inset(0% round 50% 50% 0% 0%)",
+          "filter": "none",
+          "height": "440px",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "opacity": "1",
+          "transform": "none",
+          "transformOrigin": "151.797px 220px",
+          "width": "303.594px"
+        },
+        "rect": {
+          "bottom": 400.296875,
+          "height": 440,
+          "left": 480.6875,
+          "right": 784.28125,
+          "top": -39.703125,
+          "width": 303.59375,
+          "x": 480.6875,
+          "y": -39.703125
+        },
+        "style": "clip-path: inset(0% round 50% 50% 0% 0%);"
+      },
+      {
+        "class": "rp-finale rp-dark",
+        "computed": {
+          "animation": "none",
+          "clipPath": "none",
+          "filter": "none",
+          "height": "1000px",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transformOrigin": "632.5px 500px",
+          "width": "1265px"
+        },
+        "rect": {
+          "bottom": 720.296875,
+          "height": 1000,
+          "left": 0,
+          "right": 1265,
+          "top": -279.703125,
+          "width": 1265,
+          "x": 0,
+          "y": -279.703125
+        },
+        "style": "translate: none; rotate: none; scale: none; left: 0px; top: -279.703px; margin: 0px; max-width: 1265px; width: 1265px; max-height: 1000px; height: 1000px; padding: 115.2px 76.8px 28.8px; box-sizing: border-box; position: fixed; transform: translate(0px, 0px);"
+      }
+    ],
+    "rect": {
+      "bottom": 417.8968505859375,
+      "height": 475.1999816894531,
+      "left": 468.5437622070313,
+      "right": 796.4249877929688,
+      "top": -57.303131103515625,
+      "width": 327.8812255859375,
+      "x": 468.5437622070313,
+      "y": -57.303131103515625
+    },
+    "src": "/assets/repose-experience/tower-original.png",
+    "style": null,
+    "y": 32100
+  }
+}

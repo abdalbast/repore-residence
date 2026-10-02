@@ -1,0 +1,94 @@
+[
+  {
+    "name": "local",
+    "profile": "64 KiB/s, 100 ms, cache disabled",
+    "result": {
+      "complete": true,
+      "height": 1375,
+      "paths": [
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": false
+        },
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": true
+        },
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": false
+        }
+      ],
+      "width": 1100
+    }
+  },
+  {
+    "name": "local",
+    "profile": "unlimited, 0 ms, cache disabled",
+    "result": {
+      "complete": true,
+      "height": 1375,
+      "paths": [
+        {
+          "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+          "willReadFrequently": false
+        },
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": true
+        },
+        {
+          "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+          "willReadFrequently": false
+        }
+      ],
+      "width": 1100
+    }
+  },
+  {
+    "name": "reference",
+    "profile": "64 KiB/s, 100 ms, cache disabled",
+    "result": {
+      "complete": true,
+      "height": 1375,
+      "paths": [
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": false
+        },
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": true
+        },
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": false
+        }
+      ],
+      "width": 1100
+    }
+  },
+  {
+    "name": "reference",
+    "profile": "unlimited, 0 ms, cache disabled",
+    "result": {
+      "complete": true,
+      "height": 1375,
+      "paths": [
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": false
+        },
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": true
+        },
+        {
+          "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+          "willReadFrequently": false
+        }
+      ],
+      "width": 1100
+    }
+  }
+]

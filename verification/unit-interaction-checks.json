@@ -1,0 +1,305 @@
+[
+  {
+    "name": "before",
+    "states": {
+      "reference": {
+        "area": [
+          {
+            "rect": {
+              "bottom": 613.1875,
+              "height": 580.796875,
+              "left": 483.1484375,
+              "right": 1152.6328125,
+              "top": 32.390625,
+              "width": 669.484375,
+              "x": 483.1484375,
+              "y": 32.390625
+            },
+            "zoomed": false
+          }
+        ],
+        "figure": "width: 669.486px; height: 580.8px; left: 28.7569px; top: 12.1px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+        "image": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l12-3bhk-maidroom-b-prime.webp",
+        "rect": {
+          "bottom": 675.5,
+          "height": 720,
+          "left": 0,
+          "right": 1265,
+          "top": -44.5,
+          "width": 1265,
+          "x": 0,
+          "y": -44.5
+        },
+        "width": 1265,
+        "y": 5119,
+        "zoom": "transform: translate3d(0px, 0px, 0px) scale(1);"
+      },
+      "local": {
+        "area": [
+          {
+            "rect": {
+              "bottom": 613.1875,
+              "height": 580.796875,
+              "left": 483.1484375,
+              "right": 1152.6328125,
+              "top": 32.390625,
+              "width": 669.484375,
+              "x": 483.1484375,
+              "y": 32.390625
+            },
+            "zoomed": false
+          }
+        ],
+        "figure": "width: 669.486px; height: 580.8px; left: 28.7569px; top: 12.1px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+        "image": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l12-3bhk-maidroom-b-prime.webp",
+        "rect": {
+          "bottom": 675.5,
+          "height": 720,
+          "left": 0,
+          "right": 1265,
+          "top": -44.5,
+          "width": 1265,
+          "x": 0,
+          "y": -44.5
+        },
+        "width": 1265,
+        "y": 5120,
+        "zoom": "transform: translate3d(0px, 0px, 0px) scale(1);"
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5119
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5119
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5120
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5120
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wheel-zoom",
+    "states": {
+      "reference": {
+        "area": [
+          {
+            "rect": {
+              "bottom": 613.1875,
+              "height": 580.796875,
+              "left": 483.1484375,
+              "right": 1152.6328125,
+              "top": 32.390625,
+              "width": 669.484375,
+              "x": 483.1484375,
+              "y": 32.390625
+            },
+            "zoomed": true
+          }
+        ],
+        "figure": "width: 669.486px; height: 580.8px; left: 28.7569px; top: 12.1px; --fx-zoom: 1.2117; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+        "image": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l12-3bhk-maidroom-b-prime.webp",
+        "rect": {
+          "bottom": 675.5,
+          "height": 720,
+          "left": 0,
+          "right": 1265,
+          "top": -44.5,
+          "width": 1265,
+          "x": 0,
+          "y": -44.5
+        },
+        "width": 1265,
+        "y": 5119,
+        "zoom": "transform: translate3d(-70.67px, -61.3px, 0px) scale(1.2117);"
+      },
+      "local": {
+        "area": [
+          {
+            "rect": {
+              "bottom": 613.1875,
+              "height": 580.796875,
+              "left": 483.1484375,
+              "right": 1152.6328125,
+              "top": 32.390625,
+              "width": 669.484375,
+              "x": 483.1484375,
+              "y": 32.390625
+            },
+            "zoomed": true
+          }
+        ],
+        "figure": "width: 669.486px; height: 580.8px; left: 28.7569px; top: 12.1px; --fx-zoom: 1.2117; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+        "image": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l12-3bhk-maidroom-b-prime.webp",
+        "rect": {
+          "bottom": 675.5,
+          "height": 720,
+          "left": 0,
+          "right": 1265,
+          "top": -44.5,
+          "width": 1265,
+          "x": 0,
+          "y": -44.5
+        },
+        "width": 1265,
+        "y": 5120,
+        "zoom": "transform: translate3d(-70.67px, -61.3px, 0px) scale(1.2117);"
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5119
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5119
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5120
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5120
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reset",
+    "states": {
+      "reference": {
+        "area": [
+          {
+            "rect": {
+              "bottom": 613.1875,
+              "height": 580.796875,
+              "left": 483.1484375,
+              "right": 1152.6328125,
+              "top": 32.390625,
+              "width": 669.484375,
+              "x": 483.1484375,
+              "y": 32.390625
+            },
+            "zoomed": false
+          }
+        ],
+        "figure": "width: 669.486px; height: 580.8px; left: 28.7569px; top: 12.1px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+        "image": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l12-3bhk-maidroom-b-prime.webp",
+        "rect": {
+          "bottom": 675.5,
+          "height": 720,
+          "left": 0,
+          "right": 1265,
+          "top": -44.5,
+          "width": 1265,
+          "x": 0,
+          "y": -44.5
+        },
+        "width": 1265,
+        "y": 5119,
+        "zoom": "transform: translate3d(0px, 0px, 0px) scale(1);"
+      },
+      "local": {
+        "area": [
+          {
+            "rect": {
+              "bottom": 613.1875,
+              "height": 580.796875,
+              "left": 483.1484375,
+              "right": 1152.6328125,
+              "top": 32.390625,
+              "width": 669.484375,
+              "x": 483.1484375,
+              "y": 32.390625
+            },
+            "zoomed": false
+          }
+        ],
+        "figure": "width: 669.486px; height: 580.8px; left: 28.7569px; top: 12.1px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+        "image": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l12-3bhk-maidroom-b-prime.webp",
+        "rect": {
+          "bottom": 675.5,
+          "height": 720,
+          "left": 0,
+          "right": 1265,
+          "top": -44.5,
+          "width": 1265,
+          "x": 0,
+          "y": -44.5
+        },
+        "width": 1265,
+        "y": 5120,
+        "zoom": "transform: translate3d(0px, 0px, 0px) scale(1);"
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5119
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5119
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5120
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5120
+        },
+        "stable": true
+      }
+    }
+  }
+]

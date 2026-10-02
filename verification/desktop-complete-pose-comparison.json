@@ -1,0 +1,830 @@
+[
+  {
+    "name": "hero",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "rise",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "dubai",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "building",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "reception",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "residence",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "life",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "pause",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "balance",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "gym",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "steam",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 21,
+        "max_channel_difference": 1,
+        "bounds": [
+          253,
+          322,
+          466,
+          465
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 21,
+        "max_channel_difference": 1,
+        "bounds": [
+          253,
+          322,
+          466,
+          465
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 21,
+        "max_channel_difference": 1,
+        "bounds": [
+          253,
+          322,
+          466,
+          465
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "zen",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 19,
+        "max_channel_difference": 1,
+        "bounds": [
+          135,
+          326,
+          571,
+          467
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 19,
+        "max_channel_difference": 1,
+        "bounds": [
+          135,
+          326,
+          571,
+          467
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 19,
+        "max_channel_difference": 1,
+        "bounds": [
+          135,
+          326,
+          571,
+          467
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "pool-start",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "pool-middle",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "pool-end",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "terrace",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 79,
+        "max_channel_difference": 1,
+        "bounds": [
+          188,
+          72,
+          814,
+          357
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 79,
+        "max_channel_difference": 1,
+        "bounds": [
+          188,
+          72,
+          814,
+          357
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 79,
+        "max_channel_difference": 1,
+        "bounds": [
+          188,
+          72,
+          814,
+          357
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "family",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 148651,
+        "max_channel_difference": 19,
+        "bounds": [
+          6,
+          0,
+          1162,
+          651
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 148651,
+        "max_channel_difference": 19,
+        "bounds": [
+          6,
+          0,
+          1162,
+          651
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 148651,
+        "max_channel_difference": 19,
+        "bounds": [
+          6,
+          0,
+          1162,
+          651
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "interiors-start",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "interiors-middle",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "interiors-end",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "essentials",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "connected",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "map",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "finale",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "name": "steam",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 17401,
+        "max_channel_difference": 52,
+        "bounds": [
+          205,
+          212,
+          1100,
+          694
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 17401,
+        "max_channel_difference": 52,
+        "bounds": [
+          205,
+          212,
+          1100,
+          694
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 17401,
+        "max_channel_difference": 52,
+        "bounds": [
+          205,
+          212,
+          1100,
+          694
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "zen",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 89267,
+        "max_channel_difference": 240,
+        "bounds": [
+          127,
+          157,
+          1155,
+          574
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 89343,
+        "max_channel_difference": 240,
+        "bounds": [
+          127,
+          157,
+          1155,
+          574
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 89267,
+        "max_channel_difference": 240,
+        "bounds": [
+          127,
+          157,
+          1155,
+          574
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "terrace",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 6323,
+        "max_channel_difference": 204,
+        "bounds": [
+          176,
+          71,
+          1155,
+          404
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 6311,
+        "max_channel_difference": 204,
+        "bounds": [
+          176,
+          71,
+          1155,
+          404
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": false
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 6335,
+        "max_channel_difference": 204,
+        "bounds": [
+          176,
+          71,
+          1155,
+          404
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": false
+      }
+    ]
+  },
+  {
+    "name": "family",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 168762,
+        "max_channel_difference": 199,
+        "bounds": [
+          3,
+          0,
+          1162,
+          693
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 168795,
+        "max_channel_difference": 199,
+        "bounds": [
+          3,
+          0,
+          1162,
+          693
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 168762,
+        "max_channel_difference": 199,
+        "bounds": [
+          3,
+          0,
+          1162,
+          693
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "zen-neutral-pointer",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": false,
+        "changed_pixels": 89384,
+        "max_channel_difference": 240,
+        "bounds": [
+          127,
+          157,
+          1155,
+          574
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": false,
+        "changed_pixels": 89386,
+        "max_channel_difference": 240,
+        "bounds": [
+          127,
+          157,
+          1155,
+          574
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": false,
+        "changed_pixels": 89384,
+        "max_channel_difference": 240,
+        "bounds": [
+          127,
+          157,
+          1155,
+          574
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "pair": [
+      "reference-first",
+      "reference-second"
+    ],
+    "sample": 0,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-first",
+      "reference-second"
+    ],
+    "sample": 1,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-first",
+      "reference-second"
+    ],
+    "sample": 2,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-first",
+      "local"
+    ],
+    "sample": 0,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-first",
+      "local"
+    ],
+    "sample": 1,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-first",
+      "local"
+    ],
+    "sample": 2,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-second",
+      "local"
+    ],
+    "sample": 0,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-second",
+      "local"
+    ],
+    "sample": 1,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "pair": [
+      "reference-second",
+      "local"
+    ],
+    "sample": 2,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "opening-exit",
+    "origins": [
+      {
+        "origin": "reference",
+        "samples": 84,
+        "tau_ms": 208.3380432779778,
+        "fit_r_squared": 0.9999917763737569,
+        "estimated_input_t_after_trace_start_ms": 64.54517557663266,
+        "end_y": 600
+      },
+      {
+        "origin": "local",
+        "samples": 82,
+        "tau_ms": 208.26905364808118,
+        "fit_r_squared": 0.9999934285823368,
+        "estimated_input_t_after_trace_start_ms": 107.4003698871039,
+        "end_y": 600
+      }
+    ],
+    "final_trigger_state_equal": true
+  },
+  {
+    "name": "lazy-first-expansion",
+    "origins": [
+      {
+        "origin": "reference",
+        "samples": 54,
+        "tau_ms": 205.28451774823512,
+        "fit_r_squared": 0.9961431379172355,
+        "estimated_input_t_after_trace_start_ms": 29.421573004086017,
+        "end_y": 9216
+      },
+      {
+        "origin": "local",
+        "samples": 54,
+        "tau_ms": 204.71917642503172,
+        "fit_r_squared": 0.9941111459290226,
+        "estimated_input_t_after_trace_start_ms": 65.46187801972087,
+        "end_y": 9216
+      }
+    ],
+    "final_trigger_state_equal": true
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "origins": [
+      {
+        "origin": "reference",
+        "samples": 80,
+        "tau_ms": 208.25225713407912,
+        "fit_r_squared": 0.9999966412882815,
+        "estimated_input_t_after_trace_start_ms": 21.0999220586329,
+        "end_y": 12904
+      },
+      {
+        "origin": "local",
+        "samples": 80,
+        "tau_ms": 208.24471447493192,
+        "fit_r_squared": 0.9999966173597488,
+        "estimated_input_t_after_trace_start_ms": 56.62105963280173,
+        "end_y": 12904
+      }
+    ],
+    "final_trigger_state_equal": true
+  },
+  {
+    "name": "portal-expansion",
+    "origins": [
+      {
+        "origin": "reference",
+        "samples": 87,
+        "tau_ms": 208.284632778631,
+        "fit_r_squared": 0.9999834170824621,
+        "estimated_input_t_after_trace_start_ms": 28.54913530864717,
+        "end_y": 32500
+      },
+      {
+        "origin": "local",
+        "samples": 87,
+        "tau_ms": 208.50009325445055,
+        "fit_r_squared": 0.9999879191626649,
+        "estimated_input_t_after_trace_start_ms": 61.92750358995987,
+        "end_y": 32500
+      }
+    ],
+    "final_trigger_state_equal": true
+  },
+  {
+    "name": "portal-exchange",
+    "origins": [
+      {
+        "origin": "reference",
+        "samples": 88,
+        "tau_ms": 208.44985049513926,
+        "fit_r_squared": 0.9999795711638866,
+        "estimated_input_t_after_trace_start_ms": 20.61954180223601,
+        "end_y": 32800
+      },
+      {
+        "origin": "local",
+        "samples": 88,
+        "tau_ms": 208.31719915963484,
+        "fit_r_squared": 0.9999807633006855,
+        "estimated_input_t_after_trace_start_ms": 49.751920827969464,
+        "end_y": 32800
+      }
+    ],
+    "final_trigger_state_equal": true
+  },
+  {
+    "name": "portal-arrival",
+    "origins": [
+      {
+        "origin": "reference",
+        "samples": 84,
+        "tau_ms": 205.12867657820127,
+        "fit_r_squared": 0.9999203137227907,
+        "estimated_input_t_after_trace_start_ms": 22.730231185847337,
+        "end_y": 32981.5
+      },
+      {
+        "origin": "local",
+        "samples": 85,
+        "tau_ms": 205.29293637222116,
+        "fit_r_squared": 0.9999227206864596,
+        "estimated_input_t_after_trace_start_ms": 51.11971246094124,
+        "end_y": 32981.5
+      }
+    ],
+    "final_trigger_state_equal": true
+  },
+  {
+    "name": "portal-rewind",
+    "origins": [
+      {
+        "origin": "reference",
+        "samples": 86,
+        "tau_ms": 208.24098799913838,
+        "fit_r_squared": 0.9999945684637174,
+        "estimated_input_t_after_trace_start_ms": 29.139136894688995,
+        "end_y": 31850
+      },
+      {
+        "origin": "local",
+        "samples": 87,
+        "tau_ms": 208.27903193341965,
+        "fit_r_squared": 0.9999948376501414,
+        "estimated_input_t_after_trace_start_ms": 69.99893486551144,
+        "end_y": 31850
+      }
+    ],
+    "final_trigger_state_equal": true
+  }
+]

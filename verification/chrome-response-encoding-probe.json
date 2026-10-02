@@ -1,0 +1,92 @@
+[
+  {
+    "name": "reference",
+    "responses": [
+      {
+        "bytes": 131233,
+        "encoding": "br",
+        "etag": "\"200a1-6abd4557-c345e31c40543f63;br\"",
+        "path": "/assets/repose-experience/zen-garden-01-720.avif",
+        "sha256": "c5e223da8a5eabe406d0b5c9d317f24e75810aa931737d56114dac5ee3a47a3f",
+        "status": 200,
+        "type": "text/plain",
+        "vary": null
+      },
+      {
+        "bytes": 274008,
+        "encoding": null,
+        "etag": "\"42e58-6aafcd56-c397139ac4401f68;;;\"",
+        "path": "/assets/amenities/web/kids-play-area.webp",
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+        "status": 200,
+        "type": "image/webp",
+        "vary": null
+      },
+      {
+        "bytes": 112157,
+        "encoding": "br",
+        "etag": "\"1b61d-6abd4557-d13f5ff08f1cf230;br\"",
+        "path": "/assets/index-Bez0Vhn_.js",
+        "sha256": "68e0bc20495fde8b0e473679485349f43069d5b3b9bffbf61762ac36af85342c",
+        "status": 200,
+        "type": "application/x-javascript",
+        "vary": null
+      },
+      {
+        "bytes": 21032,
+        "encoding": null,
+        "etag": "\"5228-6aafcd57-124591ca5adb7a5e;;;\"",
+        "path": "/assets/fonts/repose-display.woff2",
+        "sha256": "5eb09b5ac0e28b67c2f041c8ba6d244604ca0c0980d65912ab2d47fed84ddc31",
+        "status": 200,
+        "type": "font/woff2",
+        "vary": null
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "responses": [
+      {
+        "bytes": 131233,
+        "encoding": null,
+        "etag": "W/\"200a1-6abd4557-c345e31c40543f63;gz\"",
+        "path": "/assets/repose-experience/zen-garden-01-720.avif",
+        "sha256": "c5e223da8a5eabe406d0b5c9d317f24e75810aa931737d56114dac5ee3a47a3f",
+        "status": 200,
+        "type": "text/plain",
+        "vary": "Accept-Encoding"
+      },
+      {
+        "bytes": 274008,
+        "encoding": null,
+        "etag": "\"42e58-6abd4556-b6eef2dab329532;;;\"",
+        "path": "/assets/amenities/web/kids-play-area.webp",
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+        "status": 200,
+        "type": "image/webp",
+        "vary": null
+      },
+      {
+        "bytes": 112157,
+        "encoding": null,
+        "etag": "W/\"1b61d-6abd4557-d13f5ff08f1cf230;gz\"",
+        "path": "/assets/index-Bez0Vhn_.js",
+        "sha256": "68e0bc20495fde8b0e473679485349f43069d5b3b9bffbf61762ac36af85342c",
+        "status": 200,
+        "type": "application/x-javascript",
+        "vary": "Accept-Encoding"
+      },
+      {
+        "bytes": 21032,
+        "encoding": null,
+        "etag": "\"5228-6abc4aa2-261a8f9a59641e81;;;\"",
+        "path": "/assets/fonts/repose-display.woff2",
+        "sha256": "5eb09b5ac0e28b67c2f041c8ba6d244604ca0c0980d65912ab2d47fed84ddc31",
+        "status": 200,
+        "type": "font/woff2",
+        "vary": null
+      }
+    ]
+  }
+]

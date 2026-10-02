@@ -1,0 +1,348 @@
+{
+  "key": "Enter",
+  "firstOpenAfterDocumentReload": true,
+  "before": {
+    "reference": {
+      "dialog": true,
+      "intro": true,
+      "y": 33702
+    },
+    "local": {
+      "dialog": true,
+      "intro": true,
+      "y": 33702
+    }
+  },
+  "frames": [
+    {
+      "name": "first-skip-0",
+      "states": {
+        "reference": {
+          "intro": true,
+          "opacity": "0.0047",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        },
+        "local": {
+          "intro": true,
+          "opacity": "0.2235",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        }
+      },
+      "captures": {
+        "reference": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        },
+        "local": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        }
+      }
+    },
+    {
+      "name": "first-skip-1",
+      "states": {
+        "reference": {
+          "intro": true,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        },
+        "local": {
+          "intro": true,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        }
+      },
+      "captures": {
+        "reference": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        },
+        "local": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        }
+      }
+    },
+    {
+      "name": "first-skip-2",
+      "states": {
+        "reference": {
+          "intro": true,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        },
+        "local": {
+          "intro": true,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        }
+      },
+      "captures": {
+        "reference": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        },
+        "local": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        }
+      }
+    },
+    {
+      "name": "first-skip-3",
+      "states": {
+        "reference": {
+          "intro": false,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        },
+        "local": {
+          "intro": false,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        }
+      },
+      "captures": {
+        "reference": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        },
+        "local": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        }
+      }
+    },
+    {
+      "name": "first-skip-4",
+      "states": {
+        "reference": {
+          "intro": false,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        },
+        "local": {
+          "intro": false,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        }
+      },
+      "captures": {
+        "reference": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        },
+        "local": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        }
+      }
+    },
+    {
+      "name": "first-skip-5",
+      "states": {
+        "reference": {
+          "intro": false,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        },
+        "local": {
+          "intro": false,
+          "opacity": "1",
+          "title": "The One-Bedroom",
+          "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+          "width": 1265,
+          "y": 33702
+        }
+      },
+      "captures": {
+        "reference": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        },
+        "local": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 33702
+          },
+          "stable": true
+        }
+      }
+    }
+  ],
+  "reference": {
+    "intro": false,
+    "title": "The One-Bedroom",
+    "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+    "width": 1265
+  },
+  "local": {
+    "intro": false,
+    "title": "The One-Bedroom",
+    "video": "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+    "width": 1265
+  }
+}

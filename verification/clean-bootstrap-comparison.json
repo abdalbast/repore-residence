@@ -1,0 +1,85 @@
+{
+  "method": "New blank tabs navigated once to the intended origins; no prior scroll position or app state",
+  "states": {
+    "reference": {
+      "h": 720,
+      "height": 9936,
+      "lazy": false,
+      "theme": "light",
+      "triggers": [
+        {
+          "end": 9936,
+          "node": "opening",
+          "start": -720
+        },
+        {
+          "end": 9936,
+          "node": "opening",
+          "start": -720
+        },
+        {
+          "end": 9216,
+          "node": "opening",
+          "start": 0
+        },
+        {
+          "end": 9216,
+          "node": "opening",
+          "start": 0
+        },
+        {
+          "end": 9216,
+          "node": "opening",
+          "start": 0
+        },
+        {
+          "end": 9936,
+          "node": "opening",
+          "start": 5544
+        }
+      ],
+      "w": 1280,
+      "y": 0
+    },
+    "local": {
+      "h": 720,
+      "height": 9936,
+      "lazy": false,
+      "theme": "light",
+      "triggers": [
+        {
+          "end": 9936,
+          "node": "opening",
+          "start": -720
+        },
+        {
+          "end": 9936,
+          "node": "opening",
+          "start": -720
+        },
+        {
+          "end": 9216,
+          "node": "opening",
+          "start": 0
+        },
+        {
+          "end": 9216,
+          "node": "opening",
+          "start": 0
+        },
+        {
+          "end": 9216,
+          "node": "opening",
+          "start": 0
+        },
+        {
+          "end": 9936,
+          "node": "opening",
+          "start": 5544
+        }
+      ],
+      "w": 1280,
+      "y": 0
+    }
+  }
+}

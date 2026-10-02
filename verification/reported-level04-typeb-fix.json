@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-10-02T17:45:44.771127+00:00",
+  "reported_residence": "Level 04, 1 BHK + Study, Type B, centre left",
+  "observed_cause": "No localhost:4173 listener after earlier diagnostic-server cleanup. Existing page was cached, but uncached 2D/3D assets could not be served. The original failed network request was not captured.",
+  "fix": "Restarted local preview and reopened the exact reported residence. Original 2D/3D files required no change.",
+  "asset_http_checks": {
+    "original_2d": {
+      "status": 200,
+      "mime": "image/webp",
+      "dimensions": [
+        1907,
+        1594
+      ]
+    },
+    "relit_2d": {
+      "status": 200,
+      "mime": "image/webp",
+      "dimensions": [
+        1907,
+        1594
+      ]
+    },
+    "3d": {
+      "status": 200,
+      "mime": "image/webp",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  },
+  "browser_checks": {
+    "frames": 23,
+    "all_images_decoded": true,
+    "scrollbar_width_stable": true,
+    "full_viewport_sequence": "reported-level04-typeb-motion.jpg",
+    "toggle_3d_2d_and_rapid_keyboard_replay": "passed in sampled rendered frames",
+    "handoff": "2D plan open; View in 3D available",
+    "theme_preserved": true
+  },
+  "application_code_changed": false,
+  "python_lint": "passed",
+  "preview_server": {
+    "url": "http://127.0.0.1:4173/",
+    "session": 37647,
+    "retained_reason": "Required running service for the user-visible local preview and uncached asset delivery; not an additional diagnostic server."
+  }
+}

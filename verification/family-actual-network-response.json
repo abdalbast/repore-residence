@@ -1,0 +1,28 @@
+{
+  "reference": {
+    "truncated": true,
+    "rows": [
+      {
+        "url": "https://reposeresidence.com/assets/amenities/web/kids-play-area.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "cache": false,
+        "bytes": 274008,
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2"
+      }
+    ]
+  },
+  "local": {
+    "truncated": true,
+    "rows": [
+      {
+        "url": "http://127.0.0.1:4173/assets/amenities/web/kids-play-area.webp",
+        "status": 200,
+        "mime": "image/webp",
+        "cache": false,
+        "bytes": 274008,
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2"
+      }
+    ]
+  }
+}

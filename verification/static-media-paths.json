@@ -1,0 +1,24 @@
+{
+  "paths": [
+    "/assets/amenities/map.webp",
+    "/assets/amenities/web/for-every-generation.webp",
+    "/assets/amenities/web/kids-play-area.webp",
+    "/assets/opening/branding/saion-logo.png",
+    "/assets/opening/building/final-frame.webp",
+    "/assets/reception-entry/building-final.webp",
+    "/assets/reception-entry/reception-final.webp",
+    "/assets/repose-experience/kids-play-01.webp",
+    "/assets/repose-experience/open-terrace-01.webp",
+    "/assets/repose-experience/pool-01.webp",
+    "/assets/repose-experience/walking-track-01.webp",
+    "/assets/terrace/plate-fitness.webp",
+    "/assets/terrace/plate-garden.webp",
+    "/assets/terrace/plate-sports-court.webp",
+    "/assets/walkthrough/one-bedroom-walkthrough-poster.webp",
+    "/assets/walkthrough/one-bedroom-walkthrough.mp4",
+    "/assets/walkthrough/two-bedroom-walkthrough-poster.webp",
+    "/assets/walkthrough/two-bedroom-walkthrough.mp4",
+    "/models/repose-terrace.glb"
+  ],
+  "missing": []
+}

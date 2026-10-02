@@ -1,0 +1,54 @@
+{
+  "triggerStart": 5544,
+  "bothMountedAfterCrossing": {
+    "y": 5800,
+    "height": 13625
+  },
+  "steps": [
+    {
+      "step": 0,
+      "states": {
+        "reference": {
+          "height": 34422,
+          "watch": true,
+          "y": 12905
+        },
+        "local": {
+          "height": 34422,
+          "watch": true,
+          "y": 12905
+        }
+      }
+    },
+    {
+      "step": 1,
+      "states": {
+        "reference": {
+          "height": 34422,
+          "watch": true,
+          "y": 14600
+        },
+        "local": {
+          "height": 34422,
+          "watch": true,
+          "y": 14600
+        }
+      }
+    },
+    {
+      "step": 2,
+      "states": {
+        "reference": {
+          "height": 34422,
+          "watch": true,
+          "y": 14600
+        },
+        "local": {
+          "height": 34422,
+          "watch": true,
+          "y": 14600
+        }
+      }
+    }
+  ]
+}

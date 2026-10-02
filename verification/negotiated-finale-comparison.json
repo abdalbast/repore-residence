@@ -1,0 +1,14 @@
+{
+  "size": [
+    1280,
+    720
+  ],
+  "exact_pixel_match": true,
+  "mean_channel_difference": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "changed_pixel_bbox": null,
+  "diagnostic": "CSS phases and scrub progress synchronized; local image reloaded after CDN negotiation repair."
+}

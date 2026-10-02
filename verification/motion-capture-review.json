@@ -1,0 +1,222 @@
+{
+  "capture": "Browser viewport JPEG screenshots; uniformly scaled; not strict pixel comparison",
+  "sequences": [
+    {
+      "name": "viewport-chapters-closed-idle",
+      "frames_per_origin": 8,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-scene-hover-route",
+      "frames_per_origin": 12,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-scene-keyboard-replay",
+      "frames_per_origin": 12,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-scene-pointer-replay",
+      "frames_per_origin": 12,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-chapters-open",
+      "frames_per_origin": 8,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-chapters-close",
+      "frames_per_origin": 8,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-portal-expansion",
+      "frames_per_origin": 12,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-portal-exchange",
+      "frames_per_origin": 12,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-portal-arrival",
+      "frames_per_origin": 12,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    },
+    {
+      "name": "viewport-portal-rewind",
+      "frames_per_origin": 12,
+      "capture_dimensions": {
+        "reference": [
+          [
+            1265,
+            712
+          ]
+        ],
+        "local": [
+          [
+            1265,
+            712
+          ]
+        ]
+      },
+      "root_client_width_stable": true,
+      "review": "Paired full viewport contact sheet samples; no discrete flashing observed",
+      "clock_synchronized": false
+    }
+  ],
+  "floor_hover": "All 15 hit rectangles matched initial bounds in local and reference; paired idle, hover and exit captures retained",
+  "limits": [
+    "Contact sheets inspect sampled frames, not every display frame.",
+    "Local and reference motion captures have different clock phases.",
+    "Moving PNG clip captures with bands are excluded.",
+    "Only the initial PNG floor-hover idle/held-hover/exit states are used; no moving PNG replay claim."
+  ]
+}

@@ -1,0 +1,1034 @@
+[
+  {
+    "profile": "reference",
+    "room": "kitchen",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 2.079205,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "kitchen",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 1.815955,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "reference",
+    "room": "kitchen",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.612647,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "kitchen",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.356775,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "reference",
+    "room": "bedroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.749697,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 2.061578,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            2.061578
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "bedroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.737425,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 1.797523,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            1.797523
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "reference",
+    "room": "bedroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.749697,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.600938,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.600938
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "bedroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.737425,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.340203,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.340203
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "reference",
+    "room": "bathroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.749697,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.709494,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.709494
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 2.081218,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            2.081218
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "bathroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.737425,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.70517,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.70517
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 1.816947,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            1.816947
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "reference",
+    "room": "bathroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.749697,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.709494,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.709494
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 3.625618,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.625618
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "bathroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.737425,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.70517,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.70517
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 3.364598,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.364598
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "reference",
+    "room": "living-room",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 2.103091,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            2.103091
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.749697,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.709494,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.709494
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 3.749384,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.749384
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "living-room",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 1.854742,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            1.854742
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.737425,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.70517,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.70517
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 3.734827,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.734827
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "reference",
+    "room": "living-room",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 3.646378,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.646378
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.749697,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.709494,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.709494
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 3.749384,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.749384
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  },
+  {
+    "profile": "local",
+    "room": "living-room",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 3.397109,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.397109
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 3.737425,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            10.005
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 3.70517,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.70517
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 3.734827,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            3.734827
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      }
+    ],
+    "width": 1265
+  }
+]

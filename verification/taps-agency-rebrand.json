@@ -1,0 +1,36 @@
+{
+  "branding": "TAPS AGENCY",
+  "removed": [
+    "floating WhatsApp button",
+    "closing WhatsApp contact link"
+  ],
+  "checks": [
+    "JavaScript module syntax",
+    "Python lint and formatting",
+    "script and stylesheet references",
+    "identity/Brotli/gzip HTTP requests return current customized bytes",
+    "browser opening and loader show TAPS AGENCY; no WhatsApp link in loaded DOM",
+    "residence viewer opens; lifestyle module loads"
+  ],
+  "browser_limit": "Final visual recheck was blocked by browser URL security policy. Opening and loader were visually verified in the initial pass; the contact dialog and footer copy were verified in frontend source.",
+  "files": {
+    "index.html": "57139c2a3febfa2fc490692003ce6c55844afaea479dad2524cf9d5bd8469bb5",
+    "assets/index-taps-agency.js": "2c8b6aed34b88733a39d5a5c8cce1e5ae787d85f56f108697278edce3c1e5972",
+    "assets/ReposeLifestyle-taps-agency.js": "370d661327e000e374acf10c6d381f1ff8dbf07608a8cf54448a9ded1c1f3d28",
+    "assets/TerraceExperience-taps-agency.js": "f624c80378285adcc609ac24102ff9bce38919eb8d79184fb69c794d27f6e55b",
+    "assets/index-taps-agency.css": "92e0c5c653d197327993f9ed2f75ba28efd264346ceae08cc5bbbff10f368bfb",
+    "assets/opening/branding/taps-agency.svg": "4355dccbdba7a52c4df4f659264006577ec9bfa3089b97e20d3afaa036520197",
+    "serve.py": "5bbad93e7899f6e4a4c052b0efe9153a1be644359856e29b205c06f660c4b15b",
+    "floor-explorer/repose-floor-explorer-assets/residences-map.json": "bdbe6ef98ee9674fd23d83e2f9b8fcc0d05954225638c8226ed9701f378ae120",
+    "assets/reception-entry/reception-taps-agency.webp": "eaa053cac33ad3f10e776cbdc8427c02a2856e156b4f577ad5d6d6d93fec2829"
+  },
+  "email": "info@tapsagency.com",
+  "followup_checks": [
+    "Audited all 14 public frontend text resources; no former company name, old email or WhatsApp reference remains",
+    "Corrected the residence-map developer name missed in the first pass",
+    "Verified both email definitions and mailto links use info@tapsagency.com",
+    "Verified current frontend asset responses and references; JavaScript syntax checks passed",
+    "Typography follow-up: original three font files preserved; 43 text elements matched computed typography at 1378px and 390px; TAPS AGENCY SVG refined to rounded primary and condensed secondary lettering",
+    "Reception sign replaced with image_gen TAPS AGENCY edit, including reflection; original 4800x2114 dimensions retained, zero decoded pixel changes outside the two sign regions"
+  ]
+}

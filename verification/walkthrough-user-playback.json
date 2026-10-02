@@ -1,0 +1,882 @@
+[
+  {
+    "profile": "reference",
+    "film": "two-bedroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.004974,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.004974
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.11136,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.11136
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 0.632478,
+        "duration": 84.474,
+        "error": null,
+        "muted": false,
+        "networkState": 2,
+        "paused": false,
+        "played": [
+          [
+            0,
+            0.632478
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/two-bedroom-walkthrough.mp4"
+      }
+    ]
+  },
+  {
+    "profile": "local",
+    "film": "two-bedroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.018461,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.018461
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.138642,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.138642
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 0.195322,
+        "duration": 84.474,
+        "error": null,
+        "muted": false,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            0.195322
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/two-bedroom-walkthrough.mp4"
+      }
+    ]
+  },
+  {
+    "profile": "reference",
+    "film": "two-bedroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.004974,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.004974
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.11136,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.11136
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 3.257164,
+        "duration": 84.474,
+        "error": null,
+        "muted": false,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.257164
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/two-bedroom-walkthrough.mp4"
+      }
+    ]
+  },
+  {
+    "profile": "local",
+    "film": "two-bedroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.018461,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.018461
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.138642,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.138642
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 2.817838,
+        "duration": 84.474,
+        "error": null,
+        "muted": false,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            2.817838
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/two-bedroom-walkthrough.mp4"
+      }
+    ]
+  },
+  {
+    "profile": "reference",
+    "film": "one-bedroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.004974,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.004974
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.11136,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.11136
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 0.666719,
+        "duration": 58.746,
+        "error": null,
+        "muted": false,
+        "networkState": 2,
+        "paused": false,
+        "played": [
+          [
+            0,
+            0.666719
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/one-bedroom-walkthrough.mp4"
+      }
+    ]
+  },
+  {
+    "profile": "local",
+    "film": "one-bedroom",
+    "phase": "start",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.018461,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.018461
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.138642,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.138642
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 0.183992,
+        "duration": 58.746,
+        "error": null,
+        "muted": false,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            0.183992
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/one-bedroom-walkthrough.mp4"
+      }
+    ]
+  },
+  {
+    "profile": "reference",
+    "film": "one-bedroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.004974,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.004974
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.11136,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.11136
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 3.294105,
+        "duration": 58.746,
+        "error": null,
+        "muted": false,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            3.294105
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/one-bedroom-walkthrough.mp4"
+      }
+    ]
+  },
+  {
+    "profile": "local",
+    "film": "one-bedroom",
+    "phase": "later",
+    "videos": [
+      {
+        "currentTime": 0,
+        "duration": 7.766667,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/living-room.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/kitchen.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bedroom.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": 10.005,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 4,
+        "src": "/assets/interiors/bathroom.mp4"
+      },
+      {
+        "currentTime": 0.018461,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.018461
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/gym.mp4"
+      },
+      {
+        "currentTime": 0,
+        "duration": null,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [],
+        "readyState": 0,
+        "src": "/assets/amenity-videos/steam-room.mp4"
+      },
+      {
+        "currentTime": 0.138642,
+        "duration": 11,
+        "error": null,
+        "muted": true,
+        "networkState": 1,
+        "paused": true,
+        "played": [
+          [
+            0,
+            0.138642
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/amenity-videos/pool.mp4"
+      },
+      {
+        "currentTime": 2.813838,
+        "duration": 58.746,
+        "error": null,
+        "muted": false,
+        "networkState": 1,
+        "paused": false,
+        "played": [
+          [
+            0,
+            2.813838
+          ]
+        ],
+        "readyState": 4,
+        "src": "/assets/walkthrough/one-bedroom-walkthrough.mp4"
+      }
+    ]
+  }
+]

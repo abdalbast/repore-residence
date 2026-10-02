@@ -1,0 +1,156 @@
+[
+  {
+    "name": "steam",
+    "samples": [
+      {
+        "index": 0,
+        "full_recorded_states_identical": true,
+        "reference": {
+          "changed_pixels": 17736,
+          "max_channel_difference": 64,
+          "bounds": [
+            205,
+            212,
+            1100,
+            573
+          ]
+        },
+        "local": {
+          "changed_pixels": 10763,
+          "max_channel_difference": 45,
+          "bounds": [
+            205,
+            212,
+            1100,
+            694
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "full_recorded_states_identical": true,
+        "reference": {
+          "changed_pixels": 17736,
+          "max_channel_difference": 64,
+          "bounds": [
+            205,
+            212,
+            1100,
+            573
+          ]
+        },
+        "local": {
+          "changed_pixels": 10763,
+          "max_channel_difference": 45,
+          "bounds": [
+            205,
+            212,
+            1100,
+            694
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "full_recorded_states_identical": true,
+        "reference": {
+          "changed_pixels": 17736,
+          "max_channel_difference": 64,
+          "bounds": [
+            205,
+            212,
+            1100,
+            573
+          ]
+        },
+        "local": {
+          "changed_pixels": 10763,
+          "max_channel_difference": 45,
+          "bounds": [
+            205,
+            212,
+            1100,
+            694
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "zen",
+    "samples": [
+      {
+        "index": 0,
+        "full_recorded_states_identical": true,
+        "reference": {
+          "changed_pixels": 82846,
+          "max_channel_difference": 8,
+          "bounds": [
+            704,
+            157,
+            1011,
+            574
+          ]
+        },
+        "local": {
+          "changed_pixels": 15,
+          "max_channel_difference": 1,
+          "bounds": [
+            249,
+            367,
+            780,
+            479
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "full_recorded_states_identical": true,
+        "reference": {
+          "changed_pixels": 82846,
+          "max_channel_difference": 8,
+          "bounds": [
+            704,
+            157,
+            1011,
+            574
+          ]
+        },
+        "local": {
+          "changed_pixels": 15,
+          "max_channel_difference": 1,
+          "bounds": [
+            249,
+            367,
+            780,
+            479
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "full_recorded_states_identical": true,
+        "reference": {
+          "changed_pixels": 82846,
+          "max_channel_difference": 8,
+          "bounds": [
+            704,
+            157,
+            1011,
+            574
+          ]
+        },
+        "local": {
+          "changed_pixels": 15,
+          "max_channel_difference": 1,
+          "bounds": [
+            249,
+            367,
+            780,
+            479
+          ]
+        }
+      }
+    ]
+  }
+]

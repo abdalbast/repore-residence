@@ -1,0 +1,44 @@
+[
+  {
+    "name": "reference",
+    "before": 12904,
+    "events": [
+      {
+        "deltaX": 0,
+        "deltaY": 200,
+        "mode": 0,
+        "trusted": true
+      }
+    ],
+    "y": 13134,
+    "displacement": 230
+  },
+  {
+    "name": "reference2",
+    "before": 12904,
+    "events": [
+      {
+        "deltaX": 0,
+        "deltaY": 200,
+        "mode": 0,
+        "trusted": true
+      }
+    ],
+    "y": 13134,
+    "displacement": 230
+  },
+  {
+    "name": "local",
+    "before": 12904,
+    "events": [
+      {
+        "deltaX": 0,
+        "deltaY": 200,
+        "mode": 0,
+        "trusted": true
+      }
+    ],
+    "y": 13134,
+    "displacement": 230
+  }
+]

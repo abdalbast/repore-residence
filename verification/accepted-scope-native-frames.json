@@ -1,0 +1,5762 @@
+[
+  {
+    "name": "opening-exit",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 23
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 23
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 23
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 23
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 23
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 23
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5209
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 8,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": 9,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "opening-exit",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5702
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5705.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5764
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5792
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5792
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5796.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5799
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5799.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": true,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 9936,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5328
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5328
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5588.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5595.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5714
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5707.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5711
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5763.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5783
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5784
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5793.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5793.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5793.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5797
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5798.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5798.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5799.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5799.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5799.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "first-lazy-expansion-ready",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 5800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 5800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 10480
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 10548.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 11567
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 11521.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 11573.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12065
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 13624,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12527.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12540
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12735
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12729.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12735
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12794.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12853
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12855
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12868.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12867.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12868.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12880.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12893
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12893.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12899
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12898.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12899
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12900.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12902.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12902.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12903
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12902.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12903
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12903
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "lifestyle-lazy-expansion",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 12904
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 12904
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32208.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32227.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32329.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32310.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32317
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32381.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32447
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32448.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32471
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32467.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32468.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32481.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32492
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32492
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32495.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32495
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32495.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32497.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32499
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32499
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32499.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32499.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32499.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 8,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": 9,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-expansion",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32500
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32500
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32666
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32670
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32731
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32723.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32728
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32762
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32783
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32784
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32792.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32791.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32792
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32795.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32798
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32798
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32799
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32799
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32799
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32799.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 8,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": 9,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-exchange",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32800
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32800
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32900
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32902.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32941.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32938.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32940
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32959.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32972
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32972.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32977
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32977
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32977
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32979.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32980.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 8,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": 9,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-arrival",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": "before",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32981.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32981.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 0,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 32343
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32327
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32146.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 32178
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32168.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 32063
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 1,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31946.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31940
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31916.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31923.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31921
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31898
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 2,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31871
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31870
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31865
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31866.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31866
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31860.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 3,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31854.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31854.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31853
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31853.5
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31853.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31852.5
+          },
+          "stable": false
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 4,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31851
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31851
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850.5
+          },
+          "stable": false
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31851
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850.5
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850.5
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 5,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 6,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 7,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 8,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": 9,
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      }
+    }
+  },
+  {
+    "name": "portal-rewind",
+    "index": "settled",
+    "origins": {
+      "reference": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": false,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      },
+      "local": {
+        "state": {
+          "client": 1265,
+          "dpr": 1,
+          "floor": false,
+          "h": 720,
+          "height": 34421,
+          "lazy": false,
+          "scrollWidth": 1265,
+          "theme": true,
+          "w": 1280,
+          "y": 31850
+        },
+        "capture": {
+          "pre": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "post": {
+            "height": 720,
+            "width": 1280,
+            "x": 0,
+            "y": 31850
+          },
+          "stable": true
+        }
+      }
+    }
+  }
+]

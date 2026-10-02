@@ -1,0 +1,5116 @@
+{
+  "reference": {
+    "cssAnimations": [
+      {
+        "name": "op-hint-bob",
+        "target": "div.op-hint__inner",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-breathe",
+        "target": "span.op-hint__label",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-beam",
+        "target": "span.op-hint__beam",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-chevron",
+        "target": "span.op-hint__chevron",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-breathe",
+        "target": "p.rc__onward",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-bob",
+        "target": "span.rc__onward-arrow",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "closing-breathe",
+        "target": "button.closing__watch",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 3800,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn.attn--late",
+        "timing": {
+          "delay": 1450,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "wa-pulse",
+        "target": "span.wa__pulse",
+        "timing": {
+          "delay": 1200,
+          "direction": "normal",
+          "duration": 3400,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      }
+    ],
+    "sections": [
+      {
+        "height": 3688.78125,
+        "id": "residence",
+        "top": 9936
+      },
+      {
+        "height": 1889.28125,
+        "id": "life",
+        "top": 13624.78125
+      },
+      {
+        "height": 6096,
+        "id": "rhythm",
+        "top": 15514.0625
+      },
+      {
+        "height": 2736,
+        "id": "water",
+        "top": 21610.0625
+      },
+      {
+        "height": 792,
+        "id": "terrace",
+        "top": 24346.0625
+      },
+      {
+        "height": 1150,
+        "id": "family",
+        "top": 25138.0625
+      },
+      {
+        "height": 1800,
+        "id": "interiors",
+        "top": 26288.0625
+      },
+      {
+        "height": 1292.828125,
+        "id": "essentials",
+        "top": 28088.0625
+      },
+      {
+        "height": 1100,
+        "id": "connected",
+        "top": 29380.890625
+      },
+      {
+        "height": 1141.40625,
+        "id": "amenities-map",
+        "top": 30480.890625
+      },
+      {
+        "height": 1000,
+        "id": "finale",
+        "top": 31622.296875
+      }
+    ],
+    "triggers": [
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 0,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 0,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 0.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 1,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 1,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 1,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 1,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 1.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 3,
+              "start": 2,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 3,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 2,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 2,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 2,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 2.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 3,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 3,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 3,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 3,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 3.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 4,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 5,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 12168,
+        "once": false,
+        "pin": "div.ri__page",
+        "refreshPriority": 20,
+        "scrub": 0.72,
+        "start": 9936,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-pause"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -400
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "p.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-balance"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -300
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": 7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "figure.rp-panel-photo.rp-zen-inset"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-move"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -200
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-exhale"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -100
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-be"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "video.rp-film"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": 7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "figure.rp-panel-photo.rp-gym-inset"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 2,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 2,
+              "targets": [
+                "video.rp-film"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 2,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 3,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 3,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 3,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 4,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 20890,
+        "once": false,
+        "pin": "div.rp-horizontal-stage",
+        "refreshPriority": 10,
+        "scrub": 0.65,
+        "start": 15514,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [
+                "div.rp-water-visual"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2.4,
+              "start": 0,
+              "targets": [
+                "video.rp-film"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2.4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.65,
+              "start": 0.3,
+              "targets": [
+                "h2.rp-water-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.65,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.8,
+              "start": 1.3,
+              "targets": [
+                "h2.rp-water-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.8,
+                "ease": "none",
+                "overwrite": false,
+                "y": -60
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.55,
+              "start": 1.8,
+              "targets": [
+                "div.rp-curve-sheet"
+              ],
+              "vars": {
+                "clipPath": "ellipse(110% 140% at 50% 110%)",
+                "delay": 0,
+                "duration": 1.55,
+                "ease": "power1.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.25,
+              "start": 2.1,
+              "targets": [
+                "h2."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.25,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.6,
+              "start": 2.7,
+              "targets": [
+                "div.rp-curve-bottom"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.6,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.4,
+              "start": 3.35,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.4,
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 3.75,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 23626,
+        "once": false,
+        "pin": "div.rp-water-stage",
+        "refreshPriority": 10,
+        "scrub": 0.7,
+        "start": 21610,
+        "trigger": "#water"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "figure.rp-interior-wide"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "y": -70
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "h2."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -30,
+                "y": -15
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "figure.rp-interior-tall"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "div.rp-interior-caption"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.5,
+              "start": 0.5,
+              "targets": [
+                "figure.rp-interior-bedroom"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.5,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": 0
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 27368,
+        "once": false,
+        "pin": "div.rp-interior-stage",
+        "refreshPriority": 10,
+        "scrub": 0.75,
+        "start": 26288,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 5544,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(6px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.055
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 13625,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 9216,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": -3
+          }
+        },
+        "end": 13625,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 9216,
+        "trigger": "#residence"
+      },
+      {
+        "animation": null,
+        "end": 13727,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13625,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 13829,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13727,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 13931,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13829,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14033,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13931,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14135,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14033,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14271,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14135,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14373,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14271,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14475,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14373,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14577,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14475,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14679,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14577,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14781,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14679,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14884,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14781,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 25138,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 23626,
+        "trigger": "div.rp-terrace-photo.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "y": -40
+          }
+        },
+        "end": 26288,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.8,
+        "start": 24418,
+        "trigger": "#family"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "lazy": false,
+            "overwrite": false,
+            "xPercent": -12
+          }
+        },
+        "end": 26288,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 24418,
+        "trigger": "#family"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "yPercent": 4
+          }
+        },
+        "end": 26070,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 25016,
+        "trigger": "figure.rp-family-inset.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 27917,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 27651,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28174,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 27908,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28432,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 28165,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28666,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 28400,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 30481,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 28661,
+        "trigger": "div.rp-connected-image.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1
+          }
+        },
+        "end": 31529,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.8,
+        "start": 30176,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04,
+              "start": 0,
+              "targets": [
+                "div.rp-portal"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.04,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.16,
+              "start": 0.04,
+              "targets": [],
+              "vars": {
+                "c": 0.03,
+                "delay": 0,
+                "duration": 0.16,
+                "ease": "sine.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "c": 1,
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false,
+                "p1": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.2,
+              "targets": [
+                "span.rp-final-intro"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.26,
+              "start": 0.24,
+              "targets": [
+                "div.rp-final-call"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.26,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 28
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.26,
+              "targets": [
+                "button.rp-text-link"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.35,
+              "start": 0.35,
+              "targets": [
+                "header.rp-ui.rp-header",
+                "aside.rp-ui.rp-progress",
+                "div.rp-ui.rp-chapter-index"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.35,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.25,
+              "start": 0.55,
+              "targets": [
+                "h2.rp-final-word"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.25,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "overwrite": false,
+                "p2": 0.25
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [
+                "img.rp-portal-capture"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.1,
+              "start": 0.9,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.09999999999999998,
+                "ease": "power1.inOut",
+                "overwrite": false,
+                "p2": 1
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 1,
+          "vars": {
+            "lazy": false,
+            "paused": true
+          }
+        },
+        "end": 32982,
+        "once": false,
+        "pin": "#finale",
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 31902,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0% 0% 0% 0% round 50% 50% 0% 0%)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 31478,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 30974,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "yPercent": -10
+          }
+        },
+        "end": 31902,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 30902,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 15190,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 13301,
+        "trigger": "#life"
+      },
+      {
+        "animation": null,
+        "end": 21286,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 15190,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": null,
+        "end": 24022,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 21286,
+        "trigger": "#water"
+      },
+      {
+        "animation": null,
+        "end": 24814,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24022,
+        "trigger": "#terrace"
+      },
+      {
+        "animation": null,
+        "end": 25964,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24814,
+        "trigger": "#family"
+      },
+      {
+        "animation": null,
+        "end": 27764,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 25964,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 29057,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 27764,
+        "trigger": "#essentials"
+      },
+      {
+        "animation": null,
+        "end": 30157,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 29057,
+        "trigger": "#connected"
+      },
+      {
+        "animation": null,
+        "end": 31298,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 30157,
+        "trigger": "#amenities-map"
+      },
+      {
+        "animation": null,
+        "end": 32298,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 31298,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 33702,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -20,
+        "scrub": null,
+        "start": 13625,
+        "trigger": "div.rp-main"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 1265,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 720,
+      "reducedMotion": false,
+      "scrollHeight": 34422,
+      "scrollWidth": 1265,
+      "width": 1280
+    }
+  },
+  "local": {
+    "cssAnimations": [
+      {
+        "name": "op-hint-bob",
+        "target": "div.op-hint__inner",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-breathe",
+        "target": "span.op-hint__label",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-beam",
+        "target": "span.op-hint__beam",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-chevron",
+        "target": "span.op-hint__chevron",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-breathe",
+        "target": "p.rc__onward",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-bob",
+        "target": "span.rc__onward-arrow",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "closing-breathe",
+        "target": "button.closing__watch",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 3800,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn.attn--late",
+        "timing": {
+          "delay": 1450,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "wa-pulse",
+        "target": "span.wa__pulse",
+        "timing": {
+          "delay": 1200,
+          "direction": "normal",
+          "duration": 3400,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      }
+    ],
+    "sections": [
+      {
+        "height": 3688.78125,
+        "id": "residence",
+        "top": 9936
+      },
+      {
+        "height": 1889.28125,
+        "id": "life",
+        "top": 13624.78125
+      },
+      {
+        "height": 6096,
+        "id": "rhythm",
+        "top": 15514.0625
+      },
+      {
+        "height": 2736,
+        "id": "water",
+        "top": 21610.0625
+      },
+      {
+        "height": 792,
+        "id": "terrace",
+        "top": 24346.0625
+      },
+      {
+        "height": 1150,
+        "id": "family",
+        "top": 25138.0625
+      },
+      {
+        "height": 1800,
+        "id": "interiors",
+        "top": 26288.0625
+      },
+      {
+        "height": 1292.828125,
+        "id": "essentials",
+        "top": 28088.0625
+      },
+      {
+        "height": 1100,
+        "id": "connected",
+        "top": 29380.890625
+      },
+      {
+        "height": 1141.40625,
+        "id": "amenities-map",
+        "top": 30480.890625
+      },
+      {
+        "height": 1000,
+        "id": "finale",
+        "top": 31622.296875
+      }
+    ],
+    "triggers": [
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 0,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 0,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 0.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 1,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 1,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 1,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 1,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 1.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 3,
+              "start": 2,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 3,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 2,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 2,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 2,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 2.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 3,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.42,
+              "start": 3,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.42,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.85,
+              "start": 3,
+              "targets": [
+                "span.ri-card__reveal"
+              ],
+              "vars": {
+                "clipPath": "inset(-2px -2px 0% -2px)",
+                "delay": 0,
+                "duration": 0.85,
+                "ease": "power3.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.05,
+              "start": 3,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.74,
+              "start": 3.45,
+              "targets": [
+                "span.ri-card__index.t-micro",
+                "span.ri-card__name.t-display",
+                "span.ri-card__cue.t-ui"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.5,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.12,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 4,
+              "targets": [
+                "li.ri-card"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false,
+                "y": -10
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 5,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 12168,
+        "once": false,
+        "pin": "div.ri__page",
+        "refreshPriority": 20,
+        "scrub": 0.72,
+        "start": 9936,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-pause"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -400
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "p.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-balance"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -300
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": 7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "figure.rp-panel-photo.rp-zen-inset"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-move"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -200
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-exhale"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": -100
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 4,
+              "start": 0,
+              "targets": [
+                "article.rp-panel.rp-panel-be"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "video.rp-film"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": 7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "figure.rp-panel-photo.rp-gym-inset"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 1,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 2,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 2,
+              "targets": [
+                "video.rp-film"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 2,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 3,
+              "targets": [
+                "h2.rp-layer-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -90
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 3,
+              "targets": [
+                "img."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.06,
+                "xPercent": -7
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 3,
+              "targets": [
+                "div.rp-panel-copy"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -15,
+                "y": -20
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 4,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 20890,
+        "once": false,
+        "pin": "div.rp-horizontal-stage",
+        "refreshPriority": 10,
+        "scrub": 0.65,
+        "start": 15514,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [
+                "div.rp-water-visual"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2.4,
+              "start": 0,
+              "targets": [
+                "video.rp-film"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2.4,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.65,
+              "start": 0.3,
+              "targets": [
+                "h2.rp-water-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.65,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.8,
+              "start": 1.3,
+              "targets": [
+                "h2.rp-water-title"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.8,
+                "ease": "none",
+                "overwrite": false,
+                "y": -60
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.55,
+              "start": 1.8,
+              "targets": [
+                "div.rp-curve-sheet"
+              ],
+              "vars": {
+                "clipPath": "ellipse(110% 140% at 50% 110%)",
+                "delay": 0,
+                "duration": 1.55,
+                "ease": "power1.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.25,
+              "start": 2.1,
+              "targets": [
+                "h2."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.25,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.6,
+              "start": 2.7,
+              "targets": [
+                "div.rp-curve-bottom"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.6,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.4,
+              "start": 3.35,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.4,
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 3.75,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 23626,
+        "once": false,
+        "pin": "div.rp-water-stage",
+        "refreshPriority": 10,
+        "scrub": 0.7,
+        "start": 21610,
+        "trigger": "#water"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "figure.rp-interior-wide"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1,
+                "y": -70
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "h2."
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": -30,
+                "y": -15
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "figure.rp-interior-tall"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": -10
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 2,
+              "start": 0,
+              "targets": [
+                "div.rp-interior-caption"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 2,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 1.5,
+              "start": 0.5,
+              "targets": [
+                "figure.rp-interior-bedroom"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 1.5,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "yPercent": 0
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 27368,
+        "once": false,
+        "pin": "div.rp-interior-stage",
+        "refreshPriority": 10,
+        "scrub": 0.75,
+        "start": 26288,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 5544,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(6px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.055
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 13625,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 9216,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": -3
+          }
+        },
+        "end": 13625,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 9216,
+        "trigger": "#residence"
+      },
+      {
+        "animation": null,
+        "end": 13727,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13625,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 13829,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13727,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 13931,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13829,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14033,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13931,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14135,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14033,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14271,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14135,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14373,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14271,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14475,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14373,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14577,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14475,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14679,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14577,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14781,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14679,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14884,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14781,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 25138,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 23626,
+        "trigger": "div.rp-terrace-photo.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "y": -40
+          }
+        },
+        "end": 26288,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.8,
+        "start": 24418,
+        "trigger": "#family"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "lazy": false,
+            "overwrite": false,
+            "xPercent": -12
+          }
+        },
+        "end": 26288,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 24418,
+        "trigger": "#family"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "yPercent": 4
+          }
+        },
+        "end": 26070,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 25016,
+        "trigger": "figure.rp-family-inset.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 27917,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 27651,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28174,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 27908,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28432,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 28165,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28666,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 28400,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 30481,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 28661,
+        "trigger": "div.rp-connected-image.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1
+          }
+        },
+        "end": 31529,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.8,
+        "start": 30176,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04,
+              "start": 0,
+              "targets": [
+                "div.rp-portal"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.04,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.16,
+              "start": 0.04,
+              "targets": [],
+              "vars": {
+                "c": 0.03,
+                "delay": 0,
+                "duration": 0.16,
+                "ease": "sine.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "c": 1,
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false,
+                "p1": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.2,
+              "targets": [
+                "span.rp-final-intro"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.26,
+              "start": 0.24,
+              "targets": [
+                "div.rp-final-call"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.26,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 28
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.26,
+              "targets": [
+                "button.rp-text-link"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.35,
+              "start": 0.35,
+              "targets": [
+                "header.rp-ui.rp-header",
+                "aside.rp-ui.rp-progress",
+                "div.rp-ui.rp-chapter-index"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.35,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.25,
+              "start": 0.55,
+              "targets": [
+                "h2.rp-final-word"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.25,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "overwrite": false,
+                "p2": 0.25
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [
+                "img.rp-portal-capture"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.1,
+              "start": 0.9,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.09999999999999998,
+                "ease": "power1.inOut",
+                "overwrite": false,
+                "p2": 1
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 1,
+          "vars": {
+            "lazy": false,
+            "paused": true
+          }
+        },
+        "end": 32982,
+        "once": false,
+        "pin": "#finale",
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 31902,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0% 0% 0% 0% round 50% 50% 0% 0%)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 31478,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 30974,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "yPercent": -10
+          }
+        },
+        "end": 31902,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 30902,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 15190,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 13301,
+        "trigger": "#life"
+      },
+      {
+        "animation": null,
+        "end": 21286,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 15190,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": null,
+        "end": 24022,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 21286,
+        "trigger": "#water"
+      },
+      {
+        "animation": null,
+        "end": 24814,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24022,
+        "trigger": "#terrace"
+      },
+      {
+        "animation": null,
+        "end": 25964,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24814,
+        "trigger": "#family"
+      },
+      {
+        "animation": null,
+        "end": 27764,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 25964,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 29057,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 27764,
+        "trigger": "#essentials"
+      },
+      {
+        "animation": null,
+        "end": 30157,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 29057,
+        "trigger": "#connected"
+      },
+      {
+        "animation": null,
+        "end": 31298,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 30157,
+        "trigger": "#amenities-map"
+      },
+      {
+        "animation": null,
+        "end": 32298,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 31298,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 33702,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -20,
+        "scrub": null,
+        "start": 13625,
+        "trigger": "div.rp-main"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 1265,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 720,
+      "reducedMotion": false,
+      "scrollHeight": 34422,
+      "scrollWidth": 1265,
+      "width": 1280
+    }
+  }
+}

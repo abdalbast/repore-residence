@@ -1,0 +1,34 @@
+{
+  "reference": [
+    {
+      "alt": "The children’s play area on the podium level",
+      "height": 1375,
+      "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+      "src": "/assets/amenities/web/kids-play-area.webp",
+      "width": 1100
+    },
+    {
+      "alt": "Family life at Reposé — the podium level",
+      "height": 1375,
+      "rgbaSha256": "560df1a20262321eee6d2a39558de59e93d4b076acc30c8dbb90284cf6b082c0",
+      "src": "/assets/amenities/web/for-every-generation.webp",
+      "width": 1100
+    }
+  ],
+  "local": [
+    {
+      "alt": "The children’s play area on the podium level",
+      "height": 1375,
+      "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+      "src": "/assets/amenities/web/kids-play-area.webp",
+      "width": 1100
+    },
+    {
+      "alt": "Family life at Reposé — the podium level",
+      "height": 1375,
+      "rgbaSha256": "560df1a20262321eee6d2a39558de59e93d4b076acc30c8dbb90284cf6b082c0",
+      "src": "/assets/amenities/web/for-every-generation.webp",
+      "width": 1100
+    }
+  ]
+}

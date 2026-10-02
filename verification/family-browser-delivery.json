@@ -1,0 +1,40 @@
+{
+  "reference": {
+    "entries": [],
+    "result": [
+      {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "length": 274008,
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+        "status": 200,
+        "type": "image/webp"
+      },
+      {
+        "accept": "*/*",
+        "length": 274008,
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+        "status": 200,
+        "type": "image/webp"
+      }
+    ]
+  },
+  "local": {
+    "entries": [],
+    "result": [
+      {
+        "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        "length": 274008,
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+        "status": 200,
+        "type": "image/webp"
+      },
+      {
+        "accept": "*/*",
+        "length": 274008,
+        "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+        "status": 200,
+        "type": "image/webp"
+      }
+    ]
+  }
+}

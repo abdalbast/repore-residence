@@ -1,0 +1,18 @@
+{
+  "reference": {
+    "bytes": 152146,
+    "freshRgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+    "height": 1080,
+    "sha256": "bbea596f093e8b99975cf7349063ef6eb8191e1e2fd069ee3eaed3f5133e105c",
+    "type": "image/webp",
+    "width": 1920
+  },
+  "local": {
+    "bytes": 152146,
+    "freshRgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+    "height": 1080,
+    "sha256": "bbea596f093e8b99975cf7349063ef6eb8191e1e2fd069ee3eaed3f5133e105c",
+    "type": "image/webp",
+    "width": 1920
+  }
+}

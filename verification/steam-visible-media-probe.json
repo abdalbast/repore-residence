@@ -1,0 +1,521 @@
+[
+  {
+    "name": "reference",
+    "media": [
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 625.6107177734375,
+          "height": 473.1823425292969,
+          "left": -3054.451171875,
+          "right": -2660.984375,
+          "top": 152.42837524414062,
+          "width": 393.466796875,
+          "x": -3054.451171875,
+          "y": 152.42837524414062
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, -25.9837, 0)",
+        "video": null
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 588.962646484375,
+          "height": 450.28466796875,
+          "left": -2177.292724609375,
+          "right": -1336.0833740234375,
+          "top": 138.677978515625,
+          "width": 841.2093505859375,
+          "x": -2177.292724609375,
+          "y": 138.677978515625
+        },
+        "source": "/assets/repose-experience/yoga-01.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, -55.5516, 0)",
+        "video": null
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 563.1150512695312,
+          "height": 198.427001953125,
+          "left": -2380.41650390625,
+          "right": -2122.62939453125,
+          "top": 364.68804931640625,
+          "width": 257.787109375,
+          "x": -2380.41650390625,
+          "y": 364.68804931640625
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, 17.0237, 0)",
+        "video": null
+      },
+      {
+        "className": "rp-film ",
+        "opacity": "1",
+        "rect": {
+          "bottom": 633.4618377685547,
+          "height": 496.0799560546875,
+          "left": -1263.3841552734375,
+          "right": -476.4417724609375,
+          "top": 137.3818817138672,
+          "width": 786.9423828125,
+          "x": -1263.3841552734375,
+          "y": 137.3818817138672
+        },
+        "source": "/assets/amenity-videos/gym.mp4",
+        "tag": "video",
+        "transform": "matrix(1.06, 0, 0, 1.06, -51.9679, 0)",
+        "video": {
+          "buffered": [
+            [
+              0,
+              11
+            ]
+          ],
+          "currentTime": 1,
+          "height": 1080,
+          "networkState": 1,
+          "paused": true,
+          "quality": {},
+          "readyState": 4,
+          "seekable": [
+            [
+              0,
+              11
+            ]
+          ],
+          "seeking": false,
+          "width": 1920
+        }
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 606.8297119140625,
+          "height": 190.80001831054688,
+          "left": -374.1814575195313,
+          "right": -89.2568359375,
+          "top": 416.0296936035156,
+          "width": 284.92462158203125,
+          "x": -374.1814575195313,
+          "y": 416.0296936035156
+        },
+        "source": "/assets/repose-experience/gym-02-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, 18.8158, 0)",
+        "video": null
+      },
+      {
+        "className": "rp-film ",
+        "opacity": "1",
+        "rect": {
+          "bottom": 648.7896423339844,
+          "height": 548.344970703125,
+          "left": 66.46640014648438,
+          "right": 1196.546356201172,
+          "top": 100.44467163085938,
+          "width": 1130.0799560546875,
+          "x": 66.46640014648438,
+          "y": 100.44467163085938
+        },
+        "source": "/assets/amenity-videos/steam-room.mp4",
+        "tag": "video",
+        "transform": "matrix(1.12, 0, 0, 1.12, -0.052468, 0)",
+        "video": {
+          "buffered": [
+            [
+              0,
+              7.266667
+            ]
+          ],
+          "currentTime": 1,
+          "height": 1080,
+          "networkState": 1,
+          "paused": true,
+          "quality": {},
+          "readyState": 4,
+          "seekable": [
+            [
+              0,
+              7.266667
+            ]
+          ],
+          "seeking": false,
+          "width": 1920
+        }
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 613.7813110351562,
+          "height": 492.7188720703125,
+          "left": 1961.6416015625,
+          "right": 2339.20947265625,
+          "top": 121.06243896484376,
+          "width": 377.56787109375,
+          "x": 1961.6416015625,
+          "y": 121.06243896484376
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.1799, 0, 0, 1.1799, 22.3667, 0)",
+        "video": null
+      }
+    ]
+  },
+  {
+    "name": "reference2",
+    "media": [
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 625.6107177734375,
+          "height": 473.1823425292969,
+          "left": -3054.451171875,
+          "right": -2660.984375,
+          "top": 152.42837524414062,
+          "width": 393.466796875,
+          "x": -3054.451171875,
+          "y": 152.42837524414062
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, -25.9837, 0)",
+        "video": null
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 588.962646484375,
+          "height": 450.28466796875,
+          "left": -2177.292724609375,
+          "right": -1336.0833740234375,
+          "top": 138.677978515625,
+          "width": 841.2093505859375,
+          "x": -2177.292724609375,
+          "y": 138.677978515625
+        },
+        "source": "/assets/repose-experience/yoga-01.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, -55.5516, 0)",
+        "video": null
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 563.1150512695312,
+          "height": 198.427001953125,
+          "left": -2380.41650390625,
+          "right": -2122.62939453125,
+          "top": 364.68804931640625,
+          "width": 257.787109375,
+          "x": -2380.41650390625,
+          "y": 364.68804931640625
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, 17.0237, 0)",
+        "video": null
+      },
+      {
+        "className": "rp-film ",
+        "opacity": "1",
+        "rect": {
+          "bottom": 633.4618377685547,
+          "height": 496.0799560546875,
+          "left": -1263.3841552734375,
+          "right": -476.4417724609375,
+          "top": 137.3818817138672,
+          "width": 786.9423828125,
+          "x": -1263.3841552734375,
+          "y": 137.3818817138672
+        },
+        "source": "/assets/amenity-videos/gym.mp4",
+        "tag": "video",
+        "transform": "matrix(1.06, 0, 0, 1.06, -51.9679, 0)",
+        "video": {
+          "buffered": [
+            [
+              0,
+              11
+            ]
+          ],
+          "currentTime": 1,
+          "height": 1080,
+          "networkState": 1,
+          "paused": true,
+          "quality": {},
+          "readyState": 4,
+          "seekable": [
+            [
+              0,
+              11
+            ]
+          ],
+          "seeking": false,
+          "width": 1920
+        }
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 606.8297119140625,
+          "height": 190.80001831054688,
+          "left": -374.1814575195313,
+          "right": -89.2568359375,
+          "top": 416.0296936035156,
+          "width": 284.92462158203125,
+          "x": -374.1814575195313,
+          "y": 416.0296936035156
+        },
+        "source": "/assets/repose-experience/gym-02-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, 18.8158, 0)",
+        "video": null
+      },
+      {
+        "className": "rp-film ",
+        "opacity": "1",
+        "rect": {
+          "bottom": 648.7896423339844,
+          "height": 548.344970703125,
+          "left": 66.46640014648438,
+          "right": 1196.546356201172,
+          "top": 100.44467163085938,
+          "width": 1130.0799560546875,
+          "x": 66.46640014648438,
+          "y": 100.44467163085938
+        },
+        "source": "/assets/amenity-videos/steam-room.mp4",
+        "tag": "video",
+        "transform": "matrix(1.12, 0, 0, 1.12, -0.052468, 0)",
+        "video": {
+          "buffered": [
+            [
+              0,
+              7.266667
+            ]
+          ],
+          "currentTime": 1,
+          "height": 1080,
+          "networkState": 1,
+          "paused": true,
+          "quality": {},
+          "readyState": 4,
+          "seekable": [
+            [
+              0,
+              7.266667
+            ]
+          ],
+          "seeking": false,
+          "width": 1920
+        }
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 613.7813110351562,
+          "height": 492.7188720703125,
+          "left": 1961.6416015625,
+          "right": 2339.20947265625,
+          "top": 121.06243896484376,
+          "width": 377.56787109375,
+          "x": 1961.6416015625,
+          "y": 121.06243896484376
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.1799, 0, 0, 1.1799, 22.3667, 0)",
+        "video": null
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "media": [
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 625.6107177734375,
+          "height": 473.1823425292969,
+          "left": -3054.451171875,
+          "right": -2660.984375,
+          "top": 152.42837524414062,
+          "width": 393.466796875,
+          "x": -3054.451171875,
+          "y": 152.42837524414062
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, -25.9837, 0)",
+        "video": null
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 588.962646484375,
+          "height": 450.28466796875,
+          "left": -2177.292724609375,
+          "right": -1336.0833740234375,
+          "top": 138.677978515625,
+          "width": 841.2093505859375,
+          "x": -2177.292724609375,
+          "y": 138.677978515625
+        },
+        "source": "/assets/repose-experience/yoga-01.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, -55.5516, 0)",
+        "video": null
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 563.1150512695312,
+          "height": 198.427001953125,
+          "left": -2380.41650390625,
+          "right": -2122.62939453125,
+          "top": 364.68804931640625,
+          "width": 257.787109375,
+          "x": -2380.41650390625,
+          "y": 364.68804931640625
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, 17.0237, 0)",
+        "video": null
+      },
+      {
+        "className": "rp-film ",
+        "opacity": "1",
+        "rect": {
+          "bottom": 633.4618377685547,
+          "height": 496.0799560546875,
+          "left": -1263.3841552734375,
+          "right": -476.4417724609375,
+          "top": 137.3818817138672,
+          "width": 786.9423828125,
+          "x": -1263.3841552734375,
+          "y": 137.3818817138672
+        },
+        "source": "/assets/amenity-videos/gym.mp4",
+        "tag": "video",
+        "transform": "matrix(1.06, 0, 0, 1.06, -51.9679, 0)",
+        "video": {
+          "buffered": [
+            [
+              0,
+              11
+            ]
+          ],
+          "currentTime": 1,
+          "height": 1080,
+          "networkState": 1,
+          "paused": true,
+          "quality": {},
+          "readyState": 4,
+          "seekable": [
+            [
+              0,
+              11
+            ]
+          ],
+          "seeking": false,
+          "width": 1920
+        }
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 606.8297119140625,
+          "height": 190.80001831054688,
+          "left": -374.1814575195313,
+          "right": -89.2568359375,
+          "top": 416.0296936035156,
+          "width": 284.92462158203125,
+          "x": -374.1814575195313,
+          "y": 416.0296936035156
+        },
+        "source": "/assets/repose-experience/gym-02-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.06, 0, 0, 1.06, 18.8158, 0)",
+        "video": null
+      },
+      {
+        "className": "rp-film ",
+        "opacity": "1",
+        "rect": {
+          "bottom": 648.7896423339844,
+          "height": 548.344970703125,
+          "left": 66.46640014648438,
+          "right": 1196.546356201172,
+          "top": 100.44467163085938,
+          "width": 1130.0799560546875,
+          "x": 66.46640014648438,
+          "y": 100.44467163085938
+        },
+        "source": "/assets/amenity-videos/steam-room.mp4",
+        "tag": "video",
+        "transform": "matrix(1.12, 0, 0, 1.12, -0.052468, 0)",
+        "video": {
+          "buffered": [
+            [
+              0,
+              7.266667
+            ]
+          ],
+          "currentTime": 1,
+          "height": 1080,
+          "networkState": 1,
+          "paused": true,
+          "quality": {},
+          "readyState": 4,
+          "seekable": [
+            [
+              0,
+              7.266667
+            ]
+          ],
+          "seeking": false,
+          "width": 1920
+        }
+      },
+      {
+        "className": "",
+        "opacity": "1",
+        "rect": {
+          "bottom": 613.7813110351562,
+          "height": 492.7188720703125,
+          "left": 1961.6416015625,
+          "right": 2339.20947265625,
+          "top": 121.06243896484376,
+          "width": 377.56787109375,
+          "x": 1961.6416015625,
+          "y": 121.06243896484376
+        },
+        "source": "/assets/repose-experience/zen-garden-01-720.avif",
+        "tag": "img",
+        "transform": "matrix(1.1799, 0, 0, 1.1799, 22.3667, 0)",
+        "video": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "opening-exit",
+    "index": 0,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 0,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 1,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 1,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 2,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 2,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 3,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 3,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 4,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 4,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 5,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 5,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 6,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 6,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 7,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "opening-exit",
+    "index": 7,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 0,
+    "origin": "reference",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 0,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 1,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 1,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 2,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 2,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 3,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 3,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 4,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 4,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 5,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 5,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 6,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 6,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 7,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-first-expansion",
+    "index": 7,
+    "origin": "local",
+    "raster": [
+      1265,
+      712
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 0,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 0,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 1,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 1,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 2,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 2,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 3,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 3,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 4,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 4,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 5,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 5,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 6,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 6,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 7,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "lazy-lifestyle-expansion",
+    "index": 7,
+    "origin": "local",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 0,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 0,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 1,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 1,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 2,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 2,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 3,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 3,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 4,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 4,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 5,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 5,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 6,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 6,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 7,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-expansion",
+    "index": 7,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 0,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 0,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 1,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 1,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 2,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 2,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 3,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 3,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 4,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 4,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 5,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 5,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 6,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 6,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 7,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-exchange",
+    "index": 7,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 0,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 0,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 1,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 1,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 2,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 2,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 3,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 3,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 4,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 4,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 5,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 5,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 6,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 6,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 7,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-arrival",
+    "index": 7,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 0,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 0,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 1,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 1,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 2,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 2,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 3,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 3,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 4,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 4,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 5,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 5,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 6,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 6,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 7,
+    "origin": "reference",
+    "raster": [
+      524,
+      720
+    ],
+    "cssClientWidth": 1265
+  },
+  {
+    "name": "portal-rewind",
+    "index": 7,
+    "origin": "local",
+    "raster": [
+      789,
+      720
+    ],
+    "cssClientWidth": 1265
+  }
+]

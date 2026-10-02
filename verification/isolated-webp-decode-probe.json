@@ -1,0 +1,136 @@
+{
+  "reference": {
+    "bitmap": [
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": false
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": true
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": false
+      }
+    ],
+    "blob": [
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": true
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      }
+    ],
+    "delivery": {
+      "bytes": 274008,
+      "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+      "type": "image/webp"
+    },
+    "native": [
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": true
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      }
+    ]
+  },
+  "local": {
+    "bitmap": [
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": false
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": true
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": false
+      }
+    ],
+    "blob": [
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": true
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      }
+    ],
+    "delivery": {
+      "bytes": 274008,
+      "sha256": "bc1ce764027d92cdb611567bf03384378bace1c03c1d53ca50e3adc87d577de2",
+      "type": "image/webp"
+    },
+    "native": [
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "2c30f27030accfb272901ce9db5999b3719d003f0fb473d2e84adb61e4fb96e4",
+        "width": 1100,
+        "willReadFrequently": true
+      },
+      {
+        "height": 1375,
+        "rgbaSha256": "ef745003e85e580cdee7a796ced0df6b548ad3b5db89ef950f44e724701c148e",
+        "width": 1100,
+        "willReadFrequently": false
+      }
+    ]
+  }
+}

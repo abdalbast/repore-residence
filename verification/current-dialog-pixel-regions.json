@@ -1,0 +1,111 @@
+{
+  "rows": [
+    {
+      "name": "wellness-entry-4",
+      "regions": [
+        {
+          "label": "panel_interior",
+          "region": [
+            330,
+            40,
+            920,
+            680
+          ],
+          "difference_bbox_within_region": null,
+          "max_channel_difference": 0,
+          "pixel_identical": true
+        },
+        {
+          "label": "panel_with_perimeter",
+          "region": [
+            327,
+            36,
+            938,
+            684
+          ],
+          "difference_bbox_within_region": [
+            0,
+            1,
+            595,
+            647
+          ],
+          "max_channel_difference": 179,
+          "pixel_identical": false
+        },
+        {
+          "label": "scrollbar_strip",
+          "region": [
+            921,
+            36,
+            937,
+            684
+          ],
+          "difference_bbox_within_region": [
+            0,
+            1,
+            1,
+            647
+          ],
+          "max_channel_difference": 179,
+          "pixel_identical": false
+        }
+      ]
+    },
+    {
+      "name": "pool-entry-3",
+      "regions": [
+        {
+          "label": "panel_interior",
+          "region": [
+            330,
+            40,
+            920,
+            680
+          ],
+          "difference_bbox_within_region": null,
+          "max_channel_difference": 0,
+          "pixel_identical": true
+        },
+        {
+          "label": "panel_with_perimeter",
+          "region": [
+            327,
+            36,
+            938,
+            684
+          ],
+          "difference_bbox_within_region": [
+            0,
+            0,
+            611,
+            647
+          ],
+          "max_channel_difference": 3,
+          "pixel_identical": false
+        },
+        {
+          "label": "scrollbar_strip",
+          "region": [
+            921,
+            36,
+            937,
+            684
+          ],
+          "difference_bbox_within_region": [
+            15,
+            12,
+            16,
+            647
+          ],
+          "max_channel_difference": 3,
+          "pixel_identical": false
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "The panel interior comparison excludes its perimeter and scrollbar; full interface identity is not established.",
+    "Backgrounds retain the intentional WhatsApp difference. Existing light/dark preferences differ and were preserved.",
+    "Sequential captures are not synchronized animation clocks."
+  ]
+}

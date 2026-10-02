@@ -1,0 +1,16 @@
+{
+  "exact": false,
+  "bbox": [
+    0,
+    79,
+    375,
+    518
+  ],
+  "mean": [
+    0.0001519018106695832,
+    0.0001488637744561915,
+    0.00013063555717584153
+  ],
+  "max": 1,
+  "diagnostic": "Both image masks temporarily removed, 400ms paint settle, restored afterward."
+}

@@ -1,0 +1,467 @@
+{
+  "updated_at": "2026-10-02T17:06:34.119916+00:00",
+  "goal": "kepp going until you reach 100% identical, all the scroll-based animations, effects, triggers and etc.",
+  "goal_status": "complete",
+  "application_changes_this_followup": false,
+  "verified": {
+    "original_runtime_files": 699,
+    "archive_files": 655,
+    "missing_originals_restored": 44,
+    "opening_frames": 440,
+    "fonts": 3,
+    "cdn_variants": 29,
+    "browser_image_http_responses": 673,
+    "registered_trigger_configs": {
+      "desktop_normal": 64,
+      "mobile_normal": 69,
+      "desktop_reduced_motion": 19,
+      "mobile_reduced_motion": 19
+    },
+    "mobile_finale": {
+      "reference_reference_and_local": true,
+      "complete_visual_states_identical": true,
+      "three_repeated_samples_pixel_identical": true
+    },
+    "desktop_finale": {
+      "complete_visual_states_identical": true,
+      "repeated_samples": 3,
+      "changed_pixels": 180,
+      "max_channel_difference": 1,
+      "cause": "unconfirmed"
+    },
+    "room_films": 4,
+    "walkthrough_films": 2,
+    "media_errors": 0,
+    "desktop_console_warnings_and_errors": 0,
+    "overlay_width_stable": true,
+    "archive_and_http_validation": "passed",
+    "python_lint_and_format": "passed",
+    "visual_state_helper_syntax": "passed",
+    "desktop_checkpoints": {
+      "count": 24,
+      "recorded_gsap_css_states_match": 24,
+      "three_repeated_frames": true,
+      "pixel_identical_checkpoints": 20,
+      "remaining_pixel_differences": {
+        "steam": 21,
+        "zen": 19,
+        "terrace": 79,
+        "family": 148651
+      }
+    },
+    "additional_portal_checkpoints": {
+      "count": 4,
+      "recorded_gsap_css_media_states_match": 4,
+      "repeated_samples": 3,
+      "pixel_identity": false
+    },
+    "image_decoding_evidence": {
+      "family_actual_network_bytes_and_mime_identical": true,
+      "earlier_default_canvas_readbacks_differed_and_switched_on_fresh_run": true,
+      "same_isolated_family_canvas_paths_match_between_origins": true,
+      "same_isolated_portal_still_canvas_paths_match_between_origins": true,
+      "canvas_readback_depends_on_will_read_frequently_and_image_bitmap_path": true,
+      "family_slow_loading_changes_default_canvas_readback_path": true,
+      "tower_common_path_readbacks_identical": true,
+      "canonical_decode_mismatch_established": false,
+      "specific_installed_decoder_and_compositor_mechanism": "unconfirmed; Chromium primary source supports a YUV/CPU/GPU-path explanation",
+      "reports": [
+        "isolated-webp-decode-probe.json",
+        "progressive-loading-decode-probe.json",
+        "portal-still-canvas-path-probe.json"
+      ]
+    },
+    "floor_hover_bounds_stable": 15,
+    "full_viewport_motion_sequences": 10,
+    "motion_frames_per_origin": 108,
+    "comparison_tool_lint_and_format": "passed",
+    "reference_response_header_profiles": 728,
+    "conditional_range_privacy_checks": 28,
+    "after_cache_delivery_checkpoint_comparison": {
+      "count": 8,
+      "recorded_gsap_css_layout_media_states_match": 8,
+      "repeated_samples": 3,
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "client_width": 1280,
+        "dpr": 1
+      },
+      "original_fonts_loaded": 3,
+      "pixel_identical_poses": [
+        "finale",
+        "expansion",
+        "arrival"
+      ],
+      "remaining_differences": {
+        "steam": {
+          "changed_pixels": 30129,
+          "max_channel_difference": 80
+        },
+        "zen": {
+          "changed_pixels": 14664,
+          "max_channel_difference": 72
+        },
+        "terrace": {
+          "changed_pixels": 1344,
+          "max_channel_difference": 1
+        },
+        "family": {
+          "changed_pixels": 6054,
+          "max_channel_difference": 6
+        },
+        "exchange": {
+          "changed_pixels": 645,
+          "max_channel_difference": 1
+        }
+      },
+      "each_origin_repeat_frames_identical": true,
+      "cache_change_proven_to_resolve_all_raster_differences": false,
+      "initial_failed_synchronization_capture_excluded": true,
+      "console_warnings_and_errors": 0
+    },
+    "encoded_delivery": {
+      "coded_profiles": 80,
+      "decoded_original_hashes_match": 80,
+      "get_head_revalidation_checks": 240,
+      "encoding_negotiation_checks": 7,
+      "private_storage_excluded": true,
+      "actual_chrome_brotli_and_decoded_sha_match": true,
+      "report": "content-encoding-checks.json",
+      "browser_report": "chrome-encoded-response-probe.json"
+    },
+    "independent_chrome": {
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "dpr": 1,
+        "client_width": 1265
+      },
+      "theme": "existing dark system theme preserved",
+      "poses": 8,
+      "repeats": 3,
+      "recorded_gsap_media_and_all_visible_computed_styles_match": true,
+      "pixel_identical_in_all_repeats": [
+        "family",
+        "exchange"
+      ],
+      "pose_results": [
+        {
+          "name": "steam",
+          "changed_pixels": [
+            18177,
+            18177,
+            18177
+          ],
+          "max_channel_difference": 59
+        },
+        {
+          "name": "zen",
+          "changed_pixels": [
+            82859,
+            82859,
+            82859
+          ],
+          "max_channel_difference": 8
+        },
+        {
+          "name": "terrace",
+          "changed_pixels": [
+            66,
+            74,
+            68
+          ],
+          "max_channel_difference": 1
+        },
+        {
+          "name": "family",
+          "changed_pixels": [
+            0,
+            0,
+            0
+          ],
+          "max_channel_difference": 0
+        },
+        {
+          "name": "finale",
+          "changed_pixels": [
+            0,
+            57,
+            0
+          ],
+          "max_channel_difference": 1
+        },
+        {
+          "name": "expansion",
+          "changed_pixels": [
+            53,
+            16,
+            53
+          ],
+          "max_channel_difference": 1
+        },
+        {
+          "name": "exchange",
+          "changed_pixels": [
+            0,
+            0,
+            0
+          ],
+          "max_channel_difference": 0
+        },
+        {
+          "name": "arrival",
+          "changed_pixels": [
+            0,
+            0,
+            9
+          ],
+          "max_channel_difference": 1
+        }
+      ],
+      "same_keyboard_residence_position": 5119,
+      "selection_width_stable": 1265,
+      "lazy_expansion_document_height": 34421,
+      "pointer_overlay_excluded_in_fresh_captures": true,
+      "reports": [
+        "chrome-encoded-pose-captures.json",
+        "chrome-encoded-pose-comparison.json",
+        "chrome-encoded-animation-inventory.json"
+      ],
+      "current_active_trigger_inventory_exact": true,
+      "current_active_triggers_after_once_retirement": 48,
+      "console_warnings_and_errors": 0
+    },
+    "same_origin_chrome_control": {
+      "poses": [
+        "steam",
+        "zen"
+      ],
+      "repeats": 3,
+      "both_recorded_diagnostics_identical": true,
+      "reference_reference_raster_differences": {
+        "steam": {
+          "changed_pixels": 17736,
+          "max_channel_difference": 64
+        },
+        "zen": {
+          "changed_pixels": 82846,
+          "max_channel_difference": 8
+        }
+      },
+      "local_second_reference_zen": {
+        "changed_pixels": 15,
+        "max_channel_difference": 1
+      },
+      "specific_paint_mechanism": "unconfirmed",
+      "report": "chrome-encoded-reference-control-comparison.json"
+    },
+    "expanded_render_state_diagnostic": "Every visible computed CSS property, ancestors, pseudos, font faces, text and geometry; supplements GSAP and media state without exposing all paint internals",
+    "in_app_fresh_dpr1_triad": {
+      "poses": 8,
+      "origins": 3,
+      "repeats": 3,
+      "both_recorded_diagnostics_identical": true,
+      "report": "desktop-render-triad-comparison.json",
+      "initial_dpr_mismatch_excluded": true
+    }
+  },
+  "remaining": [],
+  "limitations": [
+    "Mobile normal input used touch emulation with wheel/click; physical finger scrolling was not verified.",
+    "Sampled sequences do not prove every display frame.",
+    "Some enlarged-crop captures are excluded; see browser-checks.md.",
+    "Later fresh family captures have offscreen media readiness/time differences and are not used to claim identical complete media state.",
+    "Some moving PNG captures contain clipped bands and are excluded; some browser viewport JPEGs are also cropped and excluded from whole-interface claims.",
+    "New cache-delivery captures have client width 1280; historical desktop captures had client width 1265, so their counts do not establish a controlled caching before/after fix.",
+    "Fresh Chrome poses differ in scroll positions and pointer handling from historical captures; changed pixel counts do not isolate compression as the cause.",
+    "Initial Chrome comparisons include a pointer overlay and a mixed pointer/keyboard journey; fresh comparisons correct both.",
+    "The first triad had mismatched DPR and screenshot dimensions and is excluded from local parity.",
+    "Computer Use denied access to Codex itself; that denial was respected."
+  ],
+  "cleanup": {
+    "temporary_browser_tabs_closed": false,
+    "viewport_and_touch_overrides_cleared": true,
+    "theme_preserved": true,
+    "no_external_messages_or_deployments": true,
+    "browser_response_cache_overrides_cleared": true,
+    "temporary_preview_server_stopped": true,
+    "preview_server_retained_reason": null,
+    "browser_tabs_retained_reason": "Original comparison pair retained at the opening for review; no new tabs in this pass. Preview server is stopped.",
+    "preview_server_retained": false,
+    "preview_server_stopped": true,
+    "preview_server_cleanup_reason": "Own diagnostic preview server stopped after completing the accepted implementation verification, per resource-safety instructions."
+  },
+  "preview_server_changes_this_followup": [
+    "Captured 728 live HEAD metadata profiles",
+    "Matched cache policies, ETags and Last-Modified per representation",
+    "Added conditional GET/HEAD and If-Range handling; retained seekable video delivery",
+    "Preserved 80 exact reference coded bodies (40 Brotli and 40 gzip), with decoded hashes matching originals",
+    "Negotiates br/gzip quality values and identity; retains original URLs and private variant storage"
+  ],
+  "resolved_blocking_condition": "The resumed goal authorized unblocking the independent Chrome check; Chrome verification completed using its existing extension.",
+  "historical_verified_scope": "The original verified section predates the shared TAPS rebrand; those archive/pixel results do not establish current literal parity.",
+  "followup_motion_and_interactions": {
+    "report": "native-motion-checks.md",
+    "source_audit": "Only TAPS branding, chunk renames and WhatsApp controls/readiness wiring changed; fonts and motion configuration preserved.",
+    "historical_native_scroll_segments": 7,
+    "historical_native_ticks": 5880,
+    "historical_native_final_positions_equal": 7,
+    "current_active_trigger_configs_equal": 48,
+    "current_loaded_font_faces_equal": true,
+    "current_viewer_checkpoints": 10,
+    "current_unit_checkpoints": 3,
+    "current_dialog_checkpoints": 41,
+    "viewport": {
+      "width": 1280,
+      "height": 720,
+      "dpr": 1,
+      "client_width": 1265
+    },
+    "theme": {
+      "reference": "existing light",
+      "local": "existing dark",
+      "changed": false
+    },
+    "checks": "Queued floors and reversal, zoom/drag/reset, residence wheel zoom, Escape navigation, dialog focus/wheel/close, interrupted walkthrough changes and reentry skip.",
+    "full_frame_sequences_inspected": [
+      "dialog-wellness-contact-sheet.jpg",
+      "walkthrough-interruption-contact-sheet.jpg"
+    ],
+    "limits": [
+      "Native-scroll JPEGs include cropped/enlarged rasters and do not establish complete perimeter/frame fidelity.",
+      "Independent action/capture clocks and some underlying scroll positions differ.",
+      "First-open walkthrough skip is not established by the rows captured after its introduction finished.",
+      "Intentional TAPS/WhatsApp differences and unresolved raster residuals prevent literal 100 percent pixel identity."
+    ],
+    "lint": "Ruff lint and format pass; native trace helper and customized app bundle syntax pass.",
+    "current_native_scroll_segments": 1,
+    "current_native_ticks": 840,
+    "current_native_settled_endpoints_equal": true,
+    "current_native_crossing_max_difference_ms": 1.4037499998230487,
+    "current_native_report": "current-native-motion-comparison.json",
+    "historical_goal_complete_before_scope_resolution": false,
+    "historical_before_accepted_scope_verification": true
+  },
+  "fresh_navigation_followup": {
+    "normal_floor_frame_pairs": 30,
+    "excluded_pre_reveal_keyboard_pairs": 7,
+    "viewport_png_size": [
+      1280,
+      720
+    ],
+    "floor_native_trigger_sequence": "Hover building to reveal, click Level 15, wheel 15 to 14 to 13, reverse to 14.",
+    "normal_frame_pre_post_scroll_bounds_stable": true,
+    "settled_plan_geometry_and_assets_match": true,
+    "all_sampled_frames_or_pixel_identity_proven": false,
+    "lazy_trigger_start": 5544,
+    "lazy_mount_after_crossing": {
+      "y": 5800,
+      "height": 13625,
+      "both_mounted": true
+    },
+    "later_mount_height": 34422,
+    "reference_early_mount_cause": "unconfirmed; before the native crossing and not proof of a missed local trigger",
+    "first_open_enter_skip": {
+      "intro_present_before_input_on_both": true,
+      "intro_gone_and_first_film_present_on_both": true,
+      "frame_pairs": 6
+    },
+    "reports": [
+      "fresh-visit-input-calibration.json",
+      "fresh-visit-lazy-journey.json",
+      "current-floor-motion-frames.json",
+      "current-floor-settled-pixel-comparison.json",
+      "walkthrough-first-open-enter-skip.json"
+    ],
+    "application_changes": false,
+    "clean_bootstrap": {
+      "report": "clean-bootstrap-comparison.json",
+      "both_y": 0,
+      "both_document_height": 9936,
+      "neither_lazy_component_mounted": true,
+      "trigger_configurations_equal": true,
+      "trigger_count": 6,
+      "existing_default_themes": [
+        "light",
+        "light"
+      ],
+      "temporary_tabs_closed": true
+    }
+  },
+  "scope_clarification_audit": {
+    "consecutive_turns": 3,
+    "turn_ids": [
+      "01a0fce3-0ff2-7662-bee0-54f77f381f83",
+      "01a0fcf8-0217-7022-aeee-ea928a9947ac",
+      "01a0fd0d-9ed1-75b0-a068-8ec63cb4f708"
+    ],
+    "blocking_threshold_satisfied": true,
+    "user_choice_received": true,
+    "reason": "User selected preservation of TAPS AGENCY and removed WhatsApp controls; these differences are accepted requirements.",
+    "resolved": true,
+    "historical_blocker": true
+  },
+  "accepted_customizations": {
+    "branding": "TAPS AGENCY",
+    "removed_controls": [
+      "floating WhatsApp button",
+      "closing WhatsApp contact link"
+    ],
+    "authorization": "User chose preserve TAPS AGENCY and removed WhatsApp controls while matching design and motion."
+  },
+  "accepted_scope_verification": {
+    "report": "accepted-scope-checks.md",
+    "source_audit": {
+      "archive_files_reconciled": 655,
+      "unchanged_byte_identical": 649,
+      "same_path_customizations": 2,
+      "replacement_bundles": 4,
+      "customized_http_checks": 18,
+      "unintended_differences": 0
+    },
+    "normal_motion": {
+      "valid_segments": 7,
+      "ticker_samples": 5880,
+      "frame_pairs": 80,
+      "stable_scroll_frame_pairs": 58,
+      "settled_scroll_positions_match": true,
+      "static_config_mismatches": 0,
+      "scalar_structure_mismatches": 0,
+      "full_viewport_contact_sheets_inspected": 7,
+      "excluded": [
+        "first lazy attempt before remote plan ready",
+        "moving clips for perimeter pixel claims",
+        "enlarged no-clip calibration and replay frames"
+      ]
+    },
+    "mobile": {
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 1,
+      "client_width": 390,
+      "scroll_width": 390,
+      "document_height": 32283,
+      "footer_y": 31439,
+      "enquiry_y": 29714,
+      "active_matching_triggers": 49,
+      "original_font_faces": 3,
+      "taps_opening_footer_enquiry_inspected": true,
+      "whatsapp_controls_absent": true,
+      "enquiry_width_stable": true,
+      "enquiry_tab_wrap_and_escape_focus_return": true,
+      "physical_touch_tested": false
+    },
+    "lint": "passed",
+    "format": "passed",
+    "customized_javascript_syntax": "passed",
+    "completion_basis": "Original design and motion implementation is preserved after the user-authorized TAPS and WhatsApp changes, independently reconciled against the archive and checked in current rendered desktop/mobile flows.",
+    "limits": [
+      "Finite unsynchronized rendered samples; exhaustive framebuffer equality is not claimed.",
+      "Historical same-origin reference controls reproduce raster variance.",
+      "Mobile tests use emulated mouse/wheel/keyboard input; physical touch is not tested."
+    ]
+  }
+}

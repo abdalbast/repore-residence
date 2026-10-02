@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-02T11:05:09.784821+00:00",
+  "url": "http://127.0.0.1:4173",
+  "encoded_profiles_checked": 80,
+  "get_head_revalidation_checks": 240,
+  "negotiation_checks": [
+    {
+      "accept_encoding": "gzip, deflate, br, zstd",
+      "encoding": "br",
+      "passed": true
+    },
+    {
+      "accept_encoding": "gzip;q=1,br;q=0.5",
+      "encoding": "gzip",
+      "passed": true
+    },
+    {
+      "accept_encoding": "br;q=0,gzip",
+      "encoding": "gzip",
+      "passed": true
+    },
+    {
+      "accept_encoding": "br;q=0,gzip;q=0",
+      "encoding": null,
+      "passed": true
+    },
+    {
+      "accept_encoding": "identity;q=1,br;q=0.5",
+      "encoding": null,
+      "passed": true
+    },
+    {
+      "accept_encoding": "*;q=1,br;q=0",
+      "encoding": "gzip",
+      "passed": true
+    },
+    {
+      "accept_encoding": "br;q=invalid,gzip",
+      "encoding": "gzip",
+      "passed": true
+    }
+  ],
+  "private_storage_checked": true,
+  "errors": []
+}

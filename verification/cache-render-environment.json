@@ -1,0 +1,78 @@
+[
+  {
+    "name": "reference",
+    "state": {
+      "bodyStyle": null,
+      "fonts": {
+        "list": [
+          {
+            "family": "ReposeDisplay",
+            "status": "loaded",
+            "style": "normal",
+            "weight": "400"
+          },
+          {
+            "family": "ReposeDisplay",
+            "status": "loaded",
+            "style": "italic",
+            "weight": "400"
+          },
+          {
+            "family": "ReposeSans",
+            "status": "loaded",
+            "style": "normal",
+            "weight": "400"
+          }
+        ],
+        "status": "loaded"
+      },
+      "htmlStyle": null,
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "viewport": {
+        "clientWidth": 1280,
+        "dpr": 1,
+        "height": 720,
+        "scrollWidth": 1280,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "name": "local",
+    "state": {
+      "bodyStyle": null,
+      "fonts": {
+        "list": [
+          {
+            "family": "ReposeDisplay",
+            "status": "loaded",
+            "style": "normal",
+            "weight": "400"
+          },
+          {
+            "family": "ReposeDisplay",
+            "status": "loaded",
+            "style": "italic",
+            "weight": "400"
+          },
+          {
+            "family": "ReposeSans",
+            "status": "loaded",
+            "style": "normal",
+            "weight": "400"
+          }
+        ],
+        "status": "loaded"
+      },
+      "htmlStyle": null,
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "viewport": {
+        "clientWidth": 1280,
+        "dpr": 1,
+        "height": 720,
+        "scrollWidth": 1280,
+        "width": 1280
+      }
+    }
+  }
+]

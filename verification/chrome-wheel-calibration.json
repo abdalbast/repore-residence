@@ -1,0 +1,26 @@
+[
+  {
+    "name": "reference",
+    "before": 12904,
+    "events": [
+      {
+        "deltaY": 200,
+        "mode": 0
+      }
+    ],
+    "y": 13134,
+    "displacement": 230
+  },
+  {
+    "name": "local",
+    "before": 12904,
+    "events": [
+      {
+        "deltaY": 200,
+        "mode": 0
+      }
+    ],
+    "y": 13134,
+    "displacement": 230
+  }
+]

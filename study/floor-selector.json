@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "1.0.0",
+  "project": "Reposé Residence",
+  "levels": [
+    {
+      "level": "01",
+      "label": "LEVEL 01",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "05",
+        "07",
+        "11"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "02",
+      "label": "LEVEL 02",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "04",
+        "08",
+        "10"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "03",
+      "label": "LEVEL 03",
+      "floorplate": "floorplates-web/floorplate-l03-09.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "09"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "04",
+      "label": "LEVEL 04",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "02",
+        "08",
+        "10"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "05",
+      "label": "LEVEL 05",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "01",
+        "07",
+        "11"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "06",
+      "label": "LEVEL 06",
+      "floorplate": "floorplates-web/floorplate-l06.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [],
+      "sharesFloorplate": false,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "07",
+      "label": "LEVEL 07",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "01",
+        "05",
+        "11"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "08",
+      "label": "LEVEL 08",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "02",
+        "04",
+        "10"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "09",
+      "label": "LEVEL 09",
+      "floorplate": "floorplates-web/floorplate-l03-09.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "03"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "10",
+      "label": "LEVEL 10",
+      "floorplate": "floorplates-web/floorplate-l02-04-08-10.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "02",
+        "04",
+        "08"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "11",
+      "label": "LEVEL 11",
+      "floorplate": "floorplates-web/floorplate-l01-05-07-11.webp",
+      "residences": [
+        "1 BHK",
+        "1 BHK + Study",
+        "2 BHK + Maid Room"
+      ],
+      "sharedWith": [
+        "01",
+        "05",
+        "07"
+      ],
+      "sharesFloorplate": true,
+      "unitPlanMappingStatus": "VERIFIED"
+    },
+    {
+      "level": "12",
+      "label": "LEVEL 12",
+      "floorplate": "floorplates-web/floorplate-l12.webp",
+      "residences": [
+        "3 BHK + Maid Room"
+      ],
+      "sharedWith": [],
+      "sharesFloorplate": false,
+      "unitPlanMappingStatus": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "level": "13",
+      "label": "LEVEL 13",
+      "floorplate": "floorplates-web/floorplate-l13.webp",
+      "residences": [
+        "3 BHK + Maid Room"
+      ],
+      "sharedWith": [],
+      "sharesFloorplate": false,
+      "unitPlanMappingStatus": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "level": "14",
+      "label": "LEVEL 14",
+      "floorplate": "floorplates-web/floorplate-l14.webp",
+      "residences": [
+        "3 BHK + Maid Room"
+      ],
+      "sharedWith": [],
+      "sharesFloorplate": false,
+      "unitPlanMappingStatus": "NEEDS MANUAL VERIFICATION"
+    },
+    {
+      "level": "15",
+      "label": "LEVEL 15",
+      "floorplate": "floorplates-web/floorplate-l15-penthouse.webp",
+      "residences": [
+        "4 BHK Penthouse with Jacuzzi",
+        "2 BHK + Maid Room",
+        "3 BHK Penthouse with Jacuzzi"
+      ],
+      "sharedWith": [],
+      "sharesFloorplate": false,
+      "unitPlanMappingStatus": "NEEDS MANUAL VERIFICATION"
+    }
+  ]
+}

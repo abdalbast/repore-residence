@@ -1,0 +1,58 @@
+[
+  {
+    "origin": "reference",
+    "rows": [
+      {
+        "bytes": 112157,
+        "encoding": "br",
+        "path": "/assets/index-Bez0Vhn_.js",
+        "sha256": "68e0bc20495fde8b0e473679485349f43069d5b3b9bffbf61762ac36af85342c",
+        "status": 200,
+        "type": "application/x-javascript"
+      },
+      {
+        "bytes": 131233,
+        "encoding": "br",
+        "path": "/assets/repose-experience/zen-garden-01-720.avif",
+        "sha256": "c5e223da8a5eabe406d0b5c9d317f24e75810aa931737d56114dac5ee3a47a3f",
+        "status": 200,
+        "type": "text/plain"
+      }
+    ],
+    "theme": "dark",
+    "viewport": {
+      "clientWidth": 1265,
+      "dpr": 1,
+      "height": 720,
+      "width": 1280
+    }
+  },
+  {
+    "origin": "local",
+    "rows": [
+      {
+        "bytes": 112157,
+        "encoding": "br",
+        "path": "/assets/index-Bez0Vhn_.js",
+        "sha256": "68e0bc20495fde8b0e473679485349f43069d5b3b9bffbf61762ac36af85342c",
+        "status": 200,
+        "type": "application/x-javascript"
+      },
+      {
+        "bytes": 131233,
+        "encoding": "br",
+        "path": "/assets/repose-experience/zen-garden-01-720.avif",
+        "sha256": "c5e223da8a5eabe406d0b5c9d317f24e75810aa931737d56114dac5ee3a47a3f",
+        "status": 200,
+        "type": "text/plain"
+      }
+    ],
+    "theme": "dark",
+    "viewport": {
+      "clientWidth": 1265,
+      "dpr": 1,
+      "height": 720,
+      "width": 1280
+    }
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "name": "steam",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 18177,
+        "max_channel_difference": 59,
+        "bounds": [
+          205,
+          212,
+          1100,
+          694
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 18177,
+        "max_channel_difference": 59,
+        "bounds": [
+          205,
+          212,
+          1100,
+          694
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 18177,
+        "max_channel_difference": 59,
+        "bounds": [
+          205,
+          212,
+          1100,
+          694
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "zen",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 82859,
+        "max_channel_difference": 8,
+        "bounds": [
+          249,
+          157,
+          1011,
+          574
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 82859,
+        "max_channel_difference": 8,
+        "bounds": [
+          249,
+          157,
+          1011,
+          574
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 82859,
+        "max_channel_difference": 8,
+        "bounds": [
+          249,
+          157,
+          1011,
+          574
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "terrace",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 66,
+        "max_channel_difference": 1,
+        "bounds": [
+          298,
+          17,
+          797,
+          277
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 74,
+        "max_channel_difference": 1,
+        "bounds": [
+          189,
+          4,
+          797,
+          277
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": false
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 68,
+        "max_channel_difference": 1,
+        "bounds": [
+          365,
+          17,
+          802,
+          277
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": false
+      }
+    ]
+  },
+  {
+    "name": "family",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "finale",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 57,
+        "max_channel_difference": 1,
+        "bounds": [
+          480,
+          167,
+          784,
+          227
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": false
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "expansion",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 53,
+        "max_channel_difference": 1,
+        "bounds": [
+          42,
+          483,
+          1222,
+          673
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 16,
+        "max_channel_difference": 1,
+        "bounds": [
+          77,
+          57,
+          1187,
+          225
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": false
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 53,
+        "max_channel_difference": 1,
+        "bounds": [
+          42,
+          483,
+          1222,
+          673
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "exchange",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "arrival",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 0,
+        "max_channel_difference": 0,
+        "bounds": null,
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": false
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 9,
+        "max_channel_difference": 1,
+        "bounds": [
+          361,
+          265,
+          577,
+          496
+        ],
+        "reference_matches_first_sample": false,
+        "local_matches_first_sample": true
+      }
+    ]
+  }
+]

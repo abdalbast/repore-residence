@@ -1,0 +1,946 @@
+[
+  {
+    "name": "reference",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": false,
+      "w": 390,
+      "y": 29714
+    },
+    "triggers": [
+      {
+        "duration": null,
+        "end": 10803,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 0
+      },
+      {
+        "duration": null,
+        "end": 11647,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": -844
+      },
+      {
+        "duration": null,
+        "end": 10803,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 0
+      },
+      {
+        "duration": null,
+        "end": 11647,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": -844
+      },
+      {
+        "duration": null,
+        "end": 11647,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 6499
+      },
+      {
+        "duration": 2.0645161,
+        "end": 10803,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": true,
+        "start": 0
+      },
+      {
+        "duration": 0.5,
+        "end": 14420,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 10803
+      },
+      {
+        "duration": 0.5,
+        "end": 14420,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 10803
+      },
+      {
+        "duration": null,
+        "end": 14654,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14509
+      },
+      {
+        "duration": null,
+        "end": 14776,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14654
+      },
+      {
+        "duration": null,
+        "end": 14921,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14776
+      },
+      {
+        "duration": null,
+        "end": 15066,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14921
+      },
+      {
+        "duration": null,
+        "end": 15188,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15066
+      },
+      {
+        "duration": null,
+        "end": 15357,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15188
+      },
+      {
+        "duration": null,
+        "end": 15502,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15357
+      },
+      {
+        "duration": null,
+        "end": 15624,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15502
+      },
+      {
+        "duration": null,
+        "end": 15769,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15624
+      },
+      {
+        "duration": null,
+        "end": 15891,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15769
+      },
+      {
+        "duration": null,
+        "end": 16013,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15891
+      },
+      {
+        "duration": null,
+        "end": 16136,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 16013
+      },
+      {
+        "duration": 0.5,
+        "end": 17799,
+        "node": "rp-panel-photo rp-pause-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 16575
+      },
+      {
+        "duration": 0.5,
+        "end": 18552,
+        "node": "rp-panel-photo rp-yoga-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 17309
+      },
+      {
+        "duration": 0.5,
+        "end": 18654,
+        "node": "rp-panel-photo rp-zen-inset",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 17578
+      },
+      {
+        "duration": 0.5,
+        "end": 19402,
+        "node": "rp-panel-photo rp-gym-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 18136
+      },
+      {
+        "duration": 0.5,
+        "end": 19563,
+        "node": "rp-panel-photo rp-gym-inset",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 18516
+      },
+      {
+        "duration": 0.5,
+        "end": 20361,
+        "node": "rp-panel-photo rp-steam-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 18876
+      },
+      {
+        "duration": 0.5,
+        "end": 21091,
+        "node": "rp-panel-photo rp-be-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 19862
+      },
+      {
+        "duration": null,
+        "end": 22683,
+        "node": "rp-curve-sheet",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 21874
+      },
+      {
+        "duration": 0.5,
+        "end": 23696,
+        "node": "rp-terrace-photo rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 22008
+      },
+      {
+        "duration": 0.5,
+        "end": 26383,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26070
+      },
+      {
+        "duration": 0.5,
+        "end": 26620,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26308
+      },
+      {
+        "duration": 0.5,
+        "end": 26834,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26522
+      },
+      {
+        "duration": 0.5,
+        "end": 27048,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26736
+      },
+      {
+        "duration": 0.5,
+        "end": 28951,
+        "node": "rp-connected-image rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 26939
+      },
+      {
+        "duration": 0.5,
+        "end": 29540,
+        "node": "rp-map-figure",
+        "once": false,
+        "pin": false,
+        "scrub": 0.8,
+        "start": 28444
+      },
+      {
+        "duration": 1,
+        "end": 30595,
+        "node": "finale",
+        "once": false,
+        "pin": true,
+        "scrub": true,
+        "start": 29835
+      },
+      {
+        "duration": 0.5,
+        "end": 29455,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 28865
+      },
+      {
+        "duration": 0.5,
+        "end": 29835,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 28780
+      },
+      {
+        "duration": null,
+        "end": 16497,
+        "node": "life",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14040
+      },
+      {
+        "duration": null,
+        "end": 20879,
+        "node": "rhythm",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 16497
+      },
+      {
+        "duration": null,
+        "end": 22472,
+        "node": "water",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 20879
+      },
+      {
+        "duration": null,
+        "end": 23316,
+        "node": "terrace",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 22472
+      },
+      {
+        "duration": null,
+        "end": 24456,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 23316
+      },
+      {
+        "duration": null,
+        "end": 25595,
+        "node": "interiors",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 24456
+      },
+      {
+        "duration": null,
+        "end": 27403,
+        "node": "essentials",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 25595
+      },
+      {
+        "duration": null,
+        "end": 28571,
+        "node": "connected",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 27403
+      },
+      {
+        "duration": null,
+        "end": 29244,
+        "node": "amenities-map",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 28571
+      },
+      {
+        "duration": null,
+        "end": 30299,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 29244
+      },
+      {
+        "duration": null,
+        "end": 31439,
+        "node": "rp-main",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14420
+      }
+    ],
+    "fonts": [
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeSans",
+        "status": "loaded"
+      }
+    ]
+  },
+  {
+    "name": "local",
+    "state": {
+      "client": 390,
+      "dpr": 1,
+      "floor": false,
+      "h": 844,
+      "height": 32283,
+      "lazy": false,
+      "scrollWidth": 390,
+      "theme": true,
+      "w": 390,
+      "y": 29714
+    },
+    "triggers": [
+      {
+        "duration": null,
+        "end": 10803,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 0
+      },
+      {
+        "duration": null,
+        "end": 11647,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": -844
+      },
+      {
+        "duration": null,
+        "end": 10803,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 0
+      },
+      {
+        "duration": null,
+        "end": 11647,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": -844
+      },
+      {
+        "duration": null,
+        "end": 11647,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 6499
+      },
+      {
+        "duration": 2.0645161,
+        "end": 10803,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": true,
+        "start": 0
+      },
+      {
+        "duration": 0.5,
+        "end": 14420,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 10803
+      },
+      {
+        "duration": 0.5,
+        "end": 14420,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 10803
+      },
+      {
+        "duration": null,
+        "end": 14654,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14509
+      },
+      {
+        "duration": null,
+        "end": 14776,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14654
+      },
+      {
+        "duration": null,
+        "end": 14921,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14776
+      },
+      {
+        "duration": null,
+        "end": 15066,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14921
+      },
+      {
+        "duration": null,
+        "end": 15188,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15066
+      },
+      {
+        "duration": null,
+        "end": 15357,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15188
+      },
+      {
+        "duration": null,
+        "end": 15502,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15357
+      },
+      {
+        "duration": null,
+        "end": 15624,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15502
+      },
+      {
+        "duration": null,
+        "end": 15769,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15624
+      },
+      {
+        "duration": null,
+        "end": 15891,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15769
+      },
+      {
+        "duration": null,
+        "end": 16013,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 15891
+      },
+      {
+        "duration": null,
+        "end": 16136,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 16013
+      },
+      {
+        "duration": 0.5,
+        "end": 17799,
+        "node": "rp-panel-photo rp-pause-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 16575
+      },
+      {
+        "duration": 0.5,
+        "end": 18552,
+        "node": "rp-panel-photo rp-yoga-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 17309
+      },
+      {
+        "duration": 0.5,
+        "end": 18654,
+        "node": "rp-panel-photo rp-zen-inset",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 17578
+      },
+      {
+        "duration": 0.5,
+        "end": 19402,
+        "node": "rp-panel-photo rp-gym-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 18136
+      },
+      {
+        "duration": 0.5,
+        "end": 19563,
+        "node": "rp-panel-photo rp-gym-inset",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 18516
+      },
+      {
+        "duration": 0.5,
+        "end": 20361,
+        "node": "rp-panel-photo rp-steam-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 18876
+      },
+      {
+        "duration": 0.5,
+        "end": 21091,
+        "node": "rp-panel-photo rp-be-photo",
+        "once": false,
+        "pin": false,
+        "scrub": 0.4,
+        "start": 19862
+      },
+      {
+        "duration": null,
+        "end": 22683,
+        "node": "rp-curve-sheet",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 21874
+      },
+      {
+        "duration": 0.5,
+        "end": 23696,
+        "node": "rp-terrace-photo rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 22008
+      },
+      {
+        "duration": 0.5,
+        "end": 26383,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26070
+      },
+      {
+        "duration": 0.5,
+        "end": 26620,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26308
+      },
+      {
+        "duration": 0.5,
+        "end": 26834,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26522
+      },
+      {
+        "duration": 0.5,
+        "end": 27048,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 26736
+      },
+      {
+        "duration": 0.5,
+        "end": 28951,
+        "node": "rp-connected-image rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 26939
+      },
+      {
+        "duration": 0.5,
+        "end": 29540,
+        "node": "rp-map-figure",
+        "once": false,
+        "pin": false,
+        "scrub": 0.8,
+        "start": 28444
+      },
+      {
+        "duration": 1,
+        "end": 30595,
+        "node": "finale",
+        "once": false,
+        "pin": true,
+        "scrub": true,
+        "start": 29835
+      },
+      {
+        "duration": 0.5,
+        "end": 29455,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 28865
+      },
+      {
+        "duration": 0.5,
+        "end": 29835,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 28780
+      },
+      {
+        "duration": null,
+        "end": 16497,
+        "node": "life",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14040
+      },
+      {
+        "duration": null,
+        "end": 20879,
+        "node": "rhythm",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 16497
+      },
+      {
+        "duration": null,
+        "end": 22472,
+        "node": "water",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 20879
+      },
+      {
+        "duration": null,
+        "end": 23316,
+        "node": "terrace",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 22472
+      },
+      {
+        "duration": null,
+        "end": 24456,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 23316
+      },
+      {
+        "duration": null,
+        "end": 25595,
+        "node": "interiors",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 24456
+      },
+      {
+        "duration": null,
+        "end": 27403,
+        "node": "essentials",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 25595
+      },
+      {
+        "duration": null,
+        "end": 28571,
+        "node": "connected",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 27403
+      },
+      {
+        "duration": null,
+        "end": 29244,
+        "node": "amenities-map",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 28571
+      },
+      {
+        "duration": null,
+        "end": 30299,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 29244
+      },
+      {
+        "duration": null,
+        "end": 31439,
+        "node": "rp-main",
+        "once": false,
+        "pin": false,
+        "scrub": null,
+        "start": 14420
+      }
+    ],
+    "fonts": [
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded"
+      },
+      {
+        "family": "ReposeSans",
+        "status": "loaded"
+      }
+    ]
+  }
+]

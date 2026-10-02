@@ -1,0 +1,149 @@
+{
+  "capture": "Browser viewport screenshot; JPEG, scaled uniformly by browser",
+  "samples": [
+    {
+      "frame": 0,
+      "at": 1790916310197,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    },
+    {
+      "frame": 1,
+      "at": 1790916310525,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    },
+    {
+      "frame": 2,
+      "at": 1790916310810,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    },
+    {
+      "frame": 3,
+      "at": 1790916311126,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    },
+    {
+      "frame": 4,
+      "at": 1790916311344,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    },
+    {
+      "frame": 5,
+      "at": 1790916311650,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    },
+    {
+      "frame": 6,
+      "at": 1790916311977,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    },
+    {
+      "frame": 7,
+      "at": 1790916312182,
+      "reference": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      },
+      "local": {
+        "clientWidth": 1265,
+        "height": 720,
+        "scrollWidth": 1265,
+        "width": 1280,
+        "y": 20890
+      }
+    }
+  ]
+}

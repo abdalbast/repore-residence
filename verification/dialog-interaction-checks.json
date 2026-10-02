@@ -1,0 +1,5755 @@
+[
+  {
+    "name": "enquiry-open",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×YOUR NEXT CHAPTERLet’s talkabout Reposé.Contact SAION Properties to learn more about Reposé R",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@saionproperties.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×YOUR NEXT CHAPTERLet’s talkabout Reposé.Contact TAPS AGENCY to learn more about Reposé Reside",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@tapsagency.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "enquiry-tab-first",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@saionproperties.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@tapsagency.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "enquiry-tab-wrap-last",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CALL+971 42 61 4002↗",
+          "tag": "A"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@saionproperties.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      },
+      "local": {
+        "active": {
+          "label": "CALL+971 42 61 4002↗",
+          "tag": "A"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@tapsagency.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "enquiry-tab-wrap-first",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@saionproperties.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@tapsagency.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "enquiry-wheel-contained",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@saionproperties.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          },
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 128.359375,
+                  "height": 30,
+                  "left": 840.9375,
+                  "right": 912.5,
+                  "top": 98.359375,
+                  "width": 71.5625,
+                  "x": 840.9375,
+                  "y": 98.359375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "EMAILinfo@tapsagency.com↗",
+                "rect": {
+                  "bottom": 455.296875,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 376.453125,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 376.453125
+                },
+                "tag": "A"
+              },
+              {
+                "label": "CALL+971 42 61 4002↗",
+                "rect": {
+                  "bottom": 534.140625,
+                  "height": 78.84375,
+                  "left": 373.5,
+                  "right": 891.5,
+                  "top": 455.296875,
+                  "width": 518,
+                  "x": 373.5,
+                  "y": 455.296875
+                },
+                "tag": "A"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 642.640625,
+              "height": 565.28125,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 77.359375,
+              "width": 610,
+              "x": 327.5,
+              "y": 77.359375
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "enquiry-closed",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "ENQUIRE ↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      },
+      "local": {
+        "active": {
+          "label": "ENQUIRE ↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "←Interiors",
+                "rect": {
+                  "bottom": 78.625,
+                  "height": 49.828125,
+                  "left": 83.1953125,
+                  "right": 247.671875,
+                  "top": 28.796875,
+                  "width": 164.4765625,
+                  "x": 83.1953125,
+                  "y": 28.796875
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "Interior film",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 12904
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 12904
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-entry-0",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-entry-1",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-entry-2",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-entry-3",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-entry-4",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×02 / WELLBEINGSpace for yourself.A yoga studio, zen garden, well-equipped gym and steam room ",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-tab-first",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-tab-wrap",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-wheel",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 59,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 29,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 29
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 59,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 29,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 29
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-exit-0",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-exit-1",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-exit-2",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "wellness-exit-3",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      },
+      "local": {
+        "active": {
+          "label": "THE WELLNESS COLLECTION↗",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 16857
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 16857
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-entry-0",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-entry-1",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-entry-2",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-entry-3",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "CLOSE ×03 / THE WATERYour daily oasis.An all-weather swimming pool, a kids’ splash zone and a jacuzz",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-tab",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-wrap",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": 87,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": 57,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": 57
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-wheel",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": -9,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": -39,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": -39
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "Close panel",
+          "tag": "BUTTON"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close panel",
+                "rect": {
+                  "bottom": -9,
+                  "height": 30,
+                  "left": 825.9375,
+                  "right": 897.5,
+                  "top": -39,
+                  "width": 71.5625,
+                  "x": 825.9375,
+                  "y": -39
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": null,
+            "rect": {
+              "bottom": 684,
+              "height": 648,
+              "left": 327.5,
+              "right": 937.5,
+              "top": 36,
+              "width": 610,
+              "x": 327.5,
+              "y": 36
+            },
+            "style": null
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "pool-overlay-close",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "\n    ReposéResidenceA luxurious lifestyle awaits youDeveloped byScrollReadyto Rise.Reposé ResidenceA",
+          "tag": "BODY"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      },
+      "local": {
+        "active": {
+          "label": "\n    ReposéResidenceA luxurious lifestyle awaits youDeveloped byScrollReadyto Rise.Reposé ResidenceA",
+          "tag": "BODY"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 22000
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 22000
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-intro",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-skipped",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-change-0",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-change-1",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.421875,
+                  "right": 1060.421875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.421875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-change-2",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.421875,
+                  "right": 1060.421875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.421875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.421875,
+                  "right": 1060.421875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.421875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-change-3",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-change-4",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-change-5",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-closed",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Watch the walkthrough",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "Watch the walkthrough",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-reopen-skip-escape",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53475189208984,
+                  "height": 22.937501907348633,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59724998474121,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59724998474121
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5530395507812,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5530395507812,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5530395507812
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5530395507812,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5530395507812,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5530395507812
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.52392578125,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.52392578125,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.52392578125
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.52392578125,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.52392578125,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.52392578125
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-close-during-change",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "Watch the walkthrough",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "Watch the walkthrough",
+          "tag": "BUTTON"
+        },
+        "dialogs": [],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-reentry-0",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 58.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 35.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 35.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 709.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 663.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 663.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 709.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 663.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 663.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 0.0376;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 58.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 35.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 35.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 709.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 663.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 663.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 709.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 663.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 663.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 0.3772;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 33701.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-reentry-1",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 50.724849700927734,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 27.787349700927734,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 27.787349700927734
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 704.8916625976562,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 658.8916625976562,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 658.8916625976562
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 704.8916625976562,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 658.8916625976562,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 658.8916625976562
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 46.41374969482422,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 23.47624969482422,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 23.47624969482422
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 698.7794189453125,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 652.7794189453125,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 652.7794189453125
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 698.7794189453125,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 652.7794189453125,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 652.7794189453125
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 33701.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-reentry-2",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.537750244140625,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.600250244140625,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.600250244140625
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5665283203125,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5665283203125,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5665283203125
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5665283203125,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5665283203125,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5665283203125
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5252075195312,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5252075195312,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5252075195312
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5252075195312,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5252075195312,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5252075195312
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 33701.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "walkthrough-reentry-3",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5234375,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5234375,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5234375
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 33701.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 33701.5
+        },
+        "stable": true
+      }
+    }
+  }
+]

@@ -1,0 +1,1506 @@
+[
+  {
+    "name": "steam",
+    "target": 19546,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 70271,
+            "max_channel_difference": 64,
+            "bounds": [
+              411,
+              424,
+              2201,
+              1150
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": false,
+            "excluded": "Different captured pixel dimensions"
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": false,
+            "excluded": "Different captured pixel dimensions"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 70271,
+            "max_channel_difference": 64,
+            "bounds": [
+              411,
+              424,
+              2201,
+              1150
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": false,
+            "excluded": "Different captured pixel dimensions"
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": false,
+            "excluded": "Different captured pixel dimensions"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 70271,
+            "max_channel_difference": 64,
+            "bounds": [
+              411,
+              424,
+              2201,
+              1150
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": false,
+            "excluded": "Different captured pixel dimensions"
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": false,
+            "excluded": "Different captured pixel dimensions"
+          }
+        ]
+      }
+    ],
+    "local_comparison_excluded_reason": "Reference tabs had DPR 2, local had DPR 1; local pixel sizes and responsive image selection differ. Reference-reference control has matched DPR and recorded full styles."
+  },
+  {
+    "name": "steam-dpr1",
+    "target": 19546,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 18233,
+            "max_channel_difference": 50,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 18233,
+            "max_channel_difference": 50,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 18233,
+            "max_channel_difference": 50,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 18233,
+            "max_channel_difference": 50,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 18233,
+            "max_channel_difference": 50,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": false,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 18233,
+            "max_channel_difference": 50,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "steam-fresh-dpr1",
+    "target": 19546,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 15803,
+            "max_channel_difference": 43,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 56226,
+            "max_channel_difference": 37,
+            "bounds": [
+              127,
+              212,
+              1135,
+              618
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 58474,
+            "max_channel_difference": 57,
+            "bounds": [
+              127,
+              212,
+              1135,
+              618
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 15803,
+            "max_channel_difference": 43,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 56226,
+            "max_channel_difference": 37,
+            "bounds": [
+              127,
+              212,
+              1135,
+              618
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 58474,
+            "max_channel_difference": 57,
+            "bounds": [
+              127,
+              212,
+              1135,
+              618
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 15803,
+            "max_channel_difference": 43,
+            "bounds": [
+              205,
+              212,
+              1100,
+              573
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 56226,
+            "max_channel_difference": 37,
+            "bounds": [
+              127,
+              212,
+              1135,
+              618
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 58474,
+            "max_channel_difference": 57,
+            "bounds": [
+              127,
+              212,
+              1135,
+              618
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "zen-fresh-dpr1",
+    "target": 20890,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 10,
+            "max_channel_difference": 1,
+            "bounds": [
+              124,
+              345,
+              780,
+              467
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 1476,
+            "max_channel_difference": 17,
+            "bounds": [
+              56,
+              194,
+              1011,
+              563
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 1476,
+            "max_channel_difference": 17,
+            "bounds": [
+              56,
+              194,
+              1011,
+              563
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": false,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 9,
+            "max_channel_difference": 1,
+            "bounds": [
+              124,
+              345,
+              780,
+              450
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 1477,
+            "max_channel_difference": 17,
+            "bounds": [
+              56,
+              194,
+              1011,
+              563
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 1476,
+            "max_channel_difference": 17,
+            "bounds": [
+              56,
+              194,
+              1011,
+              563
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": false,
+          "reference2": true,
+          "local": false
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 9,
+            "max_channel_difference": 1,
+            "bounds": [
+              124,
+              345,
+              780,
+              450
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 1475,
+            "max_channel_difference": 17,
+            "bounds": [
+              56,
+              194,
+              1011,
+              563
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 1474,
+            "max_channel_difference": 17,
+            "bounds": [
+              56,
+              194,
+              1011,
+              563
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "terrace-fresh-dpr1",
+    "target": 24480,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 12,
+            "max_channel_difference": 1,
+            "bounds": [
+              169,
+              101,
+              657,
+              248
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 35282,
+            "max_channel_difference": 2,
+            "bounds": [
+              0,
+              1,
+              1264,
+              656
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 35280,
+            "max_channel_difference": 2,
+            "bounds": [
+              0,
+              1,
+              1264,
+              656
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": false,
+          "reference2": false,
+          "local": false
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 26,
+            "max_channel_difference": 1,
+            "bounds": [
+              433,
+              88,
+              657,
+              187
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 35224,
+            "max_channel_difference": 2,
+            "bounds": [
+              0,
+              1,
+              1264,
+              656
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 35247,
+            "max_channel_difference": 2,
+            "bounds": [
+              0,
+              1,
+              1264,
+              656
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": false,
+          "reference2": false,
+          "local": false
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 50,
+            "max_channel_difference": 1,
+            "bounds": [
+              172,
+              102,
+              802,
+              359
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 35257,
+            "max_channel_difference": 2,
+            "bounds": [
+              0,
+              1,
+              1264,
+              656
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 35211,
+            "max_channel_difference": 2,
+            "bounds": [
+              0,
+              1,
+              1264,
+              656
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "family-fresh-dpr1",
+    "target": 25580,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 29633,
+            "max_channel_difference": 2,
+            "bounds": [
+              217,
+              0,
+              1162,
+              487
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 164353,
+            "max_channel_difference": 31,
+            "bounds": [
+              3,
+              0,
+              1162,
+              693
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 168300,
+            "max_channel_difference": 31,
+            "bounds": [
+              3,
+              0,
+              1162,
+              693
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 29633,
+            "max_channel_difference": 2,
+            "bounds": [
+              217,
+              0,
+              1162,
+              487
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 164353,
+            "max_channel_difference": 31,
+            "bounds": [
+              3,
+              0,
+              1162,
+              693
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 168300,
+            "max_channel_difference": 31,
+            "bounds": [
+              3,
+              0,
+              1162,
+              693
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 29633,
+            "max_channel_difference": 2,
+            "bounds": [
+              217,
+              0,
+              1162,
+              487
+            ]
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 164353,
+            "max_channel_difference": 31,
+            "bounds": [
+              3,
+              0,
+              1162,
+              693
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 168300,
+            "max_channel_difference": 31,
+            "bounds": [
+              3,
+              0,
+              1162,
+              693
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "finale-fresh-dpr1",
+    "target": 32100,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8,
+            "max_channel_difference": 14,
+            "bounds": [
+              504,
+              133,
+              780,
+              688
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8,
+            "max_channel_difference": 14,
+            "bounds": [
+              504,
+              133,
+              780,
+              688
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8,
+            "max_channel_difference": 14,
+            "bounds": [
+              504,
+              133,
+              780,
+              688
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8,
+            "max_channel_difference": 14,
+            "bounds": [
+              504,
+              133,
+              780,
+              688
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8,
+            "max_channel_difference": 14,
+            "bounds": [
+              504,
+              133,
+              780,
+              688
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8,
+            "max_channel_difference": 14,
+            "bounds": [
+              504,
+              133,
+              780,
+              688
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "expansion-fresh-dpr1",
+    "target": 32500,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8251,
+            "max_channel_difference": 10,
+            "bounds": [
+              42,
+              59,
+              1222,
+              687
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8251,
+            "max_channel_difference": 10,
+            "bounds": [
+              42,
+              59,
+              1222,
+              687
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8251,
+            "max_channel_difference": 10,
+            "bounds": [
+              42,
+              59,
+              1222,
+              687
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8251,
+            "max_channel_difference": 10,
+            "bounds": [
+              42,
+              59,
+              1222,
+              687
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8251,
+            "max_channel_difference": 10,
+            "bounds": [
+              42,
+              59,
+              1222,
+              687
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 8251,
+            "max_channel_difference": 10,
+            "bounds": [
+              42,
+              59,
+              1222,
+              687
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "exchange-fresh-dpr1",
+    "target": 32800,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 45435,
+            "max_channel_difference": 44,
+            "bounds": [
+              0,
+              3,
+              1264,
+              719
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 45435,
+            "max_channel_difference": 44,
+            "bounds": [
+              0,
+              3,
+              1264,
+              719
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 45435,
+            "max_channel_difference": 44,
+            "bounds": [
+              0,
+              3,
+              1264,
+              719
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 45435,
+            "max_channel_difference": 44,
+            "bounds": [
+              0,
+              3,
+              1264,
+              719
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 45435,
+            "max_channel_difference": 44,
+            "bounds": [
+              0,
+              3,
+              1264,
+              719
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 45435,
+            "max_channel_difference": 44,
+            "bounds": [
+              0,
+              3,
+              1264,
+              719
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "arrival-fresh-dpr1",
+    "target": 32982,
+    "samples": [
+      {
+        "index": 0,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 2946,
+            "max_channel_difference": 45,
+            "bounds": [
+              291,
+              251,
+              1256,
+              719
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 2946,
+            "max_channel_difference": 45,
+            "bounds": [
+              291,
+              251,
+              1256,
+              719
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 2946,
+            "max_channel_difference": 45,
+            "bounds": [
+              291,
+              251,
+              1256,
+              719
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 2946,
+            "max_channel_difference": 45,
+            "bounds": [
+              291,
+              251,
+              1256,
+              719
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "origin_matches_first_frame": {
+          "reference": true,
+          "reference2": true,
+          "local": true
+        },
+        "pairs": [
+          {
+            "left": "reference",
+            "right": "reference2",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 0,
+            "max_channel_difference": 0,
+            "bounds": null
+          },
+          {
+            "left": "reference",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 2946,
+            "max_channel_difference": 45,
+            "bounds": [
+              291,
+              251,
+              1256,
+              719
+            ]
+          },
+          {
+            "left": "reference2",
+            "right": "local",
+            "visual_states_identical": true,
+            "visible_computed_styles_and_geometry_identical": true,
+            "changed_pixels": 2946,
+            "max_channel_difference": 45,
+            "bounds": [
+              291,
+              251,
+              1256,
+              719
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

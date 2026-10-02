@@ -1,0 +1,846 @@
+{
+  "reference": [
+    {
+      "attrs": [
+        [
+          "alt",
+          "The supplied completed Reposé Residence tower image"
+        ],
+        [
+          "loading",
+          "lazy"
+        ],
+        [
+          "decoding",
+          "async"
+        ],
+        [
+          "src",
+          "/assets/repose-experience/tower-original.png"
+        ]
+      ],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "clip",
+        "transform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 468.1444091796875,
+        "height": 387.3825378417969,
+        "left": 98.39999389648438,
+        "right": 276.6000061035156,
+        "top": 80.76187133789062,
+        "width": 178.20001220703125,
+        "x": 98.39999389648438,
+        "y": 80.76187133789062
+      },
+      "tag": "IMG"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "rp-final-image"
+        ],
+        [
+          "style",
+          "clip-path: inset(0% round 50% 50% 0% 0%);"
+        ]
+      ],
+      "class": "rp-final-image",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "50% 50% 0px 0px",
+        "clipPath": "inset(0% round 50% 50% 0% 0%)",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "hidden",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 453.796875,
+        "height": 358.6875,
+        "left": 105,
+        "right": 270,
+        "top": 95.109375,
+        "width": 165,
+        "x": 105,
+        "y": 95.109375
+      },
+      "tag": "FIGURE"
+    },
+    {
+      "attrs": [
+        [
+          "id",
+          "finale"
+        ],
+        [
+          "data-chapter",
+          "10"
+        ],
+        [
+          "class",
+          "rp-finale rp-dark"
+        ],
+        [
+          "style",
+          "translate: none; rotate: none; scale: none; left: 0px; top: -210.828px; margin: 0px; max-width: 375px; width: 375px; max-height: 1055px; height: 1055px; padding: 101.28px 27.3px 84.4px; box-sizing: border-box; position: fixed; transform: translate(0px, 0px);"
+        ]
+      ],
+      "class": "rp-finale rp-dark",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "hidden",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "finale",
+      "rect": {
+        "bottom": 844.171875,
+        "height": 1055,
+        "left": 0,
+        "right": 375,
+        "top": -210.828125,
+        "width": 375,
+        "x": 0,
+        "y": -210.828125
+      },
+      "tag": "SECTION"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "pin-spacer"
+        ],
+        [
+          "style",
+          "order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: flex; margin: 0px; inset: 0px; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 375px; height: 1815px; padding: 0px 0px 760px;"
+        ]
+      ],
+      "class": "pin-spacer",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 1321.171875,
+        "height": 1815,
+        "left": 0,
+        "right": 375,
+        "top": -493.828125,
+        "width": 375,
+        "x": 0,
+        "y": -493.828125
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "rp-main"
+        ]
+      ],
+      "class": "rp-main",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 17996.328125,
+        "left": 0,
+        "right": 375,
+        "top": -15831.15625,
+        "width": 375,
+        "x": 0,
+        "y": -15831.15625
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "repose-experience"
+        ],
+        [
+          "data-phase",
+          "exploring"
+        ],
+        [
+          "data-repose-root",
+          "true"
+        ],
+        [
+          "data-journey",
+          "true"
+        ],
+        [
+          "data-ui-tone",
+          "paper"
+        ],
+        [
+          "data-arch-pinned",
+          ""
+        ],
+        [
+          "data-arrived",
+          "true"
+        ]
+      ],
+      "class": "repose-experience",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "clip visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 20717.984375,
+        "left": 0,
+        "right": 375,
+        "top": -18552.8125,
+        "width": 375,
+        "x": 0,
+        "y": -18552.8125
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "MAIN"
+    },
+    {
+      "attrs": [
+        [
+          "id",
+          "root"
+        ]
+      ],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "root",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "hidden auto",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "BODY"
+    },
+    {
+      "attrs": [
+        [
+          "lang",
+          "en"
+        ],
+        [
+          "class",
+          "lenis"
+        ]
+      ],
+      "class": "lenis",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "HTML"
+    }
+  ],
+  "local": [
+    {
+      "attrs": [
+        [
+          "alt",
+          "The supplied completed Reposé Residence tower image"
+        ],
+        [
+          "loading",
+          "lazy"
+        ],
+        [
+          "decoding",
+          "async"
+        ],
+        [
+          "src",
+          "/assets/repose-experience/tower-original.png"
+        ]
+      ],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "clip",
+        "transform": "matrix(1.08, 0, 0, 1.08, 0, 0)",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 468.1444091796875,
+        "height": 387.3825378417969,
+        "left": 98.39999389648438,
+        "right": 276.6000061035156,
+        "top": 80.76187133789062,
+        "width": 178.20001220703125,
+        "x": 98.39999389648438,
+        "y": 80.76187133789062
+      },
+      "tag": "IMG"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "rp-final-image"
+        ],
+        [
+          "style",
+          "clip-path: inset(0% round 50% 50% 0% 0%);"
+        ]
+      ],
+      "class": "rp-final-image",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "50% 50% 0px 0px",
+        "clipPath": "inset(0% round 50% 50% 0% 0%)",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "hidden",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 453.796875,
+        "height": 358.6875,
+        "left": 105,
+        "right": 270,
+        "top": 95.109375,
+        "width": 165,
+        "x": 105,
+        "y": 95.109375
+      },
+      "tag": "FIGURE"
+    },
+    {
+      "attrs": [
+        [
+          "id",
+          "finale"
+        ],
+        [
+          "data-chapter",
+          "10"
+        ],
+        [
+          "class",
+          "rp-finale rp-dark"
+        ],
+        [
+          "style",
+          "translate: none; rotate: none; scale: none; left: 0px; top: -210.828px; margin: 0px; max-width: 375px; width: 375px; max-height: 1055px; height: 1055px; padding: 101.28px 27.3px 84.4px; box-sizing: border-box; position: fixed; transform: translate(0px, 0px);"
+        ]
+      ],
+      "class": "rp-finale rp-dark",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "hidden",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "finale",
+      "rect": {
+        "bottom": 844.171875,
+        "height": 1055,
+        "left": 0,
+        "right": 375,
+        "top": -210.828125,
+        "width": 375,
+        "x": 0,
+        "y": -210.828125
+      },
+      "tag": "SECTION"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "pin-spacer"
+        ],
+        [
+          "style",
+          "order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: flex; margin: 0px; inset: 0px; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 375px; height: 1815px; padding: 0px 0px 760px;"
+        ]
+      ],
+      "class": "pin-spacer",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 1321.171875,
+        "height": 1815,
+        "left": 0,
+        "right": 375,
+        "top": -493.828125,
+        "width": 375,
+        "x": 0,
+        "y": -493.828125
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "rp-main"
+        ]
+      ],
+      "class": "rp-main",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 17996.328125,
+        "left": 0,
+        "right": 375,
+        "top": -15831.15625,
+        "width": 375,
+        "x": 0,
+        "y": -15831.15625
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [
+        [
+          "class",
+          "repose-experience"
+        ],
+        [
+          "data-phase",
+          "exploring"
+        ],
+        [
+          "data-repose-root",
+          "true"
+        ],
+        [
+          "data-journey",
+          "true"
+        ],
+        [
+          "data-ui-tone",
+          "paper"
+        ],
+        [
+          "data-arch-pinned",
+          ""
+        ],
+        [
+          "data-arrived",
+          "true"
+        ]
+      ],
+      "class": "repose-experience",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "clip visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 20717.984375,
+        "left": 0,
+        "right": 375,
+        "top": -18552.8125,
+        "width": 375,
+        "x": 0,
+        "y": -18552.8125
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "MAIN"
+    },
+    {
+      "attrs": [
+        [
+          "id",
+          "root"
+        ]
+      ],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "root",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "DIV"
+    },
+    {
+      "attrs": [],
+      "class": "",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "hidden auto",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "BODY"
+    },
+    {
+      "attrs": [
+        [
+          "lang",
+          "en"
+        ],
+        [
+          "class",
+          "lenis"
+        ]
+      ],
+      "class": "lenis",
+      "css": {
+        "backfaceVisibility": "visible",
+        "borderRadius": "0px",
+        "clipPath": "none",
+        "contain": "none",
+        "filter": "none",
+        "imageRendering": "auto",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "overflow": "visible",
+        "transform": "none",
+        "transformStyle": "flat",
+        "willChange": "auto",
+        "zoom": "1"
+      },
+      "id": "",
+      "rect": {
+        "bottom": 2165.171875,
+        "height": 32365.171875,
+        "left": 0,
+        "right": 375,
+        "top": -30200,
+        "width": 375,
+        "x": 0,
+        "y": -30200
+      },
+      "tag": "HTML"
+    }
+  ]
+}

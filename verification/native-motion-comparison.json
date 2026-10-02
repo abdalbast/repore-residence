@@ -1,0 +1,1950 @@
+{
+  "input": "/Users/abdalbastkhdhir/development/Proposals/Real-estate/verification/native-motion-traces.json",
+  "segments": [
+    {
+      "name": "opening-exit",
+      "requested_target": 600,
+      "reference": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 521.7391357421875,
+            "y": 0
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 0,
+        "final_y": 600,
+        "final_target_gap": 0,
+        "duration_ms": 2945.699999988079,
+        "first_frame_after_input_ms": -71.29999995231628,
+        "last_frame_after_input_ms": 2874.400000035763,
+        "largest_frame_gap_ms": 13.099999964237213,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 242.5,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "local": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 521.7391357421875,
+            "y": 0
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 0,
+        "final_y": 600,
+        "final_target_gap": 0,
+        "duration_ms": 2953.399999976158,
+        "first_frame_after_input_ms": -114.0,
+        "last_frame_after_input_ms": 2839.399999976158,
+        "largest_frame_gap_ms": 12.799999952316284,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 243.0999999642372,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "final_y_equal": true,
+      "settled_final_positions_equal": true,
+      "crossings": [
+        {
+          "quantile": 0.1,
+          "reference_threshold_y": 60.0,
+          "local_threshold_y": 60.0,
+          "reference_after_input_ms": 15.35238098812988,
+          "local_after_input_ms": 15.199999985226896,
+          "local_minus_reference_ms": -0.15238100290298462
+        },
+        {
+          "quantile": 0.25,
+          "reference_threshold_y": 150.0,
+          "local_threshold_y": 150.0,
+          "reference_after_input_ms": 52.80000001192093,
+          "local_after_input_ms": 53.526315754977986,
+          "local_minus_reference_ms": 0.7263157430570573
+        },
+        {
+          "quantile": 0.5,
+          "reference_threshold_y": 300.0,
+          "local_threshold_y": 300.0,
+          "reference_after_input_ms": 137.85454545507673,
+          "local_after_input_ms": 137.69999998807907,
+          "local_minus_reference_ms": -0.1545454669976607
+        },
+        {
+          "quantile": 0.75,
+          "reference_threshold_y": 450.0,
+          "local_threshold_y": 450.0,
+          "reference_after_input_ms": 281.67777780693723,
+          "local_after_input_ms": 282.80000001192093,
+          "local_minus_reference_ms": 1.1222222049837
+        },
+        {
+          "quantile": 0.9,
+          "reference_threshold_y": 540.0,
+          "local_threshold_y": 540.0,
+          "reference_after_input_ms": 471.80000001192093,
+          "local_after_input_ms": 473.24999998509884,
+          "local_minus_reference_ms": 1.4499999731779099
+        },
+        {
+          "quantile": 0.99,
+          "reference_threshold_y": 594.0,
+          "local_threshold_y": 594.0,
+          "reference_after_input_ms": 943.9000000357628,
+          "local_after_input_ms": 950.5999999642372,
+          "local_minus_reference_ms": 6.699999928474426
+        }
+      ],
+      "nearest_scroll_states": {
+        "reference_frames": 420,
+        "local_frames": 420,
+        "sampled_reference_frames": 120,
+        "common_trigger_comparisons": 720,
+        "static_config_mismatches": 0,
+        "max_y_gap": 13.5,
+        "max_input_relative_time_gap_ms": 35.000000059604645,
+        "max_progress_difference": 0.00146484375,
+        "max_animation_progress_difference": 0.0014648468955994112,
+        "max_numeric_scalar_difference": 0,
+        "scalar_structure_or_value_mismatches": 0,
+        "numeric_scalar_pairs": 0,
+        "progress_pairs": 720,
+        "animation_progress_pairs": 120,
+        "missing_config_fields": 0,
+        "unmatched_trigger_occurrences": 0,
+        "duplicate_trigger_ids": [],
+        "examples": [
+          {
+            "trigger": "section.opening|0|9216|1",
+            "reference_y": 132.5,
+            "local_y": 119,
+            "y_gap": 13.5,
+            "input_relative_time_gap_ms": 5.199999988079071,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.00146484375
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|2",
+            "reference_y": 132.5,
+            "local_y": 119,
+            "y_gap": 13.5,
+            "input_relative_time_gap_ms": 5.199999988079071,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.00146484375,
+              "animationProgress": 0.0014648468955994112
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|0",
+            "reference_y": 132.5,
+            "local_y": 119,
+            "y_gap": 13.5,
+            "input_relative_time_gap_ms": 5.199999988079071,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.00146484375
+            }
+          },
+          {
+            "trigger": "section.opening|-720|9936|0",
+            "reference_y": 132.5,
+            "local_y": 119,
+            "y_gap": 13.5,
+            "input_relative_time_gap_ms": 5.199999988079071,
+            "reference_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "local_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "progress_differences": {
+              "progress": 0.0012668918918918859
+            }
+          },
+          {
+            "trigger": "section.opening|-720|9936|1",
+            "reference_y": 132.5,
+            "local_y": 119,
+            "y_gap": 13.5,
+            "input_relative_time_gap_ms": 5.199999988079071,
+            "reference_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "local_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "progress_differences": {
+              "progress": 0.0012668918918918859
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|1",
+            "reference_y": 201,
+            "local_y": 206.5,
+            "y_gap": 5.5,
+            "input_relative_time_gap_ms": 3.3999999165534973,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0005967881944444441
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|2",
+            "reference_y": 201,
+            "local_y": 206.5,
+            "y_gap": 5.5,
+            "input_relative_time_gap_ms": 3.3999999165534973,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0005967881944444441,
+              "animationProgress": 0.0005967984458924783
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|0",
+            "reference_y": 201,
+            "local_y": 206.5,
+            "y_gap": 5.5,
+            "input_relative_time_gap_ms": 3.3999999165534973,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0005967881944444441
+            }
+          }
+        ],
+        "distinct_local_frames_matched": 119,
+        "method": "Nearest measured y; same-y ties use nearest input-relative time when available"
+      }
+    },
+    {
+      "name": "lazy-first-expansion",
+      "requested_target": 14600,
+      "reference": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 8244.34765625,
+            "y": 5119
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 5119,
+        "final_y": 9216,
+        "final_target_gap": -5384,
+        "duration_ms": 3132.599999964237,
+        "first_frame_after_input_ms": -28.399999976158142,
+        "last_frame_after_input_ms": 3104.199999988079,
+        "largest_frame_gap_ms": 79.89999997615814,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 243.0999999642372,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "local": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 8244.34765625,
+            "y": 5119
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 5119,
+        "final_y": 9216,
+        "final_target_gap": -5384,
+        "duration_ms": 3173.800000011921,
+        "first_frame_after_input_ms": -62.59999996423721,
+        "last_frame_after_input_ms": 3111.2000000476837,
+        "largest_frame_gap_ms": 87.40000003576279,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 245.70000004768372,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "final_y_equal": true,
+      "settled_final_positions_equal": true,
+      "crossings": [
+        {
+          "quantile": 0.1,
+          "reference_threshold_y": 6067.1,
+          "local_threshold_y": 6067.1,
+          "reference_after_input_ms": 48.22509436472319,
+          "local_after_input_ms": 48.52915891841985,
+          "local_minus_reference_ms": 0.3040645536966622
+        },
+        {
+          "quantile": 0.25,
+          "reference_threshold_y": 7489.25,
+          "local_threshold_y": 7489.25,
+          "reference_after_input_ms": 230.81975926889572,
+          "local_after_input_ms": 248.8814951418317,
+          "local_minus_reference_ms": 18.06173587293597
+        },
+        {
+          "quantile": 0.5,
+          "reference_threshold_y": 9859.5,
+          "local_threshold_y": 9859.5,
+          "reference_after_input_ms": null,
+          "local_after_input_ms": null,
+          "local_minus_reference_ms": null
+        },
+        {
+          "quantile": 0.75,
+          "reference_threshold_y": 12229.75,
+          "local_threshold_y": 12229.75,
+          "reference_after_input_ms": null,
+          "local_after_input_ms": null,
+          "local_minus_reference_ms": null
+        },
+        {
+          "quantile": 0.9,
+          "reference_threshold_y": 13651.9,
+          "local_threshold_y": 13651.9,
+          "reference_after_input_ms": null,
+          "local_after_input_ms": null,
+          "local_minus_reference_ms": null
+        },
+        {
+          "quantile": 0.99,
+          "reference_threshold_y": 14505.19,
+          "local_threshold_y": 14505.19,
+          "reference_after_input_ms": null,
+          "local_after_input_ms": null,
+          "local_minus_reference_ms": null
+        }
+      ],
+      "nearest_scroll_states": {
+        "reference_frames": 420,
+        "local_frames": 420,
+        "sampled_reference_frames": 120,
+        "common_trigger_comparisons": 1539,
+        "static_config_mismatches": 0,
+        "max_y_gap": 42,
+        "max_input_relative_time_gap_ms": 18.000000059604645,
+        "max_progress_difference": 0.009562841530054655,
+        "max_animation_progress_difference": 0.004557290689086946,
+        "max_numeric_scalar_difference": 0,
+        "scalar_structure_or_value_mismatches": 0,
+        "numeric_scalar_pairs": 0,
+        "progress_pairs": 1539,
+        "animation_progress_pairs": 705,
+        "missing_config_fields": 0,
+        "unmatched_trigger_occurrences": 0,
+        "duplicate_trigger_ids": [],
+        "examples": [
+          {
+            "trigger": "section.opening|0|9216|1",
+            "reference_y": 5273.5,
+            "local_y": 5254.5,
+            "y_gap": 19.0,
+            "input_relative_time_gap_ms": 0.10000002384185791,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0020616319444444198
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|2",
+            "reference_y": 5273.5,
+            "local_y": 5254.5,
+            "y_gap": 19.0,
+            "input_relative_time_gap_ms": 0.10000002384185791,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0020616319444444198,
+              "animationProgress": 0.002061645341491891
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|0",
+            "reference_y": 5273.5,
+            "local_y": 5254.5,
+            "y_gap": 19.0,
+            "input_relative_time_gap_ms": 0.10000002384185791,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0020616319444444198
+            }
+          },
+          {
+            "trigger": "section.opening|-720|9936|0",
+            "reference_y": 5273.5,
+            "local_y": 5254.5,
+            "y_gap": 19.0,
+            "input_relative_time_gap_ms": 0.10000002384185791,
+            "reference_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "local_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "progress_differences": {
+              "progress": 0.0017830330330330657
+            }
+          },
+          {
+            "trigger": "section.opening|-720|9936|1",
+            "reference_y": 5273.5,
+            "local_y": 5254.5,
+            "y_gap": 19.0,
+            "input_relative_time_gap_ms": 0.10000002384185791,
+            "reference_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "local_config": {
+              "start": -720,
+              "end": 9936
+            },
+            "progress_differences": {
+              "progress": 0.0017830330330330657
+            }
+          },
+          {
+            "trigger": "section.opening|5544|9936|0",
+            "reference_y": 5617,
+            "local_y": 5634,
+            "y_gap": 17,
+            "input_relative_time_gap_ms": 0.5999999642372131,
+            "reference_config": {
+              "start": 5544,
+              "end": 9936
+            },
+            "local_config": {
+              "start": 5544,
+              "end": 9936
+            },
+            "progress_differences": {
+              "progress": 0.0038706739526411654
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|1",
+            "reference_y": 5617,
+            "local_y": 5634,
+            "y_gap": 17,
+            "input_relative_time_gap_ms": 0.5999999642372131,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0018446180555555802
+            }
+          },
+          {
+            "trigger": "section.opening|0|9216|2",
+            "reference_y": 5617,
+            "local_y": 5634,
+            "y_gap": 17,
+            "input_relative_time_gap_ms": 0.5999999642372131,
+            "reference_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "local_config": {
+              "start": 0,
+              "end": 9216
+            },
+            "progress_differences": {
+              "progress": 0.0018446180555555802,
+              "animationProgress": 0.0018446453384403094
+            }
+          }
+        ],
+        "distinct_local_frames_matched": 120,
+        "method": "Nearest measured y; same-y ties use nearest input-relative time when available"
+      }
+    },
+    {
+      "name": "lazy-lifestyle-expansion",
+      "requested_target": 14600,
+      "reference": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 4681.7392578125,
+            "y": 9216
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 9216,
+        "final_y": 12904,
+        "final_target_gap": -1696,
+        "duration_ms": 3006.899999976158,
+        "first_frame_after_input_ms": -27.899999976158142,
+        "last_frame_after_input_ms": 2979.0,
+        "largest_frame_gap_ms": 53.59999996423721,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 249.89999997615814,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "local": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 4681.7392578125,
+            "y": 9216
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 9216,
+        "final_y": 12904,
+        "final_target_gap": -1696,
+        "duration_ms": 2985.899999976158,
+        "first_frame_after_input_ms": -63.09999996423721,
+        "last_frame_after_input_ms": 2922.800000011921,
+        "largest_frame_gap_ms": 49.60000002384186,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 249.30000001192093,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "final_y_equal": true,
+      "settled_final_positions_equal": true,
+      "crossings": [
+        {
+          "quantile": 0.1,
+          "reference_threshold_y": 9754.4,
+          "local_threshold_y": 9754.4,
+          "reference_after_input_ms": 26.020281703211367,
+          "local_after_input_ms": 26.30393443070352,
+          "local_minus_reference_ms": 0.28365272749215364
+        },
+        {
+          "quantile": 0.25,
+          "reference_threshold_y": 10562.0,
+          "local_threshold_y": 10562.0,
+          "reference_after_input_ms": 88.08867925743107,
+          "local_after_input_ms": 88.22075476060854,
+          "local_minus_reference_ms": 0.13207550317747518
+        },
+        {
+          "quantile": 0.5,
+          "reference_threshold_y": 11908.0,
+          "local_threshold_y": 11908.0,
+          "reference_after_input_ms": 265.9761193910381,
+          "local_after_input_ms": 266.1761194387218,
+          "local_minus_reference_ms": 0.20000004768371582
+        },
+        {
+          "quantile": 0.75,
+          "reference_threshold_y": 13254.0,
+          "local_threshold_y": 13254.0,
+          "reference_after_input_ms": null,
+          "local_after_input_ms": null,
+          "local_minus_reference_ms": null
+        },
+        {
+          "quantile": 0.9,
+          "reference_threshold_y": 14061.6,
+          "local_threshold_y": 14061.6,
+          "reference_after_input_ms": null,
+          "local_after_input_ms": null,
+          "local_minus_reference_ms": null
+        },
+        {
+          "quantile": 0.99,
+          "reference_threshold_y": 14546.16,
+          "local_threshold_y": 14546.16,
+          "reference_after_input_ms": null,
+          "local_after_input_ms": null,
+          "local_minus_reference_ms": null
+        }
+      ],
+      "nearest_scroll_states": {
+        "reference_frames": 420,
+        "local_frames": 420,
+        "sampled_reference_frames": 120,
+        "common_trigger_comparisons": 6405,
+        "static_config_mismatches": 0,
+        "max_y_gap": 14.0,
+        "max_input_relative_time_gap_ms": 56.19999998807907,
+        "max_progress_difference": 0.00627240143369176,
+        "max_animation_progress_difference": 0.004800000000068416,
+        "max_numeric_scalar_difference": 0,
+        "scalar_structure_or_value_mismatches": 0,
+        "numeric_scalar_pairs": 1425,
+        "progress_pairs": 6405,
+        "animation_progress_pairs": 3475,
+        "missing_config_fields": 0,
+        "unmatched_trigger_occurrences": 0,
+        "duplicate_trigger_ids": [],
+        "examples": [
+          {
+            "trigger": "#residence|9446|13624|1",
+            "reference_y": 9680,
+            "local_y": 9680,
+            "y_gap": 0,
+            "input_relative_time_gap_ms": 0.09999996423721313,
+            "reference_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "local_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "progress_differences": {
+              "progress": 0.0,
+              "animationProgress": 5.075453946012942e-14
+            }
+          },
+          {
+            "trigger": "#residence|9446|13624|0",
+            "reference_y": 9680,
+            "local_y": 9680,
+            "y_gap": 0,
+            "input_relative_time_gap_ms": 0.09999996423721313,
+            "reference_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "local_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "progress_differences": {
+              "progress": 0.0,
+              "animationProgress": 4.5475775922732e-14
+            }
+          },
+          {
+            "trigger": "#residence|9446|13624|1",
+            "reference_y": 10085.5,
+            "local_y": 10071.5,
+            "y_gap": 14.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "local_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "progress_differences": {
+              "progress": 0.0033508855911919544,
+              "animationProgress": 0.0008928571428867826
+            }
+          },
+          {
+            "trigger": "#residence|9216|13624|2",
+            "reference_y": 10085.5,
+            "local_y": 10071.5,
+            "y_gap": 14.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 9216,
+              "end": 13624
+            },
+            "local_config": {
+              "start": 9216,
+              "end": 13624
+            },
+            "progress_differences": {
+              "progress": 0.0031760435571688006,
+              "animationProgress": 0.001115999999999999
+            }
+          },
+          {
+            "trigger": "#residence|9216|13624|1",
+            "reference_y": 10085.5,
+            "local_y": 10071.5,
+            "y_gap": 14.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 9216,
+              "end": 13624
+            },
+            "local_config": {
+              "start": 9216,
+              "end": 13624
+            },
+            "progress_differences": {
+              "progress": 0.0031760435571688006,
+              "animationProgress": 0.001115999999999999
+            }
+          },
+          {
+            "trigger": "#residence|9936|12168|0",
+            "reference_y": 10085.5,
+            "local_y": 10071.5,
+            "y_gap": 14.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 9936,
+              "end": 12168
+            },
+            "local_config": {
+              "start": 9936,
+              "end": 12168
+            },
+            "progress_differences": {
+              "progress": 0.00627240143369176,
+              "animationProgress": 0.0004090000000000001
+            }
+          },
+          {
+            "trigger": "#residence|9216|13624|0",
+            "reference_y": 10085.5,
+            "local_y": 10071.5,
+            "y_gap": 14.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 9216,
+              "end": 13624
+            },
+            "local_config": {
+              "start": 9216,
+              "end": 13624
+            },
+            "progress_differences": {
+              "progress": 0.0031760435571688006
+            }
+          },
+          {
+            "trigger": "#residence|9446|13624|0",
+            "reference_y": 10085.5,
+            "local_y": 10071.5,
+            "y_gap": 14.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "local_config": {
+              "start": 9446,
+              "end": 13624
+            },
+            "progress_differences": {
+              "progress": 0.0033508855911919544,
+              "animationProgress": 0.0008000000000265572
+            }
+          }
+        ],
+        "distinct_local_frames_matched": 118,
+        "method": "Nearest measured y; same-y ties use nearest input-relative time when available"
+      }
+    },
+    {
+      "name": "portal-expansion",
+      "requested_target": 32500,
+      "reference": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 347.8260803222656,
+            "y": 32100
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32100,
+        "final_y": 32500,
+        "final_target_gap": 0,
+        "duration_ms": 2909.7000000476837,
+        "first_frame_after_input_ms": -34.60000002384186,
+        "last_frame_after_input_ms": 2875.100000023842,
+        "largest_frame_gap_ms": 8.099999964237213,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 250.0,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "local": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0,
+            "delta_y": 347.8260803222656,
+            "y": 32100
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32100,
+        "final_y": 32500,
+        "final_target_gap": 0,
+        "duration_ms": 2910.400000035763,
+        "first_frame_after_input_ms": -70,
+        "last_frame_after_input_ms": 2840.400000035763,
+        "largest_frame_gap_ms": 8.600000023841858,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 243.10000002384186,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "final_y_equal": true,
+      "settled_final_positions_equal": true,
+      "crossings": [
+        {
+          "quantile": 0.1,
+          "reference_threshold_y": 32140.0,
+          "local_threshold_y": 32140.0,
+          "reference_after_input_ms": 15.560000020253938,
+          "local_after_input_ms": 14.199999988079071,
+          "local_minus_reference_ms": -1.3600000321748666
+        },
+        {
+          "quantile": 0.25,
+          "reference_threshold_y": 32200.0,
+          "local_threshold_y": 32200.0,
+          "reference_after_input_ms": 53.440000015485566,
+          "local_after_input_ms": 52.134782596782316,
+          "local_minus_reference_ms": -1.3052174187032506
+        },
+        {
+          "quantile": 0.5,
+          "reference_threshold_y": 32300.0,
+          "local_threshold_y": 32300.0,
+          "reference_after_input_ms": 137.88571429252625,
+          "local_after_input_ms": 136.60000002384186,
+          "local_minus_reference_ms": -1.2857142686843872
+        },
+        {
+          "quantile": 0.75,
+          "reference_threshold_y": 32400.0,
+          "local_threshold_y": 32400.0,
+          "reference_after_input_ms": 282.39999997615814,
+          "local_after_input_ms": 280.81428574665915,
+          "local_minus_reference_ms": -1.5857142294989899
+        },
+        {
+          "quantile": 0.9,
+          "reference_threshold_y": 32460.0,
+          "local_threshold_y": 32460.0,
+          "reference_after_input_ms": 472.69999998807907,
+          "local_after_input_ms": 473.19999998807907,
+          "local_minus_reference_ms": 0.5
+        },
+        {
+          "quantile": 0.99,
+          "reference_threshold_y": 32496.0,
+          "local_threshold_y": 32496.0,
+          "reference_after_input_ms": 944.8999999761581,
+          "local_after_input_ms": 944.9000000357628,
+          "local_minus_reference_ms": 5.960464477539063e-08
+        }
+      ],
+      "nearest_scroll_states": {
+        "reference_frames": 420,
+        "local_frames": 420,
+        "sampled_reference_frames": 120,
+        "common_trigger_comparisons": 5760,
+        "static_config_mismatches": 0,
+        "max_y_gap": 4.5,
+        "max_input_relative_time_gap_ms": 34.69999998807907,
+        "max_progress_difference": 0.0045000000000000595,
+        "max_animation_progress_difference": 0.004166700000000023,
+        "max_numeric_scalar_difference": 0.006959999999999966,
+        "scalar_structure_or_value_mismatches": 0,
+        "numeric_scalar_pairs": 1800,
+        "progress_pairs": 5760,
+        "animation_progress_pairs": 2400,
+        "missing_config_fields": 0,
+        "unmatched_trigger_occurrences": 0,
+        "duplicate_trigger_ids": [],
+        "examples": [
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32138.5,
+            "local_y": 32140,
+            "y_gap": 1.5,
+            "input_relative_time_gap_ms": 0.40000003576278687,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 7.470863631819924e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32138.5,
+            "local_y": 32140,
+            "y_gap": 1.5,
+            "input_relative_time_gap_ms": 0.40000003576278687,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0013888888888889395,
+              "animationProgress": 0.0013888999999999985
+            }
+          },
+          {
+            "trigger": "#finale|31298|32298|0",
+            "reference_y": 32138.5,
+            "local_y": 32140,
+            "y_gap": 1.5,
+            "input_relative_time_gap_ms": 0.40000003576278687,
+            "reference_config": {
+              "start": 31298,
+              "end": 32298
+            },
+            "local_config": {
+              "start": 31298,
+              "end": 32298
+            },
+            "progress_differences": {
+              "progress": 0.0014999999999999458
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32182.5,
+            "local_y": 32187,
+            "y_gap": 4.5,
+            "input_relative_time_gap_ms": 0.6000000238418579,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 0.0002241259089550418
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32182.5,
+            "local_y": 32187,
+            "y_gap": 4.5,
+            "input_relative_time_gap_ms": 0.6000000238418579,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.004166666666666652,
+              "animationProgress": 0.004166699999999968
+            }
+          },
+          {
+            "trigger": "#finale|31298|32298|0",
+            "reference_y": 32182.5,
+            "local_y": 32187,
+            "y_gap": 4.5,
+            "input_relative_time_gap_ms": 0.6000000238418579,
+            "reference_config": {
+              "start": 31298,
+              "end": 32298
+            },
+            "local_config": {
+              "start": 31298,
+              "end": 32298
+            },
+            "progress_differences": {
+              "progress": 0.0045000000000000595
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32213,
+            "local_y": 32217,
+            "y_gap": 4,
+            "input_relative_time_gap_ms": 0.699999988079071,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 0.00019922303018238274
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32213,
+            "local_y": 32217,
+            "y_gap": 4,
+            "input_relative_time_gap_ms": 0.699999988079071,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.003703703703703709,
+              "animationProgress": 0.0037036999999999765
+            }
+          }
+        ],
+        "distinct_local_frames_matched": 119,
+        "method": "Nearest measured y; same-y ties use nearest input-relative time when available"
+      }
+    },
+    {
+      "name": "portal-exchange",
+      "requested_target": 32800,
+      "reference": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 260.86956787109375,
+            "y": 32500
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32500,
+        "final_y": 32800,
+        "final_target_gap": 0,
+        "duration_ms": 2909.800000011921,
+        "first_frame_after_input_ms": -27.80000001192093,
+        "last_frame_after_input_ms": 2882.0,
+        "largest_frame_gap_ms": 7.900000035762787,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 250.0,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "local": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 260.86956787109375,
+            "y": 32500
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32500,
+        "final_y": 32800,
+        "final_target_gap": 0,
+        "duration_ms": 2915.600000023842,
+        "first_frame_after_input_ms": -56.60000002384186,
+        "last_frame_after_input_ms": 2859.0,
+        "largest_frame_gap_ms": 12.800000011920929,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 249.9000000357628,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "final_y_equal": true,
+      "settled_final_positions_equal": true,
+      "crossings": [
+        {
+          "quantile": 0.1,
+          "reference_threshold_y": 32530.0,
+          "local_threshold_y": 32530.0,
+          "reference_after_input_ms": 14.699999988079071,
+          "local_after_input_ms": 14.699999988079071,
+          "local_minus_reference_ms": 0.0
+        },
+        {
+          "quantile": 0.25,
+          "reference_threshold_y": 32575.0,
+          "local_threshold_y": 32575.0,
+          "reference_after_input_ms": 52.987499970942736,
+          "local_after_input_ms": 52.77999997138977,
+          "local_minus_reference_ms": -0.20749999955296516
+        },
+        {
+          "quantile": 0.5,
+          "reference_threshold_y": 32650.0,
+          "local_threshold_y": 32650.0,
+          "reference_after_input_ms": 136.7599999785307,
+          "local_after_input_ms": 137.07999997137813,
+          "local_minus_reference_ms": 0.3199999928474426
+        },
+        {
+          "quantile": 0.75,
+          "reference_threshold_y": 32725.0,
+          "local_threshold_y": 32725.0,
+          "reference_after_input_ms": 282.5999999761698,
+          "local_after_input_ms": 282.2999999523163,
+          "local_minus_reference_ms": -0.30000002385349944
+        },
+        {
+          "quantile": 0.9,
+          "reference_threshold_y": 32770.0,
+          "local_threshold_y": 32770.0,
+          "reference_after_input_ms": 472.89999997615814,
+          "local_after_input_ms": 473.0,
+          "local_minus_reference_ms": 0.10000002384185791
+        },
+        {
+          "quantile": 0.99,
+          "reference_threshold_y": 32797.0,
+          "local_threshold_y": 32797.0,
+          "reference_after_input_ms": 937.8999999761581,
+          "local_after_input_ms": 937.6999999880791,
+          "local_minus_reference_ms": -0.19999998807907104
+        }
+      ],
+      "nearest_scroll_states": {
+        "reference_frames": 420,
+        "local_frames": 420,
+        "sampled_reference_frames": 120,
+        "common_trigger_comparisons": 5760,
+        "static_config_mismatches": 0,
+        "max_y_gap": 1.5,
+        "max_input_relative_time_gap_ms": 23.0,
+        "max_progress_difference": 0.001388888888888884,
+        "max_animation_progress_difference": 0.0013889000000000262,
+        "max_numeric_scalar_difference": 0.000897999999999996,
+        "scalar_structure_or_value_mismatches": 0,
+        "numeric_scalar_pairs": 1800,
+        "progress_pairs": 5760,
+        "animation_progress_pairs": 2400,
+        "missing_config_fields": 0,
+        "unmatched_trigger_occurrences": 0,
+        "duplicate_trigger_ids": [],
+        "examples": [
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32570.5,
+            "local_y": 32572,
+            "y_gap": 1.5,
+            "input_relative_time_gap_ms": 1.300000011920929,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 7.470863631819924e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32570.5,
+            "local_y": 32572,
+            "y_gap": 1.5,
+            "input_relative_time_gap_ms": 1.300000011920929,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.001388888888888884,
+              "animationProgress": 0.0013889000000000262
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32710,
+            "local_y": 32709.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.19999998807907104,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 2.4902878772770087e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32710,
+            "local_y": 32709.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.19999998807907104,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0004629629629628873,
+              "animationProgress": 0.0004628999999999328
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32728.5,
+            "local_y": 32729,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.699999988079071,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 2.4902878772770087e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32728.5,
+            "local_y": 32729,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.699999988079071,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0004629629629629983,
+              "animationProgress": 0.00046290000000004383
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32755,
+            "local_y": 32755.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.699999988079071,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 2.4902878772770087e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32755,
+            "local_y": 32755.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.699999988079071,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0004629629629628873,
+              "animationProgress": 0.0004629999999999912
+            }
+          }
+        ],
+        "distinct_local_frames_matched": 120,
+        "method": "Nearest measured y; same-y ties use nearest input-relative time when available"
+      }
+    },
+    {
+      "name": "portal-arrival",
+      "requested_target": 32982,
+      "reference": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 158.2608642578125,
+            "y": 32800
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32800,
+        "final_y": 32981.5,
+        "final_target_gap": -0.5,
+        "duration_ms": 2909.800000011921,
+        "first_frame_after_input_ms": -27.80000001192093,
+        "last_frame_after_input_ms": 2882.0,
+        "largest_frame_gap_ms": 7.899999976158142,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 249.9000000357628,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0.0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "local": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": 158.2608642578125,
+            "y": 32800
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32800,
+        "final_y": 32981.5,
+        "final_target_gap": -0.5,
+        "duration_ms": 2916.400000035763,
+        "first_frame_after_input_ms": -56.5,
+        "last_frame_after_input_ms": 2859.900000035763,
+        "largest_frame_gap_ms": 12.199999988079071,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 250.0,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0.0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "final_y_equal": true,
+      "settled_final_positions_equal": true,
+      "crossings": [
+        {
+          "quantile": 0.1,
+          "reference_threshold_y": 32818.2,
+          "local_threshold_y": 32818.2,
+          "reference_after_input_ms": 14.772000000462867,
+          "local_after_input_ms": 14.567272747633979,
+          "local_minus_reference_ms": -0.2047272528288886
+        },
+        {
+          "quantile": 0.25,
+          "reference_threshold_y": 32845.5,
+          "local_threshold_y": 32845.5,
+          "reference_after_input_ms": 53.037499971687794,
+          "local_after_input_ms": 52.96666669182014,
+          "local_minus_reference_ms": -0.07083327986765653
+        },
+        {
+          "quantile": 0.5,
+          "reference_threshold_y": 32891.0,
+          "local_threshold_y": 32891.0,
+          "reference_after_input_ms": 138.13333334523486,
+          "local_after_input_ms": 137.7000000119442,
+          "local_minus_reference_ms": -0.4333333332906477
+        },
+        {
+          "quantile": 0.75,
+          "reference_threshold_y": 32936.5,
+          "local_threshold_y": 32936.5,
+          "reference_after_input_ms": 282.86666665476514,
+          "local_after_input_ms": 281.60000002384186,
+          "local_minus_reference_ms": -1.2666666309232824
+        },
+        {
+          "quantile": 0.9,
+          "reference_threshold_y": 32963.8,
+          "local_threshold_y": 32963.8,
+          "reference_after_input_ms": 471.31999999284744,
+          "local_after_input_ms": 471.7000000238768,
+          "local_minus_reference_ms": 0.3800000310293399
+        },
+        {
+          "quantile": 0.99,
+          "reference_threshold_y": 32980.18,
+          "local_threshold_y": 32980.18,
+          "reference_after_input_ms": 960.5439999795053,
+          "local_after_input_ms": 959.4200000357814,
+          "local_minus_reference_ms": -1.123999943723902
+        }
+      ],
+      "nearest_scroll_states": {
+        "reference_frames": 420,
+        "local_frames": 420,
+        "sampled_reference_frames": 120,
+        "common_trigger_comparisons": 5760,
+        "static_config_mismatches": 0,
+        "max_y_gap": 1,
+        "max_input_relative_time_gap_ms": 22.099999964237213,
+        "max_progress_difference": 0.0009259259259258856,
+        "max_animation_progress_difference": 0.0009259999999999824,
+        "max_numeric_scalar_difference": 0.006333000000000033,
+        "scalar_structure_or_value_mismatches": 0,
+        "numeric_scalar_pairs": 1800,
+        "progress_pairs": 5760,
+        "animation_progress_pairs": 2400,
+        "missing_config_fields": 0,
+        "unmatched_trigger_occurrences": 0,
+        "duplicate_trigger_ids": [],
+        "examples": [
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32806,
+            "local_y": 32807,
+            "y_gap": 1,
+            "input_relative_time_gap_ms": 0.6000000238418579,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 4.9805757545540175e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32806,
+            "local_y": 32807,
+            "y_gap": 1,
+            "input_relative_time_gap_ms": 0.6000000238418579,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0009259259259258856,
+              "animationProgress": 0.0009259999999999824
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32823,
+            "local_y": 32823.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.5,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 2.4902878772770087e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32823,
+            "local_y": 32823.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.5,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0004629629629629983,
+              "animationProgress": 0.0004628999999999328
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32843,
+            "local_y": 32843.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.8000000715255737,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 2.4902878772659065e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32843,
+            "local_y": 32843.5,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 0.8000000715255737,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0004629629629628873,
+              "animationProgress": 0.0004629999999999912
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32894.5,
+            "local_y": 32895,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 1.0,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 2.4902878772770087e-05
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32894.5,
+            "local_y": 32895,
+            "y_gap": 0.5,
+            "input_relative_time_gap_ms": 1.0,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0004629629629627763,
+              "animationProgress": 0.00046290000000004383
+            }
+          }
+        ],
+        "distinct_local_frames_matched": 120,
+        "method": "Nearest measured y; same-y ties use nearest input-relative time when available"
+      }
+    },
+    {
+      "name": "portal-rewind",
+      "requested_target": 31850,
+      "reference": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": -983.9130249023438,
+            "y": 32981.5
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32981.5,
+        "final_y": 31850,
+        "final_target_gap": 0,
+        "duration_ms": 2916.800000011921,
+        "first_frame_after_input_ms": -35.0,
+        "last_frame_after_input_ms": 2881.800000011921,
+        "largest_frame_gap_ms": 10.399999976158142,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 243.0999999642372,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "local": {
+        "valid_frames": 420,
+        "discarded_frames": 0,
+        "wheel_events": [
+          {
+            "after_input_ms": 0.0,
+            "delta_y": -983.9130249023438,
+            "y": 32981.5
+          }
+        ],
+        "wheel_event_count": 1,
+        "input_start_available": true,
+        "initial_y": 32981.5,
+        "final_y": 31850,
+        "final_target_gap": 0,
+        "duration_ms": 2931.899999976158,
+        "first_frame_after_input_ms": -76.30000001192093,
+        "last_frame_after_input_ms": 2855.599999964237,
+        "largest_frame_gap_ms": 11.599999964237213,
+        "tail_window_ms": 250,
+        "tail_observed_ms": 243.79999995231628,
+        "minimum_tail_observation_ms": 200,
+        "tail_y_range": 0,
+        "final_position_stable_in_sampled_tail": true
+      },
+      "final_y_equal": true,
+      "settled_final_positions_equal": true,
+      "crossings": [
+        {
+          "quantile": 0.1,
+          "reference_threshold_y": 32868.35,
+          "local_threshold_y": 32868.35,
+          "reference_after_input_ms": 15.678103490208741,
+          "local_after_input_ms": 15.434999999997672,
+          "local_minus_reference_ms": -0.24310349021106958
+        },
+        {
+          "quantile": 0.25,
+          "reference_threshold_y": 32698.625,
+          "local_threshold_y": 32698.625,
+          "reference_after_input_ms": 53.84736846020678,
+          "local_after_input_ms": 53.58318966033403,
+          "local_minus_reference_ms": -0.2641787998727523
+        },
+        {
+          "quantile": 0.5,
+          "reference_threshold_y": 32415.75,
+          "local_threshold_y": 32415.75,
+          "reference_after_input_ms": 138.7318182248855,
+          "local_after_input_ms": 138.16249999200227,
+          "local_minus_reference_ms": -0.5693182328832336
+        },
+        {
+          "quantile": 0.75,
+          "reference_threshold_y": 32132.875,
+          "local_threshold_y": 32132.875,
+          "reference_after_input_ms": 283.1328947606962,
+          "local_after_input_ms": 282.86842104716925,
+          "local_minus_reference_ms": -0.2644737135269679
+        },
+        {
+          "quantile": 0.9,
+          "reference_threshold_y": 31963.15,
+          "local_threshold_y": 31963.15,
+          "reference_after_input_ms": 473.4100000440958,
+          "local_after_input_ms": 473.15624997613486,
+          "local_minus_reference_ms": -0.2537500679609366
+        },
+        {
+          "quantile": 0.99,
+          "reference_threshold_y": 31861.315,
+          "local_threshold_y": 31861.315,
+          "reference_after_input_ms": 954.1530000150669,
+          "local_after_input_ms": 954.7939999956288,
+          "local_minus_reference_ms": 0.6409999805619009
+        }
+      ],
+      "nearest_scroll_states": {
+        "reference_frames": 420,
+        "local_frames": 420,
+        "sampled_reference_frames": 120,
+        "common_trigger_comparisons": 5760,
+        "static_config_mismatches": 0,
+        "max_y_gap": 6.5,
+        "max_input_relative_time_gap_ms": 26.200000047683716,
+        "max_progress_difference": 0.006018518518518534,
+        "max_animation_progress_difference": 0.006018500000000038,
+        "max_numeric_scalar_difference": 0.02185799999999999,
+        "scalar_structure_or_value_mismatches": 0,
+        "numeric_scalar_pairs": 1800,
+        "progress_pairs": 5760,
+        "animation_progress_pairs": 2400,
+        "missing_config_fields": 0,
+        "unmatched_trigger_occurrences": 0,
+        "duplicate_trigger_ids": [],
+        "examples": [
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32873,
+            "local_y": 32868,
+            "y_gap": 5,
+            "input_relative_time_gap_ms": 0.7999999523162842,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 0.00024902878772758985
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32873,
+            "local_y": 32868,
+            "y_gap": 5,
+            "input_relative_time_gap_ms": 0.7999999523162842,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.004629629629629539,
+              "animationProgress": 0.004629699999999959
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32748.5,
+            "local_y": 32744.5,
+            "y_gap": 4.0,
+            "input_relative_time_gap_ms": 0.8999999761581421,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 0.00019922303018238274
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32748.5,
+            "local_y": 32744.5,
+            "y_gap": 4.0,
+            "input_relative_time_gap_ms": 0.8999999761581421,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0037037037037037646,
+              "animationProgress": 0.0037036999999999765
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32662.5,
+            "local_y": 32658.5,
+            "y_gap": 4.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 0.00019922303018238274
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32662.5,
+            "local_y": 32658.5,
+            "y_gap": 4.0,
+            "input_relative_time_gap_ms": 0.30000001192092896,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0037037037037037646,
+              "animationProgress": 0.0037037000000000875
+            }
+          },
+          {
+            "trigger": "div.rp-main|13624|33702|0",
+            "reference_y": 32560.5,
+            "local_y": 32557,
+            "y_gap": 3.5,
+            "input_relative_time_gap_ms": 1.1999999284744263,
+            "reference_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "local_config": {
+              "start": 13624,
+              "end": 33702
+            },
+            "progress_differences": {
+              "progress": 0.00017432015140950163
+            }
+          },
+          {
+            "trigger": "#finale|31902|32982|0",
+            "reference_y": 32560.5,
+            "local_y": 32557,
+            "y_gap": 3.5,
+            "input_relative_time_gap_ms": 1.1999999284744263,
+            "reference_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "local_config": {
+              "start": 31902,
+              "end": 32982
+            },
+            "progress_differences": {
+              "progress": 0.0032407407407407662,
+              "animationProgress": 0.0032406999999999853
+            }
+          }
+        ],
+        "distinct_local_frames_matched": 119,
+        "method": "Nearest measured y; same-y ties use nearest input-relative time when available"
+      }
+    }
+  ],
+  "limits": [
+    "Crossings interpolate sampled frames relative to the first delivered wheel event.",
+    "Quantiles use the requested target when numeric, otherwise each trace's final y; unobserved crossings remain null.",
+    "Nearest-scroll pairs may have different clock phases and retain their measured y/time gaps.",
+    "At most 120 reference frames per segment are paired; no screenshot pixels are inspected.",
+    "Final position equality does not establish native clock or full-motion equivalence.",
+    "Scalar arrays are compared by recorded array position; duplicate trigger IDs are excluded."
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "reference",
+    "result": {
+      "hash": "ebcf37c780fb0fe8bd63ecab25b66d220b011edbfa9d1efe93bb45b8d7d11a73",
+      "quality": {
+        "corrupted": 0,
+        "creationTime": 430011,
+        "dropped": 3,
+        "total": 106
+      },
+      "seeking": false,
+      "time": 1
+    }
+  },
+  {
+    "name": "reference2",
+    "result": {
+      "hash": "ebcf37c780fb0fe8bd63ecab25b66d220b011edbfa9d1efe93bb45b8d7d11a73",
+      "quality": {
+        "corrupted": 0,
+        "creationTime": 429338.5,
+        "dropped": 1,
+        "total": 105
+      },
+      "seeking": false,
+      "time": 1
+    }
+  },
+  {
+    "name": "local",
+    "result": {
+      "hash": "ebcf37c780fb0fe8bd63ecab25b66d220b011edbfa9d1efe93bb45b8d7d11a73",
+      "quality": {
+        "corrupted": 0,
+        "creationTime": 429098.90000003576,
+        "dropped": 1,
+        "total": 104
+      },
+      "seeking": false,
+      "time": 1
+    }
+  }
+]

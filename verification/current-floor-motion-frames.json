@@ -1,0 +1,2969 @@
+[
+  {
+    "name": "entry-0",
+    "timestamps": {
+      "reference": 1790950772633,
+      "local": 1790950772779
+    },
+    "states": {
+      "reference": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      },
+      "local": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "entry-1",
+    "timestamps": {
+      "reference": 1790950773039,
+      "local": 1790950773183
+    },
+    "states": {
+      "reference": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      },
+      "local": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "entry-2",
+    "timestamps": {
+      "reference": 1790950773452,
+      "local": 1790950773612
+    },
+    "states": {
+      "reference": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      },
+      "local": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "entry-3",
+    "timestamps": {
+      "reference": 1790950773887,
+      "local": 1790950774034
+    },
+    "states": {
+      "reference": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      },
+      "local": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "entry-4",
+    "timestamps": {
+      "reference": 1790950774294,
+      "local": 1790950774449
+    },
+    "states": {
+      "reference": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      },
+      "local": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "entry-5",
+    "timestamps": {
+      "reference": 1790950774708,
+      "local": 1790950774848
+    },
+    "states": {
+      "reference": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      },
+      "local": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "entry-settled",
+    "timestamps": {
+      "reference": 1790950776415,
+      "local": 1790950776586
+    },
+    "states": {
+      "reference": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      },
+      "local": {
+        "panes": [],
+        "width": 1265,
+        "y": 4912
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 4912
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-0",
+    "timestamps": {
+      "reference": 1790950944277,
+      "local": 1790950944473
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, -345.586px) scale(0.94, 0.94); clip-path: inset(50% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(-0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, -345.586px) scale(0.94, 0.94); clip-path: inset(50% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-1",
+    "timestamps": {
+      "reference": 1790950944789,
+      "local": 1790950944972
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, -345.586px) scale(0.94, 0.94); clip-path: inset(50% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, -157.329px, 0px) scale(0.9727, 0.9727); clip-path: inset(22.7627% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-2",
+    "timestamps": {
+      "reference": 1790950945277,
+      "local": 1790950945451
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, -26.6274px, 0px) scale(0.9954, 0.9954); clip-path: inset(3.8525% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, -9.2009px, 0px) scale(0.9984, 0.9984); clip-path: inset(1.3312% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-3",
+    "timestamps": {
+      "reference": 1790950945741,
+      "local": 1790950945912
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, -0.7852px, 0px) scale(0.9999, 0.9999); clip-path: inset(0.1136% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0px, -0.1835px, 0px); clip-path: inset(0.0265% 0%);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-4",
+    "timestamps": {
+      "reference": 1790950946198,
+      "local": 1790950946381
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-5",
+    "timestamps": {
+      "reference": 1790950946665,
+      "local": 1790950946845
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-6",
+    "timestamps": {
+      "reference": 1790950947129,
+      "local": 1790950947316
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-7",
+    "timestamps": {
+      "reference": 1790950947600,
+      "local": 1790950947780
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-8",
+    "timestamps": {
+      "reference": 1790950948068,
+      "local": 1790950948251
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-9",
+    "timestamps": {
+      "reference": 1790950948549,
+      "local": 1790950948732
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "native-entry-settled",
+    "timestamps": {
+      "reference": 1790950949823,
+      "local": 1790950950011
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-0",
+    "timestamps": {
+      "reference": 1790950981555,
+      "local": 1790950981727
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9979; transform: translate3d(0px, -0.0373px, 0px);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9073; transform: translate3d(0px, -1.6677px, 0px) scale(0.9986, 0.9986);",
+            "head": "LEVEL 15",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-1",
+    "timestamps": {
+      "reference": 1790950982015,
+      "local": 1790950982171
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.528; transform: translate3d(0px, 8.4963px, 0px) scale(0.9929, 0.9929);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.8415; transform: translate3d(0px, 2.8529px, 0px) scale(0.9976, 0.9976);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-2",
+    "timestamps": {
+      "reference": 1790950982404,
+      "local": 1790950982571
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9931; transform: translate3d(0px, 0.1248px, 0px) scale(0.9999, 0.9999);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9992; transform: translate3d(0px, 0.015px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-3",
+    "timestamps": {
+      "reference": 1790950982882,
+      "local": 1790950983060
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9042; transform: translate3d(0px, -1.7236px, 0px) scale(0.9986, 0.9986);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.4282; transform: translate3d(0px, -10.2922px, 0px) scale(0.9914, 0.9914);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-4",
+    "timestamps": {
+      "reference": 1790950983369,
+      "local": 1790950983544
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.7848; transform: translate3d(0px, 3.8737px, 0px) scale(0.9968, 0.9968);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9617; transform: translate3d(0px, 0.6892px, 0px) scale(0.9994, 0.9994);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-5",
+    "timestamps": {
+      "reference": 1790950983844,
+      "local": 1790950984027
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9995; transform: translate3d(0px, 0.0083px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-6",
+    "timestamps": {
+      "reference": 1790950984334,
+      "local": 1790950984511
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-7",
+    "timestamps": {
+      "reference": 1790950984811,
+      "local": 1790950985004
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-8",
+    "timestamps": {
+      "reference": 1790950985313,
+      "local": 1790950985495
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-9",
+    "timestamps": {
+      "reference": 1790950985793,
+      "local": 1790950985958
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-10",
+    "timestamps": {
+      "reference": 1790950986263,
+      "local": 1790950986443
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "queue-settled",
+    "timestamps": {
+      "reference": 1790950987449,
+      "local": 1790950987644
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reverse-0",
+    "timestamps": {
+      "reference": 1790950987871,
+      "local": 1790950988039
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.998; transform: translate3d(0px, 0.0352px, 0px);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9058; transform: translate3d(0px, 1.6955px, 0px) scale(0.9986, 0.9986);",
+            "head": "LEVEL 13",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reverse-1",
+    "timestamps": {
+      "reference": 1790950988346,
+      "local": 1790950988504
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.5922; transform: translate3d(0px, -7.341px, 0px) scale(0.9939, 0.9939);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.8658; transform: translate3d(0px, -2.4163px, 0px) scale(0.998, 0.998);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reverse-2",
+    "timestamps": {
+      "reference": 1790950988810,
+      "local": 1790950988970
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9981; transform: translate3d(0px, -0.0351px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9998; transform: translate3d(0px, -0.0031px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reverse-3",
+    "timestamps": {
+      "reference": 1790950989277,
+      "local": 1790950989458
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reverse-4",
+    "timestamps": {
+      "reference": 1790950989764,
+      "local": 1790950989943
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reverse-5",
+    "timestamps": {
+      "reference": 1790950990242,
+      "local": 1790950990419
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  },
+  {
+    "name": "reverse-settled",
+    "timestamps": {
+      "reference": 1790950991327,
+      "local": 1790950991511
+    },
+    "states": {
+      "reference": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      },
+      "local": {
+        "panes": [
+          {
+            "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+            "head": "LEVEL 14",
+            "image": "/floor-explorer/relit/floorplates/floorplate-l14.webp",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "root": null,
+            "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+          }
+        ],
+        "width": 1265,
+        "y": 5328
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 5328
+        },
+        "stable": true
+      }
+    }
+  }
+]

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- interactive-widget=resizes-content: tells iOS Safari that the address
+         bar (and other "interactive widgets") resizes the layout viewport
+         rather than the visual viewport. Without this, the bar collapsing
+         mid-scroll fires a resize that makes ScrollTrigger re-measure every
+         trigger — felt as a hitch. maximum-scale=1 prevents iOS from zooming
+         in on form inputs, which would also trigger a layout recalculation. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, interactive-widget=resizes-content" />
+
+    <meta name="theme-color" content="#090c10" />
+    <meta
+      name="description"
+      content="Reposé Residence by TAPS AGENCY — Al Furjan, Dubai. A luxurious lifestyle awaits you."
+    />
+    <title>Reposé Residence — TAPS AGENCY</title>
+
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23090c10'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='19' fill='%23f6f4f1' text-anchor='middle'%3ER%3C/text%3E%3C/svg%3E" />
+
+    <!-- The first impression: in flight before the bundle has parsed.
+         Only the FIRST frame. The second used to be preloaded beside it, and
+         a phone now takes the film at a stride of three or five (see
+         data/opening → filmBudget), which skips frame two entirely: a wasted
+         request, competing for the connection at the one moment it is most
+         contended. Chrome said so itself — "preloaded but not used". -->
+    <link
+      rel="preload"
+      as="image"
+      type="image/webp"
+      href="/assets/opening/sequence-01/webp/frame-0001.webp"
+      fetchpriority="high"
+    />
+    <link rel="preload" as="image" href="/assets/opening/branding/taps-agency.svg" />
+
+    <!-- The site's two faces — decoded before the first word appears.
+         Served from public/ so this path is the one the browser actually
+         resolves in the build too; the previous /src/... href only existed
+         before Vite hashed the files, so in production it warmed nothing. -->
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/repose-display.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/repose-sans.woff2" crossorigin />
+    <!-- The italic follows the upright: it is the expressive voice, wanted a
+         beat later than the first line, and it is the same family. -->
+    <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/repose-display-italic.woff2" crossorigin />
+    <script type="module" crossorigin src="/assets/index-taps-agency.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-CL6k3kZJ.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-gsap-CeZ-nkAJ.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-lenis-b6LeKTCb.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-taps-agency.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

@@ -1,0 +1,4232 @@
+{
+  "local": {
+    "cssAnimations": [
+      {
+        "name": "op-hint-bob",
+        "target": "div.op-hint__inner",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-breathe",
+        "target": "span.op-hint__label",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-beam",
+        "target": "span.op-hint__beam",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-chevron",
+        "target": "span.op-hint__chevron",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-breathe",
+        "target": "p.rc__onward",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-bob",
+        "target": "span.rc__onward-arrow",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "closing-breathe",
+        "target": "button.closing__watch",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 3800,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn.attn--late",
+        "timing": {
+          "delay": 1450,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      }
+    ],
+    "sections": [
+      {
+        "height": 2721.65625,
+        "id": "residence",
+        "top": 11647.1875
+      },
+      {
+        "height": 2493.375,
+        "id": "life",
+        "top": 14368.84375
+      },
+      {
+        "height": 4382.875,
+        "id": "rhythm",
+        "top": 16862.21875
+      },
+      {
+        "height": 1592.671875,
+        "id": "water",
+        "top": 21245.09375
+      },
+      {
+        "height": 844,
+        "id": "terrace",
+        "top": 22837.765625
+      },
+      {
+        "height": 1139.390625,
+        "id": "family",
+        "top": 23681.765625
+      },
+      {
+        "height": 1139.390625,
+        "id": "interiors",
+        "top": 24821.15625
+      },
+      {
+        "height": 1831.21875,
+        "id": "essentials",
+        "top": 25960.546875
+      },
+      {
+        "height": 1249.609375,
+        "id": "connected",
+        "top": 27791.765625
+      },
+      {
+        "height": 664.796875,
+        "id": "amenities-map",
+        "top": 29041.375
+      },
+      {
+        "height": 1055,
+        "id": "finale",
+        "top": 29706.171875
+      }
+    ],
+    "triggers": [
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 6499,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(6px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.055
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 14369,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 10803,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.25,
+          "vars": {
+            "delay": 0,
+            "duration": 1.15,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.1,
+            "y": 0,
+            "yPercent": 112
+          }
+        },
+        "end": 14369,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 11073,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.12,
+          "vars": {
+            "delay": 0,
+            "duration": 1,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "opacity": 0,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.12,
+            "y": 24
+          }
+        },
+        "end": 14369,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 11073,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 14369,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 10803,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": -3
+          }
+        },
+        "end": 14369,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 10803,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.7,
+          "vars": {
+            "autoAlpha": 1,
+            "delay": 0,
+            "duration": 0.7,
+            "ease": "power2.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "y": 0
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.1,
+          "vars": {
+            "clipPath": "inset(-2px -2px 0% -2px)",
+            "delay": 0,
+            "duration": 1.1,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.3,
+          "vars": {
+            "delay": 0,
+            "duration": 1.3,
+            "ease": "power2.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0.35,
+          "duration": 0.8,
+          "vars": {
+            "autoAlpha": 1,
+            "delay": 0.35,
+            "duration": 0.6,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "stagger": 0.1,
+            "y": 0
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.12,
+          "vars": {
+            "delay": 0,
+            "duration": 1,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "opacity": 0,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.12,
+            "y": 26
+          }
+        },
+        "end": 14658,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13786,
+        "trigger": "div.rp-index-head"
+      },
+      {
+        "animation": null,
+        "end": 14593,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14448,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14715,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14593,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14860,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14715,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15005,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14860,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15151,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15005,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15320,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15151,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15465,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15320,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15587,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15465,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15732,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15587,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15854,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15732,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15976,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15854,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 16122,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15976,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 17785,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 16561,
+        "trigger": "figure.rp-panel-photo.rp-pause-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 18538,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 17294,
+        "trigger": "figure.rp-panel-photo.rp-yoga-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 18640,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 17564,
+        "trigger": "figure.rp-panel-photo.rp-zen-inset"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 19388,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 18122,
+        "trigger": "figure.rp-panel-photo.rp-gym-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 19549,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 18502,
+        "trigger": "figure.rp-panel-photo.rp-gym-inset"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 20347,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 18862,
+        "trigger": "figure.rp-panel-photo.rp-steam-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 21077,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 19848,
+        "trigger": "figure.rp-panel-photo.rp-be-photo"
+      },
+      {
+        "animation": null,
+        "end": 22669,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 21860,
+        "trigger": "div.rp-curve-sheet"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 23682,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 21994,
+        "trigger": "div.rp-terrace-photo.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 23245,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 22348,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 24018,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 23141,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.4,
+          "vars": {
+            "clipPath": "inset(0% 100% 0% 0%)",
+            "delay": 0,
+            "duration": 1.4,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1
+          }
+        },
+        "end": 24434,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 23283,
+        "trigger": "figure.rp-family-main.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.4,
+          "vars": {
+            "clipPath": "inset(0% 100% 0% 0%)",
+            "delay": 0,
+            "duration": 1.4,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1
+          }
+        },
+        "end": 24559,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 23568,
+        "trigger": "figure.rp-family-inset.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26387,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 25507,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.4,
+          "vars": {
+            "clipPath": "inset(0% 100% 0% 0%)",
+            "delay": 0,
+            "duration": 1.4,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1
+          }
+        },
+        "end": 26608,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 25684,
+        "trigger": "figure.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26368,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26056,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26606,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26293,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26843,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26531,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 27057,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26745,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 29041,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 26948,
+        "trigger": "div.rp-connected-image.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28337,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 27268,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.5,
+          "vars": {
+            "delay": 0,
+            "duration": 1.3,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "scaleX": 0,
+            "stagger": 0.2,
+            "transformOrigin": "left"
+          }
+        },
+        "end": 28365,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 27634,
+        "trigger": "div.rp-place-line"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.46,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 1.1,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.12,
+            "y": 70
+          }
+        },
+        "end": 28762,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 27681,
+        "trigger": "div.rp-connections"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 29309,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 28466,
+        "trigger": "#map-title"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.5,
+          "vars": {
+            "clipPath": "inset(0% 0% 0% 0%)",
+            "delay": 0,
+            "duration": 1.5,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 29622,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 28687,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1
+          }
+        },
+        "end": 29622,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.8,
+        "start": 28535,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "autoAlpha": 0,
+            "delay": 0,
+            "duration": 0.8,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "scale": 0.72,
+            "stagger": 0.11
+          }
+        },
+        "end": 29622,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 28889,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04,
+              "start": 0,
+              "targets": [
+                "div.rp-portal"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.04,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.16,
+              "start": 0.04,
+              "targets": [],
+              "vars": {
+                "c": 0.03,
+                "delay": 0,
+                "duration": 0.16,
+                "ease": "sine.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "c": 1,
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false,
+                "p1": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.2,
+              "targets": [
+                "span.rp-final-intro"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.26,
+              "start": 0.24,
+              "targets": [
+                "div.rp-final-call"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.26,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 28
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.26,
+              "targets": [
+                "button.rp-text-link"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.35,
+              "start": 0.35,
+              "targets": [
+                "header.rp-ui.rp-header",
+                "aside.rp-ui.rp-progress",
+                "div.rp-ui.rp-chapter-index"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.35,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.25,
+              "start": 0.55,
+              "targets": [
+                "h2.rp-final-word"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.25,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "overwrite": false,
+                "p2": 0.25
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [
+                "img.rp-portal-capture"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.1,
+              "start": 0.9,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.09999999999999998,
+                "ease": "power1.inOut",
+                "overwrite": false,
+                "p2": 1
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 1,
+          "vars": {
+            "lazy": false,
+            "paused": true
+          }
+        },
+        "end": 30677,
+        "once": false,
+        "pin": "#finale",
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 29917,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0% 0% 0% 0% round 50% 50% 0% 0%)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 29537,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 28947,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "yPercent": -10
+          }
+        },
+        "end": 29917,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 28862,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 16482,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 13989,
+        "trigger": "#life"
+      },
+      {
+        "animation": null,
+        "end": 20865,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 16482,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": null,
+        "end": 22458,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 20865,
+        "trigger": "#water"
+      },
+      {
+        "animation": null,
+        "end": 23302,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 22458,
+        "trigger": "#terrace"
+      },
+      {
+        "animation": null,
+        "end": 24441,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 23302,
+        "trigger": "#family"
+      },
+      {
+        "animation": null,
+        "end": 25581,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24441,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 27412,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 25581,
+        "trigger": "#essentials"
+      },
+      {
+        "animation": null,
+        "end": 28662,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 27412,
+        "trigger": "#connected"
+      },
+      {
+        "animation": null,
+        "end": 29326,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 28662,
+        "trigger": "#amenities-map"
+      },
+      {
+        "animation": null,
+        "end": 30381,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 29326,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 31521,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -20,
+        "scrub": null,
+        "start": 14369,
+        "trigger": "div.rp-main"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 375,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 844,
+      "reducedMotion": false,
+      "scrollHeight": 32365,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  },
+  "reference": {
+    "cssAnimations": [
+      {
+        "name": "op-hint-bob",
+        "target": "div.op-hint__inner",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-breathe",
+        "target": "span.op-hint__label",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-beam",
+        "target": "span.op-hint__beam",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-chevron",
+        "target": "span.op-hint__chevron",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-breathe",
+        "target": "p.rc__onward",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-bob",
+        "target": "span.rc__onward-arrow",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "closing-breathe",
+        "target": "button.closing__watch",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 3800,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "attn-ring",
+        "target": "span.attn.attn--late",
+        "timing": {
+          "delay": 1450,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      }
+    ],
+    "sections": [
+      {
+        "height": 2721.65625,
+        "id": "residence",
+        "top": 11647.1875
+      },
+      {
+        "height": 2493.375,
+        "id": "life",
+        "top": 14368.84375
+      },
+      {
+        "height": 4382.875,
+        "id": "rhythm",
+        "top": 16862.21875
+      },
+      {
+        "height": 1592.671875,
+        "id": "water",
+        "top": 21245.09375
+      },
+      {
+        "height": 844,
+        "id": "terrace",
+        "top": 22837.765625
+      },
+      {
+        "height": 1139.390625,
+        "id": "family",
+        "top": 23681.765625
+      },
+      {
+        "height": 1139.390625,
+        "id": "interiors",
+        "top": 24821.15625
+      },
+      {
+        "height": 1831.21875,
+        "id": "essentials",
+        "top": 25960.546875
+      },
+      {
+        "height": 1249.609375,
+        "id": "connected",
+        "top": 27791.765625
+      },
+      {
+        "height": 664.796875,
+        "id": "amenities-map",
+        "top": 29041.375
+      },
+      {
+        "height": 1055,
+        "id": "finale",
+        "top": 29706.171875
+      }
+    ],
+    "triggers": [
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 6499,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(6px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.055
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 14369,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 10803,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.25,
+          "vars": {
+            "delay": 0,
+            "duration": 1.15,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.1,
+            "y": 0,
+            "yPercent": 112
+          }
+        },
+        "end": 14369,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 11073,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.12,
+          "vars": {
+            "delay": 0,
+            "duration": 1,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "opacity": 0,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.12,
+            "y": 24
+          }
+        },
+        "end": 14369,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 11073,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 14369,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 10803,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": -3
+          }
+        },
+        "end": 14369,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.9,
+        "start": 10803,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.7,
+          "vars": {
+            "autoAlpha": 1,
+            "delay": 0,
+            "duration": 0.7,
+            "ease": "power2.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "y": 0
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.1,
+          "vars": {
+            "clipPath": "inset(-2px -2px 0% -2px)",
+            "delay": 0,
+            "duration": 1.1,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.3,
+          "vars": {
+            "delay": 0,
+            "duration": 1.3,
+            "ease": "power2.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0.35,
+          "duration": 0.8,
+          "vars": {
+            "autoAlpha": 1,
+            "delay": 0.35,
+            "duration": 0.6,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "stagger": 0.1,
+            "y": 0
+          }
+        },
+        "end": 13716,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 12574,
+        "trigger": "li.ri-card"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.12,
+          "vars": {
+            "delay": 0,
+            "duration": 1,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "opacity": 0,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.12,
+            "y": 26
+          }
+        },
+        "end": 14658,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 13786,
+        "trigger": "div.rp-index-head"
+      },
+      {
+        "animation": null,
+        "end": 14593,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14448,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14715,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14593,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 14860,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14715,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15005,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 14860,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15151,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15005,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15320,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15151,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15465,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15320,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15587,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15465,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15732,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15587,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15854,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15732,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 15976,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15854,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": null,
+        "end": 16122,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 15976,
+        "trigger": "li.rp-index-row"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 17785,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 16561,
+        "trigger": "figure.rp-panel-photo.rp-pause-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 18538,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 17294,
+        "trigger": "figure.rp-panel-photo.rp-yoga-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 18640,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 17564,
+        "trigger": "figure.rp-panel-photo.rp-zen-inset"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 19388,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 18122,
+        "trigger": "figure.rp-panel-photo.rp-gym-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 19549,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 18502,
+        "trigger": "figure.rp-panel-photo.rp-gym-inset"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 20347,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 18862,
+        "trigger": "figure.rp-panel-photo.rp-steam-photo"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1,
+            "yPercent": 3
+          }
+        },
+        "end": 21077,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.4,
+        "start": 19848,
+        "trigger": "figure.rp-panel-photo.rp-be-photo"
+      },
+      {
+        "animation": null,
+        "end": 22669,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 21860,
+        "trigger": "div.rp-curve-sheet"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 23682,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 21994,
+        "trigger": "div.rp-terrace-photo.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 23245,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 22348,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 24018,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 23141,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.4,
+          "vars": {
+            "clipPath": "inset(0% 100% 0% 0%)",
+            "delay": 0,
+            "duration": 1.4,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1
+          }
+        },
+        "end": 24434,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 23283,
+        "trigger": "figure.rp-family-main.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.4,
+          "vars": {
+            "clipPath": "inset(0% 100% 0% 0%)",
+            "delay": 0,
+            "duration": 1.4,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1
+          }
+        },
+        "end": 24559,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 23568,
+        "trigger": "figure.rp-family-inset.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26387,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 25507,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.4,
+          "vars": {
+            "clipPath": "inset(0% 100% 0% 0%)",
+            "delay": 0,
+            "duration": 1.4,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1
+          }
+        },
+        "end": 26608,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 25684,
+        "trigger": "figure.rp-mask-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26368,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26056,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26606,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26293,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 26843,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26531,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 27057,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.5,
+        "start": 26745,
+        "trigger": "article.rp-essential-fact"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1.03,
+            "yPercent": 5
+          }
+        },
+        "end": 29041,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.65,
+        "start": 26948,
+        "trigger": "div.rp-connected-image.rp-parallax"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 28337,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 27268,
+        "trigger": "h2.rp-reveal"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.5,
+          "vars": {
+            "delay": 0,
+            "duration": 1.3,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "scaleX": 0,
+            "stagger": 0.2,
+            "transformOrigin": "left"
+          }
+        },
+        "end": 28365,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 27634,
+        "trigger": "div.rp-place-line"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.46,
+          "vars": {
+            "clipPath": "inset(0 0 100% 0)",
+            "delay": 0,
+            "duration": 1.1,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "stagger": 0.12,
+            "y": 70
+          }
+        },
+        "end": 28762,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 27681,
+        "trigger": "div.rp-connections"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "clipPath": "inset(0% 0% 100% 0%)",
+            "delay": 0,
+            "duration": 1.35,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "y": 45
+          }
+        },
+        "end": 29309,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 28466,
+        "trigger": "#map-title"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.5,
+          "vars": {
+            "clipPath": "inset(0% 0% 0% 0%)",
+            "delay": 0,
+            "duration": 1.5,
+            "ease": "power3.inOut",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 29622,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 28687,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "scale": 1
+          }
+        },
+        "end": 29622,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.8,
+        "start": 28535,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 1.35,
+          "vars": {
+            "autoAlpha": 0,
+            "delay": 0,
+            "duration": 0.8,
+            "ease": "power3.out",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "runBackwards": 1,
+            "scale": 0.72,
+            "stagger": 0.11
+          }
+        },
+        "end": 29622,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 28889,
+        "trigger": "figure.rp-map-figure"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04,
+              "start": 0,
+              "targets": [
+                "div.rp-portal"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.04,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.16,
+              "start": 0.04,
+              "targets": [],
+              "vars": {
+                "c": 0.03,
+                "delay": 0,
+                "duration": 0.16,
+                "ease": "sine.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "c": 1,
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.5,
+              "start": 0.2,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.49999999999999994,
+                "ease": "power2.inOut",
+                "overwrite": false,
+                "p1": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.2,
+              "targets": [
+                "span.rp-final-intro"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.26,
+              "start": 0.24,
+              "targets": [
+                "div.rp-final-call"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.26,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 28
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.18,
+              "start": 0.26,
+              "targets": [
+                "button.rp-text-link"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.18,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.35,
+              "start": 0.35,
+              "targets": [
+                "header.rp-ui.rp-header",
+                "aside.rp-ui.rp-progress",
+                "div.rp-ui.rp-chapter-index"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.35,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.25,
+              "start": 0.55,
+              "targets": [
+                "h2.rp-final-word"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.25,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "overwrite": false,
+                "p2": 0.25
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.2,
+              "start": 0.7,
+              "targets": [
+                "img.rp-portal-capture"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.20000000000000007,
+                "ease": "sine.inOut",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.1,
+              "start": 0.9,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 0.09999999999999998,
+                "ease": "power1.inOut",
+                "overwrite": false,
+                "p2": 1
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 1,
+          "vars": {
+            "lazy": false,
+            "paused": true
+          }
+        },
+        "end": 30677,
+        "once": false,
+        "pin": "#finale",
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 29917,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "clipPath": "inset(0% 0% 0% 0% round 50% 50% 0% 0%)",
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false
+          }
+        },
+        "end": 29537,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 28947,
+        "trigger": "#finale"
+      },
+      {
+        "animation": {
+          "children": [],
+          "delay": 0,
+          "duration": 0.5,
+          "vars": {
+            "delay": 0,
+            "duration": 0.5,
+            "ease": "none",
+            "immediateRender": true,
+            "lazy": false,
+            "overwrite": false,
+            "yPercent": -10
+          }
+        },
+        "end": 29917,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": 0.7,
+        "start": 28862,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 16482,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 13989,
+        "trigger": "#life"
+      },
+      {
+        "animation": null,
+        "end": 20865,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 16482,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": null,
+        "end": 22458,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 20865,
+        "trigger": "#water"
+      },
+      {
+        "animation": null,
+        "end": 23302,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 22458,
+        "trigger": "#terrace"
+      },
+      {
+        "animation": null,
+        "end": 24441,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 23302,
+        "trigger": "#family"
+      },
+      {
+        "animation": null,
+        "end": 25581,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24441,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 27412,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 25581,
+        "trigger": "#essentials"
+      },
+      {
+        "animation": null,
+        "end": 28662,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 27412,
+        "trigger": "#connected"
+      },
+      {
+        "animation": null,
+        "end": 29326,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 28662,
+        "trigger": "#amenities-map"
+      },
+      {
+        "animation": null,
+        "end": 30381,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 29326,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 31521,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -20,
+        "scrub": null,
+        "start": 14369,
+        "trigger": "div.rp-main"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 375,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 844,
+      "reducedMotion": false,
+      "scrollHeight": 32365,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  }
+}

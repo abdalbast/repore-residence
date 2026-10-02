@@ -1,0 +1,428 @@
+[
+  {
+    "name": "hero",
+    "target": 0,
+    "reference_y": 0,
+    "local_y": 0,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "name": "rise",
+    "target": 1800,
+    "reference_y": 1800,
+    "local_y": 1800,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 102,
+    "max_channel_difference": 7,
+    "mean_channel_difference": 0.00011827256944444445,
+    "bbox": [
+      1168,
+      627,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "dubai",
+    "target": 2990,
+    "reference_y": 2990,
+    "local_y": 2990,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "name": "building",
+    "target": 5328,
+    "reference_y": 5328,
+    "local_y": 5328,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 295268,
+    "max_channel_difference": 2,
+    "mean_channel_difference": 0.13931749131944443,
+    "bbox": [
+      0,
+      0,
+      1265,
+      720
+    ]
+  },
+  {
+    "name": "reception",
+    "target": 8800,
+    "reference_y": 8800,
+    "local_y": 8800,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "name": "residence",
+    "target": 11600,
+    "reference_y": 11600,
+    "local_y": 11600,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "name": "life",
+    "target": 14450,
+    "reference_y": 14450,
+    "local_y": 14450,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 123434,
+    "max_channel_difference": 37,
+    "mean_channel_difference": 0.08880389178240741,
+    "bbox": [
+      154,
+      130,
+      556,
+      632
+    ]
+  },
+  {
+    "name": "pause",
+    "target": 15600,
+    "reference_y": 15600,
+    "local_y": 15600,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 117132,
+    "max_channel_difference": 46,
+    "mean_channel_difference": 0.2860673466435185,
+    "bbox": [
+      73,
+      161,
+      1070,
+      637
+    ]
+  },
+  {
+    "name": "balance",
+    "target": 16858,
+    "reference_y": 16858,
+    "local_y": 16858,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 41557,
+    "max_channel_difference": 43,
+    "mean_channel_difference": 0.17443359375,
+    "bbox": [
+      141,
+      181,
+      935,
+      651
+    ]
+  },
+  {
+    "name": "gym",
+    "target": 18202,
+    "reference_y": 18202,
+    "local_y": 18202,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 9800,
+    "max_channel_difference": 40,
+    "mean_channel_difference": 0.07199074074074074,
+    "bbox": [
+      672,
+      205,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "steam",
+    "target": 19546,
+    "reference_y": 19546,
+    "local_y": 19546,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 81622,
+    "max_channel_difference": 79,
+    "mean_channel_difference": 0.22685836226851852,
+    "bbox": [
+      128,
+      130,
+      1101,
+      619
+    ]
+  },
+  {
+    "name": "zen",
+    "target": 20890,
+    "reference_y": 20890,
+    "local_y": 20890,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 72768,
+    "max_channel_difference": 11,
+    "mean_channel_difference": 0.03938042534722222,
+    "bbox": [
+      135,
+      158,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "pool-start",
+    "target": 21680,
+    "reference_y": 21680,
+    "local_y": 21680,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 122,
+    "max_channel_difference": 11,
+    "mean_channel_difference": 0.00016059027777777778,
+    "bbox": [
+      1168,
+      623,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "pool-middle",
+    "target": 22650,
+    "reference_y": 22650,
+    "local_y": 22650,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "name": "pool-end",
+    "target": 23800,
+    "reference_y": 23800,
+    "local_y": 23800,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 84,
+    "max_channel_difference": 6,
+    "mean_channel_difference": 0.00010633680555555555,
+    "bbox": [
+      1170,
+      623,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "terrace",
+    "target": 24480,
+    "reference_y": 24480,
+    "local_y": 24480,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 44,
+    "max_channel_difference": 1,
+    "mean_channel_difference": 2.4594907407407408e-05,
+    "bbox": [
+      271,
+      102,
+      815,
+      360
+    ]
+  },
+  {
+    "name": "family",
+    "target": 25580,
+    "reference_y": 25580,
+    "local_y": 25580,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 64743,
+    "max_channel_difference": 11,
+    "mean_channel_difference": 0.03621166087962963,
+    "bbox": [
+      6,
+      0,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "interiors-start",
+    "target": 26320,
+    "reference_y": 26320,
+    "local_y": 26320,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 96,
+    "max_channel_difference": 10,
+    "mean_channel_difference": 0.00012044270833333334,
+    "bbox": [
+      1170,
+      625,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "interiors-middle",
+    "target": 26900,
+    "reference_y": 26900,
+    "local_y": 26900,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 96,
+    "max_channel_difference": 10,
+    "mean_channel_difference": 0.00012044270833333334,
+    "bbox": [
+      1170,
+      625,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "interiors-end",
+    "target": 27370,
+    "reference_y": 27370,
+    "local_y": 27370,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 96,
+    "max_channel_difference": 10,
+    "mean_channel_difference": 0.00012044270833333334,
+    "bbox": [
+      1170,
+      625,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "essentials",
+    "target": 28500,
+    "reference_y": 28500,
+    "local_y": 28500,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "mean_channel_difference": 0.0,
+    "bbox": null
+  },
+  {
+    "name": "connected",
+    "target": 29750,
+    "reference_y": 29750,
+    "local_y": 29750,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 164,
+    "max_channel_difference": 1,
+    "mean_channel_difference": 6.148726851851851e-05,
+    "bbox": [
+      327,
+      10,
+      1220,
+      713
+    ]
+  },
+  {
+    "name": "map",
+    "target": 30800,
+    "reference_y": 30800,
+    "local_y": 30800,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 156,
+    "max_channel_difference": 11,
+    "mean_channel_difference": 0.00017469618055555554,
+    "bbox": [
+      106,
+      100,
+      1245,
+      700
+    ]
+  },
+  {
+    "name": "finale",
+    "target": 32100,
+    "reference_y": 32100,
+    "local_y": 32100,
+    "size": [
+      1280,
+      720
+    ],
+    "changed_pixels": 111738,
+    "max_channel_difference": 203,
+    "mean_channel_difference": 2.7735044126157407,
+    "bbox": [
+      480,
+      0,
+      794,
+      401
+    ]
+  }
+]

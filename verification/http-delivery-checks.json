@@ -1,0 +1,148 @@
+{
+  "checked_at": "2026-10-02T11:05:10.074806+00:00",
+  "url": "http://127.0.0.1:4173",
+  "reference_header_profiles_checked": 728,
+  "checks": [
+    {
+      "name": "ETag revalidation",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "Weak ETag comparison",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "ETag list",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "Wildcard revalidation",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "HEAD revalidation",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "Modified date revalidation",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "Future modified date",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "Invalid modified date",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "ETag precedes modified date",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "Revalidation precedes range",
+      "status": 304,
+      "passed": true
+    },
+    {
+      "name": "Prefix range",
+      "status": 206,
+      "passed": true
+    },
+    {
+      "name": "Suffix range",
+      "status": 206,
+      "passed": true
+    },
+    {
+      "name": "Open ended range",
+      "status": 206,
+      "passed": true
+    },
+    {
+      "name": "Unsatisfiable range",
+      "status": 416,
+      "passed": true
+    },
+    {
+      "name": "Zero suffix range",
+      "status": 416,
+      "passed": true
+    },
+    {
+      "name": "HEAD ignores range",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "Matching If-Range",
+      "status": 206,
+      "passed": true
+    },
+    {
+      "name": "Matching If-Range date",
+      "status": 206,
+      "passed": true
+    },
+    {
+      "name": "Stale If-Range",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "Weak If-Range",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "Variant without validator ignores ETag",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "WebP q=0 preserves original",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "Missing variant modified date",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "Video seek",
+      "status": 206,
+      "passed": true
+    },
+    {
+      "name": "Private path: reposeresidence-digital-asset-record.pdf",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "name": "Private path: reposeresidence-offline.zip",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "name": "Private path: verification/reference-response-metadata.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "name": "Private path: serve.py",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "errors": []
+}

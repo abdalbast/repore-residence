@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "height": 1375,
+    "rgbaSha256": "758c04841cac7dd81648d3750a15828cdec3cc8928294090339f17463efd4fd6",
+    "width": 1100
+  },
+  "local": {
+    "height": 1375,
+    "rgbaSha256": "758c04841cac7dd81648d3750a15828cdec3cc8928294090339f17463efd4fd6",
+    "width": 1100
+  },
+  "_valid_for_decoded_image_comparison": false,
+  "_reason": "Lazy image.complete was false; canvas contained only transparent pixels. Superseded by family-fresh-visible-decoding.json."
+}

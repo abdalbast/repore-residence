@@ -1,0 +1,19 @@
+{
+  "size": [
+    390,
+    844
+  ],
+  "exact_pixel_match": false,
+  "mean_channel_difference": [
+    0.0001579778830963665,
+    0.00012759752096244987,
+    0.00014582573824279985
+  ],
+  "changed_pixel_bbox": [
+    1,
+    79,
+    375,
+    518
+  ],
+  "diagnostic": "CSS phases and scrub progress synchronized; normal responsive flow used browser wheel and click input."
+}

@@ -1,0 +1,93 @@
+{
+  "rows": [
+    {
+      "name": "native-entry-settled",
+      "size": [
+        1280,
+        720
+      ],
+      "changed_pixels_whole_frame": 126069,
+      "changed_pixels_excluding_corner": 117183,
+      "difference_threshold_counts_excluding_corner": {
+        "0": 117183,
+        "1": 5322,
+        "2": 3534,
+        "4": 2337,
+        "8": 1380,
+        "16": 642,
+        "64": 0,
+        "128": 0
+      },
+      "max_channel_difference_excluding_corner": 63,
+      "difference_bbox_excluding_corner": [
+        0,
+        0,
+        1277,
+        720
+      ]
+    },
+    {
+      "name": "queue-settled",
+      "size": [
+        1280,
+        720
+      ],
+      "changed_pixels_whole_frame": 120764,
+      "changed_pixels_excluding_corner": 111858,
+      "difference_threshold_counts_excluding_corner": {
+        "0": 111858,
+        "1": 2162,
+        "2": 629,
+        "4": 616,
+        "8": 616,
+        "16": 616,
+        "64": 0,
+        "128": 0
+      },
+      "max_channel_difference_excluding_corner": 63,
+      "difference_bbox_excluding_corner": [
+        0,
+        0,
+        1277,
+        720
+      ]
+    },
+    {
+      "name": "reverse-settled",
+      "size": [
+        1280,
+        720
+      ],
+      "changed_pixels_whole_frame": 121325,
+      "changed_pixels_excluding_corner": 112894,
+      "difference_threshold_counts_excluding_corner": {
+        "0": 112894,
+        "1": 2483,
+        "2": 1114,
+        "4": 1036,
+        "8": 874,
+        "16": 616,
+        "64": 0,
+        "128": 0
+      },
+      "max_channel_difference_excluding_corner": 63,
+      "difference_bbox_excluding_corner": [
+        0,
+        0,
+        1277,
+        720
+      ]
+    }
+  ],
+  "excluded_corner": [
+    1140,
+    600,
+    1280,
+    720
+  ],
+  "limits": [
+    "The exclusion includes the full intentionally removed WhatsApp control, padded shadow and lower scrollbar corner.",
+    "Most residuals are small channel-level raster differences; perimeter and native scrollbar differences remain.",
+    "These settled captures do not establish synchronized animation timing or whole-frame pixel identity."
+  ]
+}

@@ -1,0 +1,1598 @@
+[
+  {
+    "checkpoint": "2d-after-server-restart",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.640625,
+            "height": 629.1015625,
+            "left": 504.8671875,
+            "right": 1257.5,
+            "top": 321.5390625,
+            "width": 752.6328125,
+            "x": 504.8671875,
+            "y": 321.5390625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 947.8710021972656,
+            "height": 535.357421875,
+            "left": 390.92034912109375,
+            "right": 1141.02197265625,
+            "top": 412.5135803222656,
+            "width": 750.1016235351562,
+            "x": 390.92034912109375,
+            "y": 412.5135803222656
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-transition-0",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.6481323242188,
+            "height": 629.2903442382812,
+            "left": 505.0001525878906,
+            "right": 1257.8587951660156,
+            "top": 321.3577880859375,
+            "width": 752.858642578125,
+            "x": 505.0001525878906,
+            "y": 321.3577880859375
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 946.5770568847656,
+            "height": 538.5191650390625,
+            "left": 391.0421752929687,
+            "right": 1142.2073974609375,
+            "top": 408.0578918457031,
+            "width": 751.1652221679688,
+            "x": 391.0421752929687,
+            "y": 408.0578918457031
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0.3182"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-transition-1",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 954.6236877441406,
+            "height": 717.41455078125,
+            "left": 556.1788940429688,
+            "right": 1420.259033203125,
+            "top": 237.20913696289065,
+            "width": 864.0801391601562,
+            "x": 556.1788940429688,
+            "y": 237.20913696289065
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.2408447265624,
+            "height": 612.1436767578125,
+            "left": 436.4169921875,
+            "right": 1283.6593017578125,
+            "top": 332.09716796875,
+            "width": 847.2423095703125,
+            "x": 436.4169921875,
+            "y": 332.09716796875
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-transition-2",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 955.1316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 225.18125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 225.18125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.3406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 322.3547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 322.3547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-transition-3",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 955.1316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 225.18125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 225.18125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.3406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 322.3547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 322.3547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-transition-4",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 955.1316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 225.18125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 225.18125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.3406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 322.3547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 322.3547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-transition-5",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 955.1316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 225.18125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 225.18125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.3406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 322.3547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 322.3547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-transition-6",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 955.1316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 225.18125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 225.18125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.3406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 322.3547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 322.3547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "3d-settled",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 955.1316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 225.18125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 225.18125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.3406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 322.3547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 322.3547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    },
+    "toggle": {
+      "label": "View in 2D",
+      "pressed": "true"
+    }
+  },
+  {
+    "checkpoint": "2d-return-0",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 955.14453125,
+            "height": 729.6337280273438,
+            "left": 563.42333984375,
+            "right": 1442.921875,
+            "top": 225.51080322265625,
+            "width": 879.49853515625,
+            "x": 563.42333984375,
+            "y": 225.51080322265625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 944.3493957519532,
+            "height": 621.714111328125,
+            "left": 442.74566650390625,
+            "right": 1303.2308349609375,
+            "top": 322.6352844238281,
+            "width": 860.4851684570312,
+            "x": 442.74566650390625,
+            "y": 322.6352844238281
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "2d-return-1",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.6349487304688,
+            "height": 629.1015625,
+            "left": 504.8829956054687,
+            "right": 1257.515869140625,
+            "top": 321.53338623046875,
+            "width": 752.6328735351562,
+            "x": 504.8829956054687,
+            "y": 321.53338623046875
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 947.8652954101562,
+            "height": 535.3573608398438,
+            "left": 390.9361572265625,
+            "right": 1141.037841796875,
+            "top": 412.5079345703125,
+            "width": 750.1016845703125,
+            "x": 390.9361572265625,
+            "y": 412.5079345703125
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "2d-return-2",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.640625,
+            "height": 629.1015625,
+            "left": 504.8671875,
+            "right": 1257.5,
+            "top": 321.5390625,
+            "width": 752.6328125,
+            "x": 504.8671875,
+            "y": 321.5390625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 947.8710021972656,
+            "height": 535.357421875,
+            "left": 390.92034912109375,
+            "right": 1141.02197265625,
+            "top": 412.5135803222656,
+            "width": 750.1016235351562,
+            "x": 390.92034912109375,
+            "y": 412.5135803222656
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "2d-return-3",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.640625,
+            "height": 629.1015625,
+            "left": 504.8671875,
+            "right": 1257.5,
+            "top": 321.5390625,
+            "width": 752.6328125,
+            "x": 504.8671875,
+            "y": 321.5390625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 947.8710021972656,
+            "height": 535.357421875,
+            "left": 390.92034912109375,
+            "right": 1141.02197265625,
+            "top": 412.5135803222656,
+            "width": 750.1016235351562,
+            "x": 390.92034912109375,
+            "y": 412.5135803222656
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "2d-return-4",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.640625,
+            "height": 629.1015625,
+            "left": 504.8671875,
+            "right": 1257.5,
+            "top": 321.5390625,
+            "width": 752.6328125,
+            "x": 504.8671875,
+            "y": 321.5390625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 947.8710021972656,
+            "height": 535.357421875,
+            "left": 390.92034912109375,
+            "right": 1141.02197265625,
+            "top": 412.5135803222656,
+            "width": 750.1016235351562,
+            "x": 390.92034912109375,
+            "y": 412.5135803222656
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "2d-return-5",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.640625,
+            "height": 629.1015625,
+            "left": 504.8671875,
+            "right": 1257.5,
+            "top": 321.5390625,
+            "width": 752.6328125,
+            "x": 504.8671875,
+            "y": 321.5390625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 947.8710021972656,
+            "height": 535.357421875,
+            "left": 390.92034912109375,
+            "right": 1141.02197265625,
+            "top": 412.5135803222656,
+            "width": 750.1016235351562,
+            "x": 390.92034912109375,
+            "y": 412.5135803222656
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "2d-return-settled",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 950.640625,
+            "height": 629.1015625,
+            "left": 504.8671875,
+            "right": 1257.5,
+            "top": 321.5390625,
+            "width": 752.6328125,
+            "x": 504.8671875,
+            "y": 321.5390625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 947.8710021972656,
+            "height": 535.357421875,
+            "left": 390.92034912109375,
+            "right": 1141.02197265625,
+            "top": 412.5135803222656,
+            "width": 750.1016235351562,
+            "x": 390.92034912109375,
+            "y": 412.5135803222656
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "rapid-keyboard-replay-0",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 931.151885986328,
+            "height": 629.4161376953125,
+            "left": 505.0915832519531,
+            "right": 1258.1007385253906,
+            "top": 301.7357482910156,
+            "width": 753.0091552734375,
+            "x": 505.0915832519531,
+            "y": 301.7357482910156
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 926.7247314453124,
+            "height": 539.382080078125,
+            "left": 391.1105346679687,
+            "right": 1142.6571044921875,
+            "top": 387.3426513671875,
+            "width": 751.5465698242188,
+            "x": 391.1105346679687,
+            "y": 387.3426513671875
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0.4137"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "rapid-keyboard-replay-1",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 935.1432342529296,
+            "height": 718.4351196289062,
+            "left": 556.8485717773438,
+            "right": 1422.2181396484375,
+            "top": 216.70811462402344,
+            "width": 865.3695678710938,
+            "x": 556.8485717773438,
+            "y": 216.70811462402344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 924.7359313964844,
+            "height": 612.9593505859375,
+            "left": 436.9965515136719,
+            "right": 1285.3670349121094,
+            "top": 311.7765808105469,
+            "width": 848.3704833984375,
+            "x": 436.9965515136719,
+            "y": 311.7765808105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "rapid-keyboard-replay-2",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 935.6316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 205.68125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 205.68125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 924.8406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 302.8547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 302.8547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "rapid-keyboard-replay-3",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 935.6316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 205.68125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 205.68125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 924.8406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 302.8547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 302.8547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "rapid-keyboard-replay-4",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 935.6316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 205.68125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 205.68125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 924.8406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 302.8547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 302.8547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "rapid-keyboard-replay-5",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 935.6316375732422,
+            "height": 729.9503784179688,
+            "left": 563.6807861328125,
+            "right": 1443.582763671875,
+            "top": 205.68125915527344,
+            "width": 879.9019775390625,
+            "x": 563.6807861328125,
+            "y": 205.68125915527344
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 924.8406677246094,
+            "height": 621.9859619140625,
+            "left": 442.9597778320313,
+            "right": 1303.8211669921875,
+            "top": 302.8547058105469,
+            "width": 860.8613891601562,
+            "x": 442.9597778320313,
+            "y": 302.8547058105469
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "1"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    }
+  },
+  {
+    "checkpoint": "handoff-2d",
+    "state": {
+      "client": 1363,
+      "controls": [
+        {
+          "label": null,
+          "text": "Reset view"
+        },
+        {
+          "label": null,
+          "text": "Reset view"
+        }
+      ],
+      "images": [
+        {
+          "complete": true,
+          "naturalHeight": 1594,
+          "naturalWidth": 1907,
+          "rect": {
+            "bottom": 931.1467895507812,
+            "height": 629.4160766601562,
+            "left": 505.1058654785156,
+            "right": 1258.1150207519531,
+            "top": 301.730712890625,
+            "width": 753.0091552734375,
+            "x": 505.1058654785156,
+            "y": 301.730712890625
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-web/unit-l02-04-08-10-1bhk-study-b.webp",
+          "visible": "1"
+        },
+        {
+          "complete": true,
+          "naturalHeight": 1024,
+          "naturalWidth": 1536,
+          "rect": {
+            "bottom": 926.6919555664062,
+            "height": 539.4395751953125,
+            "left": 391.1250305175781,
+            "right": 1142.688995361328,
+            "top": 387.25238037109375,
+            "width": 751.56396484375,
+            "x": 391.1250305175781,
+            "y": 387.25238037109375
+          },
+          "src": "/floor-explorer/repose-floor-explorer-assets/units-3d/unit-l02-04-08-10-1bhk-study-b-3d.webp",
+          "visible": "0.4213"
+        }
+      ],
+      "scrollWidth": 1363,
+      "y": 49953
+    },
+    "capture": {
+      "pre": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "post": {
+        "height": 1233,
+        "width": 1378,
+        "x": 0,
+        "y": 49953
+      },
+      "stable": true
+    },
+    "toggle": {
+      "label": "View in 3D",
+      "pressed": "false",
+      "theme": true
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "hero",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "rise",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "dubai",
+    "complete_states_identical": true,
+    "changed_pixels": 90,
+    "max_channel_difference": 8,
+    "bounds": [
+      1171,
+      624,
+      1244,
+      699
+    ]
+  },
+  {
+    "name": "building",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "reception",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "residence",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "life",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "pause",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "balance",
+    "complete_states_identical": true,
+    "changed_pixels": 0,
+    "max_channel_difference": 0,
+    "bounds": null
+  },
+  {
+    "name": "gym",
+    "complete_states_identical": true,
+    "changed_pixels": 120,
+    "max_channel_difference": 11,
+    "bounds": [
+      1171,
+      623,
+      1244,
+      699
+    ]
+  },
+  {
+    "name": "steam",
+    "complete_states_identical": true,
+    "changed_pixels": 182,
+    "max_channel_difference": 11,
+    "bounds": [
+      289,
+      249,
+      1244,
+      699
+    ]
+  },
+  {
+    "name": "zen",
+    "complete_states_identical": true,
+    "changed_pixels": 170,
+    "max_channel_difference": 11,
+    "bounds": [
+      135,
+      325,
+      1244,
+      699
+    ]
+  }
+]

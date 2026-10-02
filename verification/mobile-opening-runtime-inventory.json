@@ -1,0 +1,1290 @@
+{
+  "local": {
+    "cssAnimations": [
+      {
+        "name": "op-hint-bob",
+        "target": "div.op-hint__inner",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-breathe",
+        "target": "span.op-hint__label",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-beam",
+        "target": "span.op-hint__beam",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-chevron",
+        "target": "span.op-hint__chevron",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-bob",
+        "target": "span.rc__onward-arrow",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      }
+    ],
+    "sections": [],
+    "triggers": [
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 6499,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(6px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.055
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 375,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 844,
+      "reducedMotion": false,
+      "scrollHeight": 11647,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  },
+  "reference": {
+    "cssAnimations": [
+      {
+        "name": "op-hint-bob",
+        "target": "div.op-hint__inner",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-breathe",
+        "target": "span.op-hint__label",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-beam",
+        "target": "span.op-hint__beam",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "op-hint-chevron",
+        "target": "span.op-hint__chevron",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2600,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      },
+      {
+        "name": "rc-onward-bob",
+        "target": "span.rc__onward-arrow",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 2900,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        }
+      }
+    ],
+    "sections": [],
+    "triggers": [
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -844,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11647,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 6499,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(6px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.055
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 10803,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 375,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 844,
+      "reducedMotion": false,
+      "scrollHeight": 11647,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  }
+}

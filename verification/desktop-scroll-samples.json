@@ -1,0 +1,5482 @@
+{
+  "opening": [
+    {
+      "target": 600,
+      "live": {
+        "width": 1265,
+        "y": 599
+      },
+      "local": {
+        "width": 1265,
+        "y": 599
+      }
+    },
+    {
+      "target": 1700,
+      "live": {
+        "width": 1265,
+        "y": 1699
+      },
+      "local": {
+        "width": 1265,
+        "y": 1698
+      }
+    },
+    {
+      "target": 2990,
+      "live": {
+        "width": 1265,
+        "y": 2989
+      },
+      "local": {
+        "width": 1265,
+        "y": 2989
+      }
+    },
+    {
+      "target": 3900,
+      "live": {
+        "width": 1265,
+        "y": 3900
+      },
+      "local": {
+        "width": 1265,
+        "y": 3900
+      }
+    },
+    {
+      "target": 4800,
+      "live": {
+        "width": 1265,
+        "y": 4800
+      },
+      "local": {
+        "width": 1265,
+        "y": 4800
+      }
+    },
+    {
+      "target": 5300,
+      "live": {
+        "width": 1265,
+        "y": 5301
+      },
+      "local": {
+        "width": 1265,
+        "y": 5301
+      }
+    }
+  ],
+  "chapters": [
+    {
+      "target": 13700,
+      "live": {
+        "sections": [
+          {
+            "height": 1889.28125,
+            "id": "life",
+            "top": -75.21875
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 13700
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1889.28125,
+            "id": "life",
+            "top": -75.21875
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 13700
+      }
+    },
+    {
+      "target": 14700,
+      "live": {
+        "sections": [
+          {
+            "height": 1889.28125,
+            "id": "life",
+            "top": -1075.21875
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 14700
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1889.28125,
+            "id": "life",
+            "top": -1075.21875
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 14700
+      }
+    },
+    {
+      "target": 15700,
+      "live": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -185.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 15700
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -185.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 15700
+      }
+    },
+    {
+      "target": 17000,
+      "live": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -1485.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 17000
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -1485.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 17000
+      }
+    },
+    {
+      "target": 18400,
+      "live": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -2885.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 18400
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -2885.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 18400
+      }
+    },
+    {
+      "target": 19800,
+      "live": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -4285.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 19800
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -4285.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 0,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 19800
+      }
+    },
+    {
+      "target": 21100,
+      "live": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -5585.9375
+          },
+          {
+            "height": 2736,
+            "id": "water",
+            "top": 510.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 21100
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 6096,
+            "id": "rhythm",
+            "top": -5585.9375
+          },
+          {
+            "height": 2736,
+            "id": "water",
+            "top": 510.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(8% 6%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 21100
+      }
+    },
+    {
+      "target": 22000,
+      "live": {
+        "sections": [
+          {
+            "height": 2736,
+            "id": "water",
+            "top": -389.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(2.1999% 1.65%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 22000
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 2736,
+            "id": "water",
+            "top": -389.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(2.2032% 1.6524%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(0% 0% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 22000
+      }
+    },
+    {
+      "target": 23000,
+      "live": {
+        "sections": [
+          {
+            "height": 2736,
+            "id": "water",
+            "top": -1389.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(56.4063% 71.7899% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 23000
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 2736,
+            "id": "water",
+            "top": -1389.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(56.3291% 71.6916% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 23000
+      }
+    },
+    {
+      "target": 24000,
+      "live": {
+        "sections": [
+          {
+            "height": 2736,
+            "id": "water",
+            "top": -2389.9375
+          },
+          {
+            "height": 792,
+            "id": "terrace",
+            "top": 346.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 24000
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 2736,
+            "id": "water",
+            "top": -2389.9375
+          },
+          {
+            "height": 792,
+            "id": "terrace",
+            "top": 346.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 100)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 24000
+      }
+    },
+    {
+      "target": 24600,
+      "live": {
+        "sections": [
+          {
+            "height": 792,
+            "id": "terrace",
+            "top": -253.9375
+          },
+          {
+            "height": 1150,
+            "id": "family",
+            "top": 538.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 86.3854)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -10.0773, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 24600
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 792,
+            "id": "terrace",
+            "top": -253.9375
+          },
+          {
+            "height": 1150,
+            "id": "family",
+            "top": 538.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": false,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "inset(0% 100% 0% 0%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 86.3921)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -10.0738, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 24600
+      }
+    },
+    {
+      "target": 25300,
+      "live": {
+        "sections": [
+          {
+            "height": 1150,
+            "id": "family",
+            "top": -161.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 33.9886)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -48.8505, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 25300
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1150,
+            "id": "family",
+            "top": -161.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 33.9921)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -48.8488, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 25300
+      }
+    },
+    {
+      "target": 26200,
+      "live": {
+        "sections": [
+          {
+            "height": 1150,
+            "id": "family",
+            "top": -1061.9375
+          },
+          {
+            "height": 1800,
+            "id": "interiors",
+            "top": 88.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -33.3836)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -98.705, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 26200
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1150,
+            "id": "family",
+            "top": -1061.9375
+          },
+          {
+            "height": 1800,
+            "id": "interiors",
+            "top": 88.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -33.369)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -98.6955, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.07, 0, 0, 1.07, 0, 90)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 191.872)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 26200
+      }
+    },
+    {
+      "target": 27000,
+      "live": {
+        "sections": [
+          {
+            "height": 1800,
+            "id": "interiors",
+            "top": -711.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.0239, 0, 0, 1.0239, 0, -15.4416)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45.9734)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 27000
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1800,
+            "id": "interiors",
+            "top": -711.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1.0239, 0, 0, 1.0239, 0, -15.4258)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45.9952)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 27000
+      }
+    },
+    {
+      "target": 27750,
+      "live": {
+        "sections": [
+          {
+            "height": 1800,
+            "id": "interiors",
+            "top": -1461.9375
+          },
+          {
+            "height": 1292.828125,
+            "id": "essentials",
+            "top": 338.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 62.8101%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 28.2645)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 27750
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1800,
+            "id": "interiors",
+            "top": -1461.9375
+          },
+          {
+            "height": 1292.828125,
+            "id": "essentials",
+            "top": 338.0625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 62.831%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 28.2739)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 27750
+      }
+    },
+    {
+      "target": 28350,
+      "live": {
+        "sections": [
+          {
+            "height": 1292.828125,
+            "id": "essentials",
+            "top": -261.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 30.7237%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 13.8257)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 28350
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1292.828125,
+            "id": "essentials",
+            "top": -261.9375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 30.7347%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 13.8306)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "inset(0px 0px 100%)",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 45)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 28350
+      }
+    },
+    {
+      "target": 29000,
+      "live": {
+        "sections": [
+          {
+            "height": 1292.828125,
+            "id": "essentials",
+            "top": -911.9375
+          },
+          {
+            "height": 1100,
+            "id": "connected",
+            "top": 380.890625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 29000
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1292.828125,
+            "id": "essentials",
+            "top": -911.9375
+          },
+          {
+            "height": 1100,
+            "id": "connected",
+            "top": 380.890625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 29000
+      }
+    },
+    {
+      "target": 29900,
+      "live": {
+        "sections": [
+          {
+            "height": 1100,
+            "id": "connected",
+            "top": -519.109375
+          },
+          {
+            "height": 1141.40625,
+            "id": "amenities-map",
+            "top": 580.890625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 29900
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1100,
+            "id": "connected",
+            "top": -519.109375
+          },
+          {
+            "height": 1141.40625,
+            "id": "amenities-map",
+            "top": 580.890625
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 29900
+      }
+    },
+    {
+      "target": 30900,
+      "live": {
+        "sections": [
+          {
+            "height": 1141.40625,
+            "id": "amenities-map",
+            "top": -419.109375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 30900
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1141.40625,
+            "id": "amenities-map",
+            "top": -419.109375
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 54.7195)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(15% 0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 30900
+      }
+    },
+    {
+      "target": 31800,
+      "live": {
+        "sections": [
+          {
+            "height": 1000,
+            "id": "finale",
+            "top": -177.703125
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -27.1475)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 31800
+      },
+      "local": {
+        "sections": [
+          {
+            "height": 1000,
+            "id": "finale",
+            "top": -177.703125
+          }
+        ],
+        "video": [
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/living-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/kitchen.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bedroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/interiors/bathroom.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/gym.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/steam-room.mp4"
+          },
+          {
+            "paused": true,
+            "readyState": 4,
+            "src": "/assets/amenity-videos/pool.mp4"
+          }
+        ],
+        "viewport": [
+          1280,
+          720,
+          1265
+        ],
+        "visuals": [
+          {
+            "class": "rp-horizontal-stage",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 5376)"
+          },
+          {
+            "class": "rp-water-visual",
+            "clip": "inset(0%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-curve-sheet",
+            "clip": "ellipse(110% 140% at 50% 110%)",
+            "opacity": "1",
+            "transform": "none"
+          },
+          {
+            "class": "rp-family-main rp-mask-reveal",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -40)"
+          },
+          {
+            "class": "rp-family-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, -103.596, 0)"
+          },
+          {
+            "class": "rp-interior-wide",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -70)"
+          },
+          {
+            "class": "rp-interior-tall",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -29.5187)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-essential-fact",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          {
+            "class": "rp-final-word",
+            "clip": "none",
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, -27.142)"
+          },
+          {
+            "class": "rp-final-image",
+            "clip": "inset(0% round 50% 50% 0% 0%)",
+            "opacity": "1",
+            "transform": "none"
+          }
+        ],
+        "y": 31800
+      }
+    }
+  ]
+}

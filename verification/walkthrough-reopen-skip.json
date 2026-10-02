@@ -1,0 +1,181 @@
+{
+  "introActive": {
+    "reference": true,
+    "local": true
+  },
+  "post": {
+    "name": "walkthrough-reopen-skip-escape",
+    "states": {
+      "reference": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53475189208984,
+                  "height": 22.937501907348633,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59724998474121,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59724998474121
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.5530395507812,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.5530395507812,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.5530395507812
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.5530395507812,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.5530395507812,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.5530395507812
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      },
+      "local": {
+        "active": {
+          "label": "The Walkthrough",
+          "tag": "DIV"
+        },
+        "dialogs": [
+          {
+            "focusable": [
+              {
+                "label": "Close",
+                "rect": {
+                  "bottom": 44.53125,
+                  "height": 22.9375,
+                  "left": 1111.5546875,
+                  "right": 1181.8046875,
+                  "top": 21.59375,
+                  "width": 70.25,
+                  "x": 1111.5546875,
+                  "y": 21.59375
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Previous film",
+                "rect": {
+                  "bottom": 695.52392578125,
+                  "height": 46,
+                  "left": 1014.4140625,
+                  "right": 1060.4140625,
+                  "top": 649.52392578125,
+                  "width": 46,
+                  "x": 1014.4140625,
+                  "y": 649.52392578125
+                },
+                "tag": "BUTTON"
+              },
+              {
+                "label": "Next film",
+                "rect": {
+                  "bottom": 695.52392578125,
+                  "height": 46,
+                  "left": 1135.8046875,
+                  "right": 1181.8046875,
+                  "top": 649.52392578125,
+                  "width": 46,
+                  "x": 1135.8046875,
+                  "y": 649.52392578125
+                },
+                "tag": "BUTTON"
+              }
+            ],
+            "label": "The Walkthrough",
+            "rect": {
+              "bottom": 720,
+              "height": 720,
+              "left": 0,
+              "right": 1265,
+              "top": 0,
+              "width": 1265,
+              "x": 0,
+              "y": 0
+            },
+            "style": "opacity: 1;"
+          }
+        ],
+        "scrollWidth": 1265,
+        "width": 1265,
+        "y": 32981.5
+      }
+    },
+    "captures": {
+      "reference": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      },
+      "local": {
+        "pre": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "post": {
+          "height": 720,
+          "width": 1280,
+          "x": 0,
+          "y": 32981.5
+        },
+        "stable": true
+      }
+    }
+  }
+}

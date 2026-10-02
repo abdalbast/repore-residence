@@ -1,0 +1,60 @@
+{
+  "reference": [
+    {
+      "class": "",
+      "complete": true,
+      "height": 1040,
+      "parent": "rp-final-image",
+      "rgbaSha256": "55bf764f95719a4a993fd366007cb066b76fc4ae257c40138c1a29475b227519",
+      "source": "/assets/repose-experience/tower-original.png",
+      "width": 1600
+    },
+    {
+      "class": "rp-portal-still",
+      "complete": true,
+      "height": 1080,
+      "parent": "rp-portal-content",
+      "rgbaSha256": "deaedb0f23ae0389939cb7992db753e10fb76710948a1403be7f71dd74f712e5",
+      "source": "/assets/opening/building/final-frame.webp",
+      "width": 1920
+    },
+    {
+      "class": "rp-portal-capture",
+      "complete": true,
+      "height": 1040,
+      "parent": "rp-portal-content",
+      "rgbaSha256": "55bf764f95719a4a993fd366007cb066b76fc4ae257c40138c1a29475b227519",
+      "source": "/assets/repose-experience/tower-original.png",
+      "width": 1600
+    }
+  ],
+  "local": [
+    {
+      "class": "",
+      "complete": true,
+      "height": 1040,
+      "parent": "rp-final-image",
+      "rgbaSha256": "55bf764f95719a4a993fd366007cb066b76fc4ae257c40138c1a29475b227519",
+      "source": "/assets/repose-experience/tower-original.png",
+      "width": 1600
+    },
+    {
+      "class": "rp-portal-still",
+      "complete": true,
+      "height": 1080,
+      "parent": "rp-portal-content",
+      "rgbaSha256": "0c0ada0270ef3e0329e00d80f7538b90368badd3db7185c5688c330a8e874d08",
+      "source": "/assets/opening/building/final-frame.webp",
+      "width": 1920
+    },
+    {
+      "class": "rp-portal-capture",
+      "complete": true,
+      "height": 1040,
+      "parent": "rp-portal-content",
+      "rgbaSha256": "55bf764f95719a4a993fd366007cb066b76fc4ae257c40138c1a29475b227519",
+      "source": "/assets/repose-experience/tower-original.png",
+      "width": 1600
+    }
+  ]
+}

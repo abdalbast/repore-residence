@@ -1,0 +1,532 @@
+[
+  {
+    "name": "floor15-before",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 15",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+          "label": "LEVEL 15 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 878.085px; height: 461.58px; left: 46.9575px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 15",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l15-penthouse.webp",
+          "label": "LEVEL 15 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "queued-down",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 13",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+          "label": "LEVEL 13 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 863.304px; height: 461.58px; left: 54.3479px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 13",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l13.webp",
+          "label": "LEVEL 13 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "floor12",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "floor11",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 846.936px; height: 461.58px; left: 62.5321px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 11",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l01-05-07-11.webp",
+          "label": "LEVEL 11 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(-0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 846.936px; height: 461.58px; left: 62.5321px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 11",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l01-05-07-11.webp",
+          "label": "LEVEL 11 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(-0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "reverse12",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "double-click-zoom",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 2.4000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(-53px, -17.02px, 0px) scale(2.4);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 2.4000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(-53px, -17.02px, 0px) scale(2.4);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "drag",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 2.4000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(-53px, -5px, 0px) scale(2.4);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 2.4000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(-53px, -5px, 0px) scale(2.4);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "reset-floor",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 660.5,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": -59.5,
+            "width": 1265,
+            "x": 0,
+            "y": -59.5
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 660.5,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": -59.5,
+            "width": 1265,
+            "x": 0,
+            "y": -59.5
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "escape-to-floor",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 0.9941; transform: translate3d(0px, 0px, 0px) scale(1.0077, 1.0077); transform-origin: 82.0339% 48.0661%;",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  },
+  {
+    "name": "escape-to-building",
+    "reference": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, -269.626px) scale(0.94, 0.94); clip-path: inset(50% 0%);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5119
+    },
+    "local": {
+      "clientWidth": 1265,
+      "plates": [
+        {
+          "figure": "width: 865.462px; height: 461.58px; left: 53.2687px; top: 4.71px; --fx-zoom: 1.0000; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, -269.626px) scale(0.94, 0.94); clip-path: inset(50% 0%);",
+          "head": "LEVEL 12",
+          "image": "/floor-explorer/relit/floorplates/floorplate-l12.webp",
+          "label": "LEVEL 12 floorplate",
+          "opacity": "1",
+          "rect": {
+            "bottom": 720,
+            "height": 720,
+            "left": 0,
+            "right": 1265,
+            "top": 0,
+            "width": 1265,
+            "x": 0,
+            "y": 0
+          },
+          "zoom": "transform: translate3d(0.5px, -0.5px, 0px) scale(1);"
+        }
+      ],
+      "scrollWidth": 1265,
+      "y": 5120
+    }
+  }
+]

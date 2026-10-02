@@ -1,0 +1,100 @@
+[
+  {
+    "point": {
+      "x": 210,
+      "y": 667
+    },
+    "reference": {
+      "clientWidth": 1265,
+      "y": 17800
+    },
+    "local": {
+      "clientWidth": 1265,
+      "y": 17800
+    }
+  },
+  {
+    "point": {
+      "x": 430,
+      "y": 667
+    },
+    "reference": {
+      "clientWidth": 1265,
+      "y": 17800
+    },
+    "local": {
+      "clientWidth": 1265,
+      "y": 17800
+    }
+  },
+  {
+    "point": {
+      "x": 670,
+      "y": 667
+    },
+    "reference": {
+      "clientWidth": 1265,
+      "y": 17800
+    },
+    "local": {
+      "clientWidth": 1265,
+      "y": 17800
+    }
+  },
+  {
+    "point": {
+      "x": 875,
+      "y": 667
+    },
+    "reference": {
+      "clientWidth": 1265,
+      "y": 17800
+    },
+    "local": {
+      "clientWidth": 1265,
+      "y": 17800
+    }
+  },
+  {
+    "point": {
+      "x": 1070,
+      "y": 667
+    },
+    "reference": {
+      "clientWidth": 1265,
+      "y": 17800
+    },
+    "local": {
+      "clientWidth": 1265,
+      "y": 17800
+    }
+  },
+  {
+    "point": {
+      "x": 1020,
+      "y": 54
+    },
+    "reference": {
+      "clientWidth": 1265,
+      "y": 17800
+    },
+    "local": {
+      "clientWidth": 1265,
+      "y": 17800
+    }
+  },
+  {
+    "point": {
+      "x": 630,
+      "y": 300
+    },
+    "reference": {
+      "clientWidth": 1265,
+      "y": 17800
+    },
+    "local": {
+      "clientWidth": 1265,
+      "y": 17800
+    }
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-02",
+  "tool": "built-in image_gen",
+  "input": "assets/reception-entry/reception-final.webp",
+  "output": "assets/reception-entry/reception-taps-agency.webp",
+  "width": 4800,
+  "height": 2114,
+  "regions": [
+    {
+      "left": 2320,
+      "top": 810,
+      "width": 390,
+      "height": 180,
+      "file": "exec-4753cf08-e9d3-4749-a96e-3c76b6654d0e.png"
+    },
+    {
+      "left": 4290,
+      "top": 810,
+      "width": 390,
+      "height": 180,
+      "file": "exec-a4e0d359-92d8-4c14-9433-48ae8e81cb44.png"
+    }
+  ],
+  "changed_pixels_in_sign_regions": 136506,
+  "changed_pixels_outside_sign_regions": 0,
+  "original_sha256": "622318ed2b01511ae84341890ca6b9f2521e4cddf98e32fd55ed6e56d35ffd5f",
+  "output_sha256": "eaa053cac33ad3f10e776cbdc8427c02a2856e156b4f577ad5d6d6d93fec2829",
+  "processing": "Only generated sign and mirrored sign regions composited into the original at its full resolution. Lossless WebP preserves every decoded pixel outside those regions.",
+  "browser": {
+    "url": "http://127.0.0.1:4173/",
+    "viewport": [
+      1378,
+      1233
+    ],
+    "phase": "inside",
+    "natural_dimensions": [
+      4800,
+      2114
+    ],
+    "screenshot": "screenshots/reception-taps-agency-final-local.png",
+    "image_loaded": true,
+    "http_status": 200
+  }
+}

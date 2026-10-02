@@ -1,0 +1,190 @@
+[
+  {
+    "name": "finale",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 180,
+        "max_channel_difference": 1,
+        "bounds": [
+          480,
+          3,
+          784,
+          400
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 180,
+        "max_channel_difference": 1,
+        "bounds": [
+          480,
+          3,
+          784,
+          400
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 180,
+        "max_channel_difference": 1,
+        "bounds": [
+          480,
+          3,
+          784,
+          400
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "expansion",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 11768,
+        "max_channel_difference": 12,
+        "bounds": [
+          42,
+          0,
+          1222,
+          687
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 11768,
+        "max_channel_difference": 12,
+        "bounds": [
+          42,
+          0,
+          1222,
+          687
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 11768,
+        "max_channel_difference": 12,
+        "bounds": [
+          42,
+          0,
+          1222,
+          687
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "exchange",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 258004,
+        "max_channel_difference": 14,
+        "bounds": [
+          0,
+          0,
+          1264,
+          719
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 258004,
+        "max_channel_difference": 14,
+        "bounds": [
+          0,
+          0,
+          1264,
+          719
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 258004,
+        "max_channel_difference": 14,
+        "bounds": [
+          0,
+          0,
+          1264,
+          719
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  },
+  {
+    "name": "arrival",
+    "samples": [
+      {
+        "sample": 0,
+        "complete_states_identical": true,
+        "changed_pixels": 132555,
+        "max_channel_difference": 2,
+        "bounds": [
+          0,
+          0,
+          1264,
+          719
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 1,
+        "complete_states_identical": true,
+        "changed_pixels": 132555,
+        "max_channel_difference": 2,
+        "bounds": [
+          0,
+          0,
+          1264,
+          719
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      },
+      {
+        "sample": 2,
+        "complete_states_identical": true,
+        "changed_pixels": 132555,
+        "max_channel_difference": 2,
+        "bounds": [
+          0,
+          0,
+          1264,
+          719
+        ],
+        "reference_matches_first_sample": true,
+        "local_matches_first_sample": true
+      }
+    ]
+  }
+]

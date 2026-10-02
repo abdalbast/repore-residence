@@ -1,0 +1,300 @@
+/* Reposé Residence — design-study recreation. Fonts: Instrument Serif + Manrope (SIL OFL). */
+
+@font-face {
+  font-family: ReposeDisplay;
+  src: url(/assets/fonts/repose-display.woff2) format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: ReposeDisplay;
+  src: url(/assets/fonts/repose-display-italic.woff2) format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: ReposeSans;
+  src: url(/assets/fonts/repose-sans.woff2) format("woff2");
+  font-weight: 300 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --ink: #090c10;
+  --paper: #f6f4f1;
+  --font-display: ReposeDisplay, "Instrument Serif", Georgia, "Times New Roman", times, serif;
+  --font-sans: ReposeSans, Manrope, system-ui, -apple-system, "Segoe UI", roboto, sans-serif;
+  --weight-display: 400;
+  --weight-sans: 400;
+  --lh-display: 0.9;
+  --lh-heading: 1.05;
+  --lh-body: 1.55;
+  --lh-ui: 1.4;
+  --track-display: -0.025em;
+  --track-heading: -0.018em;
+  --track-body: 0;
+  --track-ui: 0.12em;
+  --track-ui-wide: 0.18em;
+  --type-hero: clamp(4.5rem, 12.5vw, 14.5rem);
+  --type-chapter: clamp(3.4rem, 8.4vw, 9.2rem);
+  --type-statement: clamp(2.2rem, 4.2vw, 4rem);
+  --type-lead: clamp(1.35rem, 2vw, 2.05rem);
+  --type-body: 1rem;
+  --type-small: 0.875rem;
+  --type-ui: 0.75rem;
+  --type-micro: 0.6875rem;
+  --gutter: clamp(1.6rem, 6.5vw, 8.5rem);
+  --gutter-block: clamp(1.8rem, 5vh, 3.6rem);
+  --fold: 0px;
+  color-scheme: dark;
+  color: var(--paper);
+  background-color: var(--ink);
+  font-family: var(--font-sans);
+  font-weight: var(--weight-sans);
+  line-height: var(--lh-body);
+  font-synthesis: none;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-size-adjust: 100%;
+}
+@supports (height: 100lvh) {
+  :root {
+    --fold: calc(100lvh - 100svh);
+  }
+}
+
+.t-display {
+  font-family: var(--font-display);
+  font-weight: var(--weight-display);
+  line-height: var(--lh-display);
+  letter-spacing: var(--track-display);
+}
+.t-display em,
+.t-italic {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: var(--weight-display);
+}
+.t-lead {
+  font-family: var(--font-display);
+  font-weight: var(--weight-display);
+  font-size: var(--type-lead);
+  line-height: var(--lh-heading);
+  letter-spacing: var(--track-heading);
+}
+.t-ui {
+  font-family: var(--font-sans);
+  font-size: var(--type-ui);
+  line-height: var(--lh-ui);
+  letter-spacing: var(--track-ui);
+  text-transform: uppercase;
+}
+.t-micro {
+  font-family: var(--font-sans);
+  font-size: var(--type-micro);
+  line-height: var(--lh-ui);
+  letter-spacing: var(--track-ui-wide);
+  text-transform: uppercase;
+}
+
+*,
+:before,
+:after {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+html {
+  scroll-behavior: auto;
+}
+body {
+  background-color: var(--ink);
+  overscroll-behavior: none;
+  min-height: 100svh;
+  margin: 0;
+  overflow-x: hidden;
+}
+main {
+  display: block;
+}
+img,
+video {
+  max-width: 100%;
+}
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+::selection {
+  background: #f6f4f12e;
+}
+html.scroll-locked {
+  overflow: hidden;
+}
+button {
+  font: inherit;
+  color: inherit;
+}
+[hidden] {
+  display: none !important;
+}
+
+/* floating enquiry */
+.wa {
+  --wa-size: 56px;
+  --wa-green: #25d366;
+  right: clamp(1rem, 2.4vw, 2rem);
+  bottom: calc(clamp(1rem, 2.4vw, 2rem) + var(--fold));
+  z-index: 600;
+  width: var(--wa-size);
+  height: var(--wa-size);
+  background: radial-gradient(120% 120% at 32% 24%, #4fe085 0%, var(--wa-green) 48%, #17b053 100%);
+  color: #fff;
+  opacity: 0;
+  pointer-events: none;
+  border-radius: 50%;
+  place-items: center;
+  transition:
+    opacity 0.62s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.62s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.32s;
+  display: grid;
+  position: fixed;
+  transform: translateY(14px) scale(0.86);
+  box-shadow:
+    0 2px 6px #090c1052,
+    0 10px 30px #090c106b,
+    inset 0 0 0 1px #ffffff24;
+}
+.wa[data-shown] {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0) scale(1);
+}
+.wa:hover,
+.wa:focus-visible {
+  box-shadow:
+    0 2px 6px #090c1052,
+    0 14px 38px #090c1085,
+    inset 0 0 0 1px #ffffff38;
+}
+.wa[data-shown]:hover,
+.wa[data-shown]:focus-visible {
+  transform: translateY(-2px) scale(1.04);
+}
+.wa[data-shown]:active {
+  transform: translateY(0) scale(0.97);
+}
+.wa:focus-visible {
+  outline-offset: 5px;
+  outline: 1px solid #fff9;
+}
+.wa__glyph {
+  width: 58%;
+  height: 58%;
+  fill: currentColor;
+  position: relative;
+}
+.wa__pulse {
+  border: 1px solid #ffffff42;
+  border-radius: 50%;
+  animation: wa-pulse 2.8s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+  position: absolute;
+  inset: 0;
+}
+@keyframes wa-pulse {
+  0% {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+  70%,
+  100% {
+    opacity: 0;
+    transform: scale(1.55);
+  }
+}
+
+/* custom cursor label */
+.cursor-label {
+  z-index: 700;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.28s;
+  position: fixed;
+  top: 0;
+  left: 0;
+  will-change: transform;
+}
+.cursor-label[data-shown] {
+  opacity: 1;
+}
+.cursor-label__text {
+  color: var(--paper);
+  font-family: var(--font-sans);
+  font-size: 0.58rem;
+  font-weight: 300;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  background: #090c10b8;
+  border: 1px solid #ffffff2e;
+  border-radius: 999px;
+  padding: 0.5rem 0.9rem;
+  backdrop-filter: blur(6px);
+  display: block;
+  transform: translate(14px, 14px);
+}
+@media (hover: hover) and (pointer: fine) {
+  [data-cursor][data-cursor] {
+    cursor: none;
+  }
+}
+
+/* attention dots */
+.attn {
+  pointer-events: none;
+  position: absolute;
+  inset: -0.5rem;
+}
+.attn i {
+  background: currentColor;
+  border-radius: 50%;
+  width: 3px;
+  height: 3px;
+  animation: attn-blink 2.4s ease-in-out infinite;
+  position: absolute;
+}
+.attn i:nth-child(1) {
+  top: 0;
+  left: 0;
+}
+.attn i:nth-child(2) {
+  top: 0;
+  right: 0;
+  animation-delay: 0.3s;
+}
+.attn i:nth-child(3) {
+  bottom: 0;
+  left: 0;
+  animation-delay: 0.6s;
+}
+.attn i:nth-child(4) {
+  bottom: 0;
+  right: 0;
+  animation-delay: 0.9s;
+}
+@keyframes attn-blink {
+  0%,
+  100% {
+    opacity: 0.25;
+  }
+  50% {
+    opacity: 1;
+  }
+}

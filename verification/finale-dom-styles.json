@@ -1,0 +1,972 @@
+{
+  "reference": [
+    {
+      "class": "rp-final-intro",
+      "computed": {
+        "filter": "none",
+        "font": "12px / 18.6px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": -43.921875,
+        "height": 18.59375,
+        "left": 524.921875,
+        "right": 740.0625,
+        "top": -62.515625,
+        "width": 215.140625,
+        "x": 524.921875,
+        "y": -62.515625
+      },
+      "style": "opacity: 1;",
+      "tag": "SPAN"
+    },
+    {
+      "class": "rp-final-word",
+      "computed": {
+        "filter": "none",
+        "font": "364.8px / 364.8px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -27.1774)"
+      },
+      "rect": {
+        "bottom": 349.9163818359375,
+        "height": 364.796875,
+        "left": 0,
+        "right": 1265,
+        "top": -14.8804931640625,
+        "width": 1265,
+        "x": 0,
+        "y": -14.8804931640625
+      },
+      "style": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0%, -7.45%) translate3d(0px, 0px, 0px);",
+      "tag": "H2"
+    },
+    {
+      "class": "rp-final-image",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 502.296875,
+        "height": 440,
+        "left": 480.6875,
+        "right": 784.28125,
+        "top": 62.296875,
+        "width": 303.59375,
+        "x": 480.6875,
+        "y": 62.296875
+      },
+      "style": "clip-path: inset(0% round 50% 50% 0% 0%);",
+      "tag": "FIGURE"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "matrix(1.08, 0, 0, 1.08, 0, 0)"
+      },
+      "rect": {
+        "bottom": 519.8968505859375,
+        "height": 475.1999816894531,
+        "left": 468.5437622070313,
+        "right": 796.4249877929688,
+        "top": 44.696868896484375,
+        "width": 327.8812255859375,
+        "x": 468.5437622070313,
+        "y": 44.696868896484375
+      },
+      "style": null,
+      "tag": "IMG"
+    },
+    {
+      "class": "rp-portal",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "0",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 822.296875,
+        "height": 1000,
+        "left": 0,
+        "right": 1265,
+        "top": -177.703125,
+        "width": 1265,
+        "x": 0,
+        "y": -177.703125
+      },
+      "style": "opacity: 0; visibility: hidden;",
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-portal-mask",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 1040.296875,
+        "height": 2020,
+        "left": -128.5,
+        "right": 1393.5,
+        "top": -979.703125,
+        "width": 1522,
+        "x": -128.5,
+        "y": -979.703125
+      },
+      "style": "left: -128.5px; top: -802px; width: 1522px; height: 2020px; clip-path: inset(1042px 609.22px 538px 609.19px round 151.8px 151.8px 0px 0px / 220px 220px 0px 0px);",
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-portal-content",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "matrix(0.63719, 0, 0, 0.63719, 232.18, -41.18)"
+      },
+      "rect": {
+        "bottom": 519.8935546875,
+        "height": 458.7767333984375,
+        "left": 224.67999267578125,
+        "right": 1040.283203125,
+        "top": 61.1168212890625,
+        "width": 815.6032104492188,
+        "x": 224.67999267578125,
+        "y": 61.1168212890625
+      },
+      "style": "left: 121px; top: 1082px; width: 1280px; height: 720px; transform: translate(232.18px, -41.18px) scale(0.63719);",
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-portal-still",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 519.8935546875,
+        "height": 458.7767333984375,
+        "left": 224.67999267578125,
+        "right": 1040.283203125,
+        "top": 61.1168212890625,
+        "width": 815.6032104492188,
+        "x": 224.67999267578125,
+        "y": 61.1168212890625
+      },
+      "style": null,
+      "tag": "IMG"
+    },
+    {
+      "class": "rp-portal-capture",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 519.8935546875,
+        "height": 475.1943359375,
+        "left": 267.0630798339844,
+        "right": 997.890106201172,
+        "top": 44.69921875,
+        "width": 730.8270263671875,
+        "x": 267.0630798339844,
+        "y": 44.69921875
+      },
+      "style": "left: 66.52px; top: -25.77px; width: 1146.96px; height: 745.77px; opacity: 1;",
+      "tag": "IMG"
+    },
+    {
+      "class": "rp-final-call",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "rect": {
+        "bottom": 717.203125,
+        "height": 184.90625,
+        "left": 447.265625,
+        "right": 817.734375,
+        "top": 532.296875,
+        "width": 370.46875,
+        "x": 447.265625,
+        "y": 532.296875
+      },
+      "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "53.76px / 56.448px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 645.203125,
+        "height": 112.90625,
+        "left": 447.265625,
+        "right": 817.734375,
+        "top": 532.296875,
+        "width": 370.46875,
+        "x": 447.265625,
+        "y": 532.296875
+      },
+      "style": null,
+      "tag": "P"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "53.76px / 56.448px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 595.296875,
+        "height": 70,
+        "left": 766.90625,
+        "right": 766.90625,
+        "top": 525.296875,
+        "width": 0,
+        "x": 766.90625,
+        "y": 525.296875
+      },
+      "style": null,
+      "tag": "BR"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "italic 53.76px / 56.448px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 651.75,
+        "height": 70,
+        "left": 447.265625,
+        "right": 817.734375,
+        "top": 581.75,
+        "width": 370.46875,
+        "x": 447.265625,
+        "y": 581.75
+      },
+      "style": null,
+      "tag": "EM"
+    },
+    {
+      "class": "rp-text-link ",
+      "computed": {
+        "filter": "none",
+        "font": "12px / 18.6px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 717.203125,
+        "height": 47,
+        "left": 504.828125,
+        "right": 760.15625,
+        "top": 670.203125,
+        "width": 255.328125,
+        "x": 504.828125,
+        "y": 670.203125
+      },
+      "style": null,
+      "tag": "BUTTON"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "12px / 18.6px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 703,
+        "height": 18.59375,
+        "left": 504.828125,
+        "right": 671.234375,
+        "top": 684.40625,
+        "width": 166.40625,
+        "x": 504.828125,
+        "y": 684.40625
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "23px / 23px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 705.203125,
+        "height": 23,
+        "left": 741.234375,
+        "right": 760.15625,
+        "top": 682.203125,
+        "width": 18.921875,
+        "x": 741.234375,
+        "y": 682.203125
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": "rp-final-base",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 793.5,
+        "height": 47,
+        "left": 76.796875,
+        "right": 1188.203125,
+        "top": 746.5,
+        "width": 1111.40625,
+        "x": 76.796875,
+        "y": 746.5
+      },
+      "style": null,
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-text-link ",
+      "computed": {
+        "filter": "none",
+        "font": "10px / 15.5px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 793.5,
+        "height": 47,
+        "left": 546.953125,
+        "right": 718.046875,
+        "top": 746.5,
+        "width": 171.09375,
+        "x": 546.953125,
+        "y": 746.5
+      },
+      "style": "opacity: 1;",
+      "tag": "BUTTON"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "10px / 15.5px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 777.75,
+        "height": 15.5,
+        "left": 546.953125,
+        "right": 677.359375,
+        "top": 762.25,
+        "width": 130.40625,
+        "x": 546.953125,
+        "y": 762.25
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "23px / 23px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 781.5,
+        "height": 23,
+        "left": 699.359375,
+        "right": 718.046875,
+        "top": 758.5,
+        "width": 18.6875,
+        "x": 699.359375,
+        "y": 758.5
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": "wa__pulse",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "0.279444",
+        "transform": "matrix(1.36894, 0, 0, 1.36894, 0, 0)"
+      },
+      "rect": {
+        "bottom": 699.611572265625,
+        "height": 76.66064453125,
+        "left": 1167.950927734375,
+        "right": 1244.611572265625,
+        "top": 622.950927734375,
+        "width": 76.66064453125,
+        "x": 1167.950927734375,
+        "y": 622.950927734375
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": "wa__glyph",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 678.078125,
+        "height": 33.59375,
+        "left": 1189.484375,
+        "right": 1223.078125,
+        "top": 644.484375,
+        "width": 33.59375,
+        "x": 1189.484375,
+        "y": 644.484375
+      },
+      "style": null,
+      "tag": "svg"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 674.71875,
+        "height": 26.87554931640625,
+        "left": 1192.84375,
+        "right": 1219.771240234375,
+        "top": 647.8432006835938,
+        "width": 26.927490234375,
+        "x": 1192.84375,
+        "y": 647.8432006835938
+      },
+      "style": null,
+      "tag": "path"
+    }
+  ],
+  "local": [
+    {
+      "class": "rp-final-intro",
+      "computed": {
+        "filter": "none",
+        "font": "12px / 18.6px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": -43.921875,
+        "height": 18.59375,
+        "left": 524.921875,
+        "right": 740.0625,
+        "top": -62.515625,
+        "width": 215.140625,
+        "x": 524.921875,
+        "y": -62.515625
+      },
+      "style": "opacity: 1;",
+      "tag": "SPAN"
+    },
+    {
+      "class": "rp-final-word",
+      "computed": {
+        "filter": "none",
+        "font": "364.8px / 364.8px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -27.1774)"
+      },
+      "rect": {
+        "bottom": 349.9163818359375,
+        "height": 364.796875,
+        "left": 0,
+        "right": 1265,
+        "top": -14.8804931640625,
+        "width": 1265,
+        "x": 0,
+        "y": -14.8804931640625
+      },
+      "style": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0%, -7.45%) translate3d(0px, 0px, 0px);",
+      "tag": "H2"
+    },
+    {
+      "class": "rp-final-image",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 502.296875,
+        "height": 440,
+        "left": 480.6875,
+        "right": 784.28125,
+        "top": 62.296875,
+        "width": 303.59375,
+        "x": 480.6875,
+        "y": 62.296875
+      },
+      "style": "clip-path: inset(0% round 50% 50% 0% 0%);",
+      "tag": "FIGURE"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "matrix(1.08, 0, 0, 1.08, 0, 0)"
+      },
+      "rect": {
+        "bottom": 519.8968505859375,
+        "height": 475.1999816894531,
+        "left": 468.5437622070313,
+        "right": 796.4249877929688,
+        "top": 44.696868896484375,
+        "width": 327.8812255859375,
+        "x": 468.5437622070313,
+        "y": 44.696868896484375
+      },
+      "style": null,
+      "tag": "IMG"
+    },
+    {
+      "class": "rp-portal",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "0",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 822.296875,
+        "height": 1000,
+        "left": 0,
+        "right": 1265,
+        "top": -177.703125,
+        "width": 1265,
+        "x": 0,
+        "y": -177.703125
+      },
+      "style": "opacity: 0; visibility: hidden;",
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-portal-mask",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 1040.296875,
+        "height": 2020,
+        "left": -128.5,
+        "right": 1393.5,
+        "top": -979.703125,
+        "width": 1522,
+        "x": -128.5,
+        "y": -979.703125
+      },
+      "style": "left: -128.5px; top: -802px; width: 1522px; height: 2020px; clip-path: inset(1042px 609.22px 538px 609.19px round 151.8px 151.8px 0px 0px / 220px 220px 0px 0px);",
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-portal-content",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "matrix(0.63719, 0, 0, 0.63719, 232.18, -41.18)"
+      },
+      "rect": {
+        "bottom": 519.8935546875,
+        "height": 458.7767333984375,
+        "left": 224.67999267578125,
+        "right": 1040.283203125,
+        "top": 61.1168212890625,
+        "width": 815.6032104492188,
+        "x": 224.67999267578125,
+        "y": 61.1168212890625
+      },
+      "style": "left: 121px; top: 1082px; width: 1280px; height: 720px; transform: translate(232.18px, -41.18px) scale(0.63719);",
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-portal-still",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 519.8935546875,
+        "height": 458.7767333984375,
+        "left": 224.67999267578125,
+        "right": 1040.283203125,
+        "top": 61.1168212890625,
+        "width": 815.6032104492188,
+        "x": 224.67999267578125,
+        "y": 61.1168212890625
+      },
+      "style": null,
+      "tag": "IMG"
+    },
+    {
+      "class": "rp-portal-capture",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 519.8935546875,
+        "height": 475.1943359375,
+        "left": 267.0630798339844,
+        "right": 997.890106201172,
+        "top": 44.69921875,
+        "width": 730.8270263671875,
+        "x": 267.0630798339844,
+        "y": 44.69921875
+      },
+      "style": "left: 66.52px; top: -25.77px; width: 1146.96px; height: 745.77px; opacity: 1;",
+      "tag": "IMG"
+    },
+    {
+      "class": "rp-final-call",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "rect": {
+        "bottom": 717.203125,
+        "height": 184.90625,
+        "left": 447.265625,
+        "right": 817.734375,
+        "top": 532.296875,
+        "width": 370.46875,
+        "x": 447.265625,
+        "y": 532.296875
+      },
+      "style": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "53.76px / 56.448px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 645.203125,
+        "height": 112.90625,
+        "left": 447.265625,
+        "right": 817.734375,
+        "top": 532.296875,
+        "width": 370.46875,
+        "x": 447.265625,
+        "y": 532.296875
+      },
+      "style": null,
+      "tag": "P"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "53.76px / 56.448px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 595.296875,
+        "height": 70,
+        "left": 766.90625,
+        "right": 766.90625,
+        "top": 525.296875,
+        "width": 0,
+        "x": 766.90625,
+        "y": 525.296875
+      },
+      "style": null,
+      "tag": "BR"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "italic 53.76px / 56.448px ReposeDisplay, \"Instrument Serif\", Georgia, \"Times New Roman\", times, serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 651.75,
+        "height": 70,
+        "left": 447.265625,
+        "right": 817.734375,
+        "top": 581.75,
+        "width": 370.46875,
+        "x": 447.265625,
+        "y": 581.75
+      },
+      "style": null,
+      "tag": "EM"
+    },
+    {
+      "class": "rp-text-link ",
+      "computed": {
+        "filter": "none",
+        "font": "12px / 18.6px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 717.203125,
+        "height": 47,
+        "left": 504.828125,
+        "right": 760.15625,
+        "top": 670.203125,
+        "width": 255.328125,
+        "x": 504.828125,
+        "y": 670.203125
+      },
+      "style": null,
+      "tag": "BUTTON"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "12px / 18.6px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 703,
+        "height": 18.59375,
+        "left": 504.828125,
+        "right": 671.234375,
+        "top": 684.40625,
+        "width": 166.40625,
+        "x": 504.828125,
+        "y": 684.40625
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "23px / 23px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 705.203125,
+        "height": 23,
+        "left": 741.234375,
+        "right": 760.15625,
+        "top": 682.203125,
+        "width": 18.921875,
+        "x": 741.234375,
+        "y": 682.203125
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": "rp-final-base",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 793.5,
+        "height": 47,
+        "left": 76.796875,
+        "right": 1188.203125,
+        "top": 746.5,
+        "width": 1111.40625,
+        "x": 76.796875,
+        "y": 746.5
+      },
+      "style": null,
+      "tag": "DIV"
+    },
+    {
+      "class": "rp-text-link ",
+      "computed": {
+        "filter": "none",
+        "font": "10px / 15.5px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 793.5,
+        "height": 47,
+        "left": 546.953125,
+        "right": 718.046875,
+        "top": 746.5,
+        "width": 171.09375,
+        "x": 546.953125,
+        "y": 746.5
+      },
+      "style": "opacity: 1;",
+      "tag": "BUTTON"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "10px / 15.5px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 777.75,
+        "height": 15.5,
+        "left": 546.953125,
+        "right": 677.359375,
+        "top": 762.25,
+        "width": 130.40625,
+        "x": 546.953125,
+        "y": 762.25
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "23px / 23px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 781.5,
+        "height": 23,
+        "left": 699.359375,
+        "right": 718.046875,
+        "top": 758.5,
+        "width": 18.6875,
+        "x": 699.359375,
+        "y": 758.5
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": "wa__pulse",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "0.279444",
+        "transform": "matrix(1.36894, 0, 0, 1.36894, 0, 0)"
+      },
+      "rect": {
+        "bottom": 699.611572265625,
+        "height": 76.66064453125,
+        "left": 1167.950927734375,
+        "right": 1244.611572265625,
+        "top": 622.950927734375,
+        "width": 76.66064453125,
+        "x": 1167.950927734375,
+        "y": 622.950927734375
+      },
+      "style": null,
+      "tag": "SPAN"
+    },
+    {
+      "class": "wa__glyph",
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 678.078125,
+        "height": 33.59375,
+        "left": 1189.484375,
+        "right": 1223.078125,
+        "top": 644.484375,
+        "width": 33.59375,
+        "x": 1189.484375,
+        "y": 644.484375
+      },
+      "style": null,
+      "tag": "svg"
+    },
+    {
+      "class": null,
+      "computed": {
+        "filter": "none",
+        "font": "16px / 24.8px ReposeSans, Manrope, system-ui, -apple-system, \"Segoe UI\", roboto, sans-serif",
+        "opacity": "1",
+        "transform": "none"
+      },
+      "rect": {
+        "bottom": 674.71875,
+        "height": 26.87554931640625,
+        "left": 1192.84375,
+        "right": 1219.771240234375,
+        "top": 647.8432006835938,
+        "width": 26.927490234375,
+        "x": 1192.84375,
+        "y": 647.8432006835938
+      },
+      "style": null,
+      "tag": "path"
+    }
+  ]
+}

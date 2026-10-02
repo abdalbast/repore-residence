@@ -1,0 +1,41 @@
+{
+  "state_differences": [],
+  "captures": [
+    {
+      "sample": 0,
+      "changed_pixels": 60878,
+      "max_channel_difference": 38,
+      "mean_channel_difference": 0.19589518229166666,
+      "bbox": [
+        480,
+        0,
+        785,
+        401
+      ]
+    },
+    {
+      "sample": 1,
+      "changed_pixels": 60878,
+      "max_channel_difference": 38,
+      "mean_channel_difference": 0.19589518229166666,
+      "bbox": [
+        480,
+        0,
+        785,
+        401
+      ]
+    },
+    {
+      "sample": 2,
+      "changed_pixels": 60878,
+      "max_channel_difference": 38,
+      "mean_channel_difference": 0.19589518229166666,
+      "bbox": [
+        480,
+        0,
+        785,
+        401
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1636 @@
+{
+  "local": {
+    "cssAnimations": [],
+    "sections": [
+      {
+        "height": 1456.921875,
+        "id": "residence",
+        "top": 9936
+      },
+      {
+        "height": 1889.28125,
+        "id": "life",
+        "top": 11392.921875
+      },
+      {
+        "height": 4450,
+        "id": "rhythm",
+        "top": 13282.203125
+      },
+      {
+        "height": 1720,
+        "id": "water",
+        "top": 17732.203125
+      },
+      {
+        "height": 792,
+        "id": "terrace",
+        "top": 19452.203125
+      },
+      {
+        "height": 1150,
+        "id": "family",
+        "top": 20244.203125
+      },
+      {
+        "height": 1000,
+        "id": "interiors",
+        "top": 21394.203125
+      },
+      {
+        "height": 1292.828125,
+        "id": "essentials",
+        "top": 22394.203125
+      },
+      {
+        "height": 1100,
+        "id": "connected",
+        "top": 23687.03125
+      },
+      {
+        "height": 1141.40625,
+        "id": "amenities-map",
+        "top": 24787.03125
+      },
+      {
+        "height": 1000,
+        "id": "finale",
+        "top": 25928.4375
+      }
+    ],
+    "triggers": [
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 5544,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(0px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.008
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11393,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 9216,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.4,
+              "start": 0.1,
+              "targets": [
+                "span.rp-final-intro",
+                "button.rp-text-link",
+                "div.rp-final-call",
+                "h2.rp-final-word",
+                "header.rp-ui.rp-header",
+                "aside.rp-ui.rp-progress",
+                "div.rp-ui.rp-chapter-index"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.4,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.6,
+              "start": 0.15,
+              "targets": [
+                "div.rp-portal"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.6,
+                "ease": "sine.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 1,
+          "vars": {
+            "lazy": false,
+            "paused": true
+          }
+        },
+        "end": 26640,
+        "once": false,
+        "pin": "#finale",
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 26208,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 12958,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 11069,
+        "trigger": "#life"
+      },
+      {
+        "animation": null,
+        "end": 17408,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 12958,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": null,
+        "end": 19128,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 17408,
+        "trigger": "#water"
+      },
+      {
+        "animation": null,
+        "end": 19920,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 19128,
+        "trigger": "#terrace"
+      },
+      {
+        "animation": null,
+        "end": 21070,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 19920,
+        "trigger": "#family"
+      },
+      {
+        "animation": null,
+        "end": 22070,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 21070,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 23363,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 22070,
+        "trigger": "#essentials"
+      },
+      {
+        "animation": null,
+        "end": 24463,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 23363,
+        "trigger": "#connected"
+      },
+      {
+        "animation": null,
+        "end": 25604,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24463,
+        "trigger": "#amenities-map"
+      },
+      {
+        "animation": null,
+        "end": 26604,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 25604,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 27360,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -20,
+        "scrub": null,
+        "start": 11393,
+        "trigger": "div.rp-main"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 1265,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 720,
+      "reducedMotion": true,
+      "scrollHeight": 28080,
+      "scrollWidth": 1265,
+      "width": 1280
+    }
+  },
+  "reference": {
+    "cssAnimations": [],
+    "sections": [
+      {
+        "height": 1456.921875,
+        "id": "residence",
+        "top": 9936
+      },
+      {
+        "height": 1889.28125,
+        "id": "life",
+        "top": 11392.921875
+      },
+      {
+        "height": 4450,
+        "id": "rhythm",
+        "top": 13282.203125
+      },
+      {
+        "height": 1720,
+        "id": "water",
+        "top": 17732.203125
+      },
+      {
+        "height": 792,
+        "id": "terrace",
+        "top": 19452.203125
+      },
+      {
+        "height": 1150,
+        "id": "family",
+        "top": 20244.203125
+      },
+      {
+        "height": 1000,
+        "id": "interiors",
+        "top": 21394.203125
+      },
+      {
+        "height": 1292.828125,
+        "id": "essentials",
+        "top": 22394.203125
+      },
+      {
+        "height": 1100,
+        "id": "connected",
+        "top": 23687.03125
+      },
+      {
+        "height": 1141.40625,
+        "id": "amenities-map",
+        "top": 24787.03125
+      },
+      {
+        "height": 1000,
+        "id": "finale",
+        "top": 25928.4375
+      }
+    ],
+    "triggers": [
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": -720,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 9936,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 5544,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 2.0645161,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 2.064516129032258,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.028,
+              "start": 0,
+              "targets": [
+                "div.op-hint"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.028,
+                "ease": "power1.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": 12
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.085,
+              "start": 0.02,
+              "targets": [
+                "div.op-hero"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08499999999999999,
+                "ease": "power2.in",
+                "filter": "blur(5px)",
+                "opacity": 0,
+                "overwrite": false,
+                "scale": 1.035,
+                "yPercent": -9
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.105,
+              "start": 0.02,
+              "targets": [
+                "div.opening__scrim"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.105,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03744,
+              "start": 0.408,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.408,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.in",
+                "filter": "blur(0px)",
+                "immediateRender": true,
+                "overwrite": false,
+                "scale": 1.008
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.4184,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.031200000000000016,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05408,
+              "start": 0.42048,
+              "targets": [
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule",
+                "span.cb__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleY": 1,
+                "stagger": 0.0036400000000000017
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0208,
+              "start": 0.42464,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.02080000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.04264,
+              "start": 0.42672,
+              "targets": [
+                "span.op-line__inner",
+                "span.op-line__inner"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.037440000000000015,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "stagger": 0.005200000000000002,
+                "y": 0,
+                "yPercent": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06656,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06656000000000001,
+                "ease": "none",
+                "immediateRender": true,
+                "overwrite": false,
+                "x": 0,
+                "xPercent": 135
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01456,
+              "start": 0.4288,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.014560000000000009,
+                "ease": "none",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02912,
+              "start": 0.4392,
+              "targets": [
+                "div.cb__hrule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.029120000000000007,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02704,
+              "start": 0.44336,
+              "targets": [
+                "p.cb__meta"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.027040000000000005,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.052,
+              "start": 0.46,
+              "targets": [
+                "canvas.opening__canvas"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05200000000000002,
+                "ease": "power1.out",
+                "filter": "blur(0px)",
+                "overwrite": false,
+                "scale": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.03952,
+              "start": 0.47248,
+              "targets": [
+                "div.cb__veil"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03952000000000001,
+                "ease": "power2.out",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0312,
+              "start": 0.47456,
+              "targets": [
+                "div.cb__field"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.03120000000000001,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.01872,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__sweep"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.01872,
+                "ease": "none",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.02496,
+              "start": 0.47664,
+              "targets": [
+                "div.cb__type"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.024960000000000006,
+                "ease": "power2.in",
+                "filter": "blur(3px)",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -18
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.09,
+              "start": 0.575,
+              "targets": [
+                "span.why-dubai__panel"
+              ],
+              "vars": {
+                "clipPath": "inset(0% 0% 0% 0%)",
+                "delay": 0,
+                "duration": 0.09,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.58,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.58,
+              "targets": [
+                "h2.why-dubai__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.62,
+              "targets": [
+                "p.why-dubai__body"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "y": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.74,
+              "targets": [
+                "div.why-dubai"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.in",
+                "opacity": 0,
+                "overwrite": false,
+                "y": -20
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.78,
+              "targets": [
+                "span.tallest-building__eyebrow"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.06,
+              "start": 0.8,
+              "targets": [
+                "span.tallest-building__rule"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.06,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "overwrite": false,
+                "scaleX": 1
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.08,
+              "start": 0.8,
+              "targets": [
+                "h2.tallest-building__heading"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.08,
+                "ease": "power3.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false,
+                "x": 0
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.85,
+              "targets": [
+                "span.tallest-building__sub"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.out",
+                "immediateRender": true,
+                "opacity": 1,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.05,
+              "start": 0.92,
+              "targets": [
+                "div.tallest-building"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.05,
+                "ease": "power2.in",
+                "immediateRender": true,
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.0790323,
+              "start": 1.0403226,
+              "targets": [
+                "section.opening"
+              ],
+              "vars": {
+                "--fx-in": 1,
+                "delay": 0,
+                "duration": 0.0790322580645162,
+                "ease": "none",
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 2.0645161,
+          "vars": {
+            "lazy": false
+          }
+        },
+        "end": 9216,
+        "once": false,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 0,
+        "trigger": "section.opening"
+      },
+      {
+        "animation": null,
+        "end": 11393,
+        "once": true,
+        "pin": null,
+        "refreshPriority": 0,
+        "scrub": null,
+        "start": 9216,
+        "trigger": "#residence"
+      },
+      {
+        "animation": {
+          "children": [
+            {
+              "delay": 0,
+              "duration": 1,
+              "start": 0,
+              "targets": [],
+              "vars": {
+                "delay": 0,
+                "duration": 1,
+                "ease": "none",
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.4,
+              "start": 0.1,
+              "targets": [
+                "span.rp-final-intro",
+                "button.rp-text-link",
+                "div.rp-final-call",
+                "h2.rp-final-word",
+                "header.rp-ui.rp-header",
+                "aside.rp-ui.rp-progress",
+                "div.rp-ui.rp-chapter-index"
+              ],
+              "vars": {
+                "delay": 0,
+                "duration": 0.4,
+                "ease": "sine.in",
+                "opacity": 0,
+                "overwrite": false
+              }
+            },
+            {
+              "delay": 0,
+              "duration": 0.6,
+              "start": 0.15,
+              "targets": [
+                "div.rp-portal"
+              ],
+              "vars": {
+                "autoAlpha": 1,
+                "delay": 0,
+                "duration": 0.6,
+                "ease": "sine.inOut",
+                "immediateRender": true,
+                "overwrite": false
+              }
+            }
+          ],
+          "delay": 0,
+          "duration": 1,
+          "vars": {
+            "lazy": false,
+            "paused": true
+          }
+        },
+        "end": 26640,
+        "once": false,
+        "pin": "#finale",
+        "refreshPriority": 0,
+        "scrub": true,
+        "start": 26208,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 12958,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 11069,
+        "trigger": "#life"
+      },
+      {
+        "animation": null,
+        "end": 17408,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 12958,
+        "trigger": "#rhythm"
+      },
+      {
+        "animation": null,
+        "end": 19128,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 17408,
+        "trigger": "#water"
+      },
+      {
+        "animation": null,
+        "end": 19920,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 19128,
+        "trigger": "#terrace"
+      },
+      {
+        "animation": null,
+        "end": 21070,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 19920,
+        "trigger": "#family"
+      },
+      {
+        "animation": null,
+        "end": 22070,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 21070,
+        "trigger": "#interiors"
+      },
+      {
+        "animation": null,
+        "end": 23363,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 22070,
+        "trigger": "#essentials"
+      },
+      {
+        "animation": null,
+        "end": 24463,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 23363,
+        "trigger": "#connected"
+      },
+      {
+        "animation": null,
+        "end": 25604,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 24463,
+        "trigger": "#amenities-map"
+      },
+      {
+        "animation": null,
+        "end": 26604,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -10,
+        "scrub": null,
+        "start": 25604,
+        "trigger": "#finale"
+      },
+      {
+        "animation": null,
+        "end": 27360,
+        "once": false,
+        "pin": null,
+        "refreshPriority": -20,
+        "scrub": null,
+        "start": 11393,
+        "trigger": "div.rp-main"
+      }
+    ],
+    "viewport": {
+      "clientWidth": 1265,
+      "dpr": 1,
+      "fonts": "loaded",
+      "height": 720,
+      "reducedMotion": true,
+      "scrollHeight": 28080,
+      "scrollWidth": 1265,
+      "width": 1280
+    }
+  }
+}

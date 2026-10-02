@@ -1,0 +1,114 @@
+[
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9325,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9102,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  },
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9854,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9662,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  },
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9898,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  },
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  },
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  },
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  },
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  },
+  {
+    "reference": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    },
+    "local": {
+      "result": {
+        "type": "string",
+        "value": "{\"y\":9936,\"width\":1280,\"clientWidth\":1265,\"scrollWidth\":1265}"
+      }
+    }
+  }
+]

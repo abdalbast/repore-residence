@@ -1,0 +1,117 @@
+[
+  {
+    "label": "floor-open",
+    "pages": [
+      {
+        "name": "reference",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 5328
+        }
+      },
+      {
+        "name": "local",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 5328
+        }
+      }
+    ]
+  },
+  {
+    "label": "residence-open",
+    "pages": [
+      {
+        "name": "reference",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 5328
+        }
+      },
+      {
+        "name": "local",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 5119
+        }
+      }
+    ]
+  },
+  {
+    "label": "floor-closed",
+    "pages": [
+      {
+        "name": "reference",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 5328
+        }
+      },
+      {
+        "name": "local",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 5119
+        }
+      }
+    ]
+  },
+  {
+    "label": "reception",
+    "pages": [
+      {
+        "name": "reference",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 12272
+        }
+      },
+      {
+        "name": "local",
+        "state": {
+          "clientWidth": 1265,
+          "height": 13624,
+          "scrollWidth": 1265,
+          "y": 12481
+        }
+      }
+    ]
+  },
+  {
+    "label": "lazy-chapters",
+    "pages": [
+      {
+        "name": "reference",
+        "state": {
+          "clientWidth": 1265,
+          "height": 34421,
+          "scrollWidth": 1265,
+          "y": 12904
+        }
+      },
+      {
+        "name": "local",
+        "state": {
+          "clientWidth": 1265,
+          "height": 34421,
+          "scrollWidth": 1265,
+          "y": 12904
+        }
+      }
+    ]
+  }
+]

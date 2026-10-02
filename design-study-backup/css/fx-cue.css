@@ -1,0 +1,311 @@
+/* onboarding cue, gate, floorplate and residence layers */
+.fx-cue {
+  z-index: 3;
+  pointer-events: none;
+  animation: 6.4s forwards fx-cue-life;
+  position: absolute;
+  inset: 0;
+}
+.fx-cue * {
+  pointer-events: none;
+}
+.fx-cue[data-paused],
+.fx-cue[data-paused] * {
+  animation-play-state: paused;
+}
+.fx-cue__art {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+}
+.fx-cue__tick {
+  opacity: 0;
+  animation: 1.5s ease-out forwards fx-cue-tick;
+}
+.fx-cue__tick-under {
+  stroke: #090c109e;
+  stroke-width: 3.5px;
+  vector-effect: non-scaling-stroke;
+}
+.fx-cue__tick-line {
+  stroke: #fffffff5;
+  stroke-width: 1.4px;
+  vector-effect: non-scaling-stroke;
+}
+.fx-cue__wash {
+  opacity: 0;
+  animation: 1.1s 0.1s both fx-cue-wash;
+}
+.fx-cue__sweep {
+  animation: 2.6s cubic-bezier(0.65, 0, 0.35, 1) 0.35s both fx-cue-sweep;
+}
+.fx-cue__edge {
+  stroke: #fffffff5;
+  stroke-width: 2.4px;
+  vector-effect: non-scaling-stroke;
+}
+.fx-cue__band {
+  fill: #ffffff42;
+  stroke: #ffffffb3;
+  stroke-width: 1px;
+  vector-effect: non-scaling-stroke;
+  opacity: 0;
+  animation: 2.2s 3.4s both fx-cue-band;
+}
+.fx-cue__pointer {
+  opacity: 0;
+  animation: 2.6s cubic-bezier(0.22, 1, 0.36, 1) 2.4s both fx-cue-pointer;
+}
+.fx-cue__arrow {
+  fill: #fff;
+  stroke: #090c10b8;
+  stroke-width: 1.4px;
+  stroke-linejoin: round;
+  paint-order: stroke fill;
+}
+.fx-cue__tap {
+  fill: #ffffffeb;
+  stroke: #090c1099;
+  stroke-width: 1.2px;
+}
+.fx-cue__ring {
+  fill: none;
+  stroke: #ffffffb3;
+  stroke-width: 1.2px;
+  vector-effect: non-scaling-stroke;
+  transform-origin: 50%;
+  transform-box: fill-box;
+  animation: 1.6s ease-out 3.3s infinite fx-cue-ring;
+}
+.fx-cue__copy {
+  left: var(--gutter);
+  max-width: min(34vw, 30rem);
+  color: var(--paper);
+  text-shadow: 0 1px 18px #090c108c;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-56%);
+}
+.fx[data-revealed] .fx-cue__copy {
+  opacity: 0;
+  transition: opacity 0.42s;
+}
+.fx-cue__eyebrow {
+  font-family: var(--font-sans);
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  color: #ffffffad;
+  opacity: 0;
+  font-size: 0.56rem;
+  font-weight: 300;
+  animation: 1s cubic-bezier(0.22, 1, 0.36, 1) 0.15s both fx-cue-rise;
+}
+.fx-cue__rule {
+  opacity: 0.4;
+  transform-origin: 0;
+  background: currentColor;
+  width: clamp(48px, 5vw, 86px);
+  height: 1px;
+  margin-block: 0.9rem 1.1rem;
+  animation: 1.1s cubic-bezier(0.22, 1, 0.36, 1) 0.32s both fx-cue-rule;
+  display: block;
+}
+.fx-cue__headline {
+  font-family: var(--font-display);
+  letter-spacing: 0.005em;
+  opacity: 0;
+  margin: 0;
+  font-size: clamp(1.9rem, 4.2vw, 4.6rem);
+  font-weight: 300;
+  line-height: 0.96;
+  animation: 1.15s cubic-bezier(0.22, 1, 0.36, 1) 0.4s both fx-cue-rise;
+}
+.fx-cue__headline em {
+  color: #ffffffd1;
+  font-style: italic;
+}
+.fx-cue__action {
+  font-family: var(--font-sans);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #fffc;
+  opacity: 0;
+  margin: clamp(1rem, 2.4vh, 1.7rem) 0 0;
+  font-size: clamp(0.58rem, 0.78vw, 0.72rem);
+  font-weight: 300;
+  animation: 1.1s cubic-bezier(0.22, 1, 0.36, 1) 2.9s both fx-cue-rise;
+}
+@keyframes fx-cue-life {
+  0%,
+  86% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes fx-cue-tick {
+  0% {
+    opacity: 0;
+  }
+  14%,
+  55% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.55;
+  }
+}
+@keyframes fx-cue-wash {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fx-cue-sweep {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(var(--fx-cue-travel, 0px));
+  }
+}
+@keyframes fx-cue-band {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  35%,
+  65% {
+    opacity: 1;
+  }
+}
+@keyframes fx-cue-pointer {
+  from {
+    opacity: 0;
+    transform: translateY(calc(var(--fx-cue-from, 0px) - var(--fx-cue-to, 0px)));
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fx-cue-ring {
+  0% {
+    opacity: 0.9;
+    transform: scale(0.35);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.6);
+  }
+}
+@keyframes fx-cue-rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fx-cue-rule {
+  from {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  to {
+    opacity: 0.4;
+    transform: scaleX(1);
+  }
+}
+
+/* gate */
+.fx-gate {
+  left: 50%;
+  bottom: calc(clamp(2rem, 5vh, 3.4rem) + var(--fold));
+  z-index: 4;
+  text-align: center;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.85rem;
+  animation: 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.7s both fx-gate-in;
+  position: absolute;
+  transform: translate(-50%);
+}
+.fx-gate__rule {
+  background: linear-gradient(#fff0, #ffffff8c);
+  width: 1px;
+  height: clamp(20px, 3.4vh, 34px);
+  display: block;
+}
+.fx-gate__text {
+  font-family: var(--font-sans);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #ffffffc7;
+  text-shadow: 0 1px 14px #090c10b3;
+  margin: 0;
+  font-size: clamp(0.58rem, 0.74vw, 0.7rem);
+  font-weight: 300;
+  animation: 3s ease-in-out infinite fx-gate-breathe;
+}
+.fx-gate__skip {
+  backdrop-filter: blur(6px);
+  color: #ffffffdb;
+  font-family: var(--font-sans);
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  cursor: pointer;
+  pointer-events: auto;
+  background: #090c1075;
+  border: 1px solid #ffffff57;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+  margin: 0.2rem 0 0;
+  padding: 0.55rem 1.1rem;
+  font-size: clamp(0.52rem, 0.66vw, 0.62rem);
+  font-weight: 300;
+  transition: border-color 0.4s, color 0.4s;
+}
+.fx-gate__skip:hover {
+  color: var(--paper);
+  border-color: #ffffffb3;
+}
+.fx-gate__skip:focus-visible {
+  outline-offset: 4px;
+  outline: 1px solid #fff9;
+}
+.fx-gate__skip-arrow {
+  letter-spacing: 0;
+  font-size: 1.1em;
+}
+@keyframes fx-gate-in {
+  from {
+    opacity: 0;
+    transform: translate(-50%, 12px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}
+@keyframes fx-gate-breathe {
+  0%,
+  100% {
+    opacity: 0.7;
+  }
+  50% {
+    opacity: 1;
+  }
+}

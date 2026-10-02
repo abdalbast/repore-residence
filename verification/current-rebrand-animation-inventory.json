@@ -1,0 +1,878 @@
+{
+  "reference": {
+    "fonts": [
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "ReposeSans",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "400"
+      }
+    ],
+    "theme": "light",
+    "title": "Reposé Residence — SAION Properties",
+    "triggers": [
+      {
+        "end": 9936,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": -720,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9936,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": -720,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9216,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": 0,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9216,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": 0,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9216,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": true,
+        "start": 0,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9936,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": 5544,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13624,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 9216,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13624,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 9216,
+        "toggleActions": "play"
+      },
+      {
+        "end": 12168,
+        "node": "residence",
+        "once": false,
+        "pin": true,
+        "scrub": 0.72,
+        "start": 9936,
+        "toggleActions": "play"
+      },
+      {
+        "end": 15189,
+        "node": "life",
+        "once": false,
+        "pin": false,
+        "start": 13300,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13726,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13624,
+        "toggleActions": "play"
+      },
+      {
+        "end": 33702,
+        "node": "rp-main",
+        "once": false,
+        "pin": false,
+        "start": 13624,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13828,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13726,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13930,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13828,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14032,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13930,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14134,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14032,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14270,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14134,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14372,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14270,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14474,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14372,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14576,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14474,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14678,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14576,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14780,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14678,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14883,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14780,
+        "toggleActions": "play"
+      },
+      {
+        "end": 21285,
+        "node": "rhythm",
+        "once": false,
+        "pin": false,
+        "start": 15189,
+        "toggleActions": "play"
+      },
+      {
+        "end": 20889,
+        "node": "rhythm",
+        "once": false,
+        "pin": true,
+        "scrub": 0.65,
+        "start": 15513,
+        "toggleActions": "play"
+      },
+      {
+        "end": 24021,
+        "node": "water",
+        "once": false,
+        "pin": false,
+        "start": 21285,
+        "toggleActions": "play"
+      },
+      {
+        "end": 23625,
+        "node": "water",
+        "once": false,
+        "pin": true,
+        "scrub": 0.7,
+        "start": 21609,
+        "toggleActions": "play"
+      },
+      {
+        "end": 25137,
+        "node": "rp-terrace-photo rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 23625,
+        "toggleActions": "play"
+      },
+      {
+        "end": 24813,
+        "node": "terrace",
+        "once": false,
+        "pin": false,
+        "start": 24021,
+        "toggleActions": "play"
+      },
+      {
+        "end": 26287,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "scrub": 0.8,
+        "start": 24417,
+        "toggleActions": "play"
+      },
+      {
+        "end": 26287,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 24417,
+        "toggleActions": "play"
+      },
+      {
+        "end": 25963,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "start": 24813,
+        "toggleActions": "play"
+      },
+      {
+        "end": 26069,
+        "node": "rp-family-inset rp-mask-reveal",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 25015,
+        "toggleActions": "play"
+      },
+      {
+        "end": 27763,
+        "node": "interiors",
+        "once": false,
+        "pin": false,
+        "start": 25963,
+        "toggleActions": "play"
+      },
+      {
+        "end": 27367,
+        "node": "interiors",
+        "once": false,
+        "pin": true,
+        "scrub": 0.75,
+        "start": 26287,
+        "toggleActions": "play"
+      },
+      {
+        "end": 27916,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 27650,
+        "toggleActions": "play"
+      },
+      {
+        "end": 29056,
+        "node": "essentials",
+        "once": false,
+        "pin": false,
+        "start": 27763,
+        "toggleActions": "play"
+      },
+      {
+        "end": 28174,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 27907,
+        "toggleActions": "play"
+      },
+      {
+        "end": 28431,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 28165,
+        "toggleActions": "play"
+      },
+      {
+        "end": 28665,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 28399,
+        "toggleActions": "play"
+      },
+      {
+        "end": 30480,
+        "node": "rp-connected-image rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 28660,
+        "toggleActions": "play"
+      },
+      {
+        "end": 30156,
+        "node": "connected",
+        "once": false,
+        "pin": false,
+        "start": 29056,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31298,
+        "node": "amenities-map",
+        "once": false,
+        "pin": false,
+        "start": 30156,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31528,
+        "node": "rp-map-figure",
+        "once": false,
+        "pin": false,
+        "scrub": 0.8,
+        "start": 30175,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31902,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 30902,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31478,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 30974,
+        "toggleActions": "play"
+      },
+      {
+        "end": 32298,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "start": 31298,
+        "toggleActions": "play"
+      },
+      {
+        "end": 32982,
+        "node": "finale",
+        "once": false,
+        "pin": true,
+        "scrub": true,
+        "start": 31902,
+        "toggleActions": "play"
+      }
+    ],
+    "viewport": {
+      "client": 1265,
+      "dpr": 1,
+      "height": 720,
+      "width": 1280
+    },
+    "y": 32981.5
+  },
+  "local": {
+    "fonts": [
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "400"
+      },
+      {
+        "family": "ReposeDisplay",
+        "status": "loaded",
+        "style": "italic",
+        "weight": "400"
+      },
+      {
+        "family": "ReposeSans",
+        "status": "loaded",
+        "style": "normal",
+        "weight": "400"
+      }
+    ],
+    "theme": "dark",
+    "title": "Reposé Residence — TAPS AGENCY",
+    "triggers": [
+      {
+        "end": 9936,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": -720,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9936,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": -720,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9216,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": 0,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9216,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": 0,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9216,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "scrub": true,
+        "start": 0,
+        "toggleActions": "play"
+      },
+      {
+        "end": 9936,
+        "node": "opening",
+        "once": false,
+        "pin": false,
+        "start": 5544,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13624,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 9216,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13624,
+        "node": "residence",
+        "once": false,
+        "pin": false,
+        "scrub": 0.9,
+        "start": 9216,
+        "toggleActions": "play"
+      },
+      {
+        "end": 12168,
+        "node": "residence",
+        "once": false,
+        "pin": true,
+        "scrub": 0.72,
+        "start": 9936,
+        "toggleActions": "play"
+      },
+      {
+        "end": 15189,
+        "node": "life",
+        "once": false,
+        "pin": false,
+        "start": 13300,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13726,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13624,
+        "toggleActions": "play"
+      },
+      {
+        "end": 33702,
+        "node": "rp-main",
+        "once": false,
+        "pin": false,
+        "start": 13624,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13828,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13726,
+        "toggleActions": "play"
+      },
+      {
+        "end": 13930,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13828,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14032,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 13930,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14134,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14032,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14270,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14134,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14372,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14270,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14474,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14372,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14576,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14474,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14678,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14576,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14780,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14678,
+        "toggleActions": "play"
+      },
+      {
+        "end": 14883,
+        "node": "rp-index-row",
+        "once": false,
+        "pin": false,
+        "start": 14780,
+        "toggleActions": "play"
+      },
+      {
+        "end": 21285,
+        "node": "rhythm",
+        "once": false,
+        "pin": false,
+        "start": 15189,
+        "toggleActions": "play"
+      },
+      {
+        "end": 20889,
+        "node": "rhythm",
+        "once": false,
+        "pin": true,
+        "scrub": 0.65,
+        "start": 15513,
+        "toggleActions": "play"
+      },
+      {
+        "end": 24021,
+        "node": "water",
+        "once": false,
+        "pin": false,
+        "start": 21285,
+        "toggleActions": "play"
+      },
+      {
+        "end": 23625,
+        "node": "water",
+        "once": false,
+        "pin": true,
+        "scrub": 0.7,
+        "start": 21609,
+        "toggleActions": "play"
+      },
+      {
+        "end": 25137,
+        "node": "rp-terrace-photo rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 23625,
+        "toggleActions": "play"
+      },
+      {
+        "end": 24813,
+        "node": "terrace",
+        "once": false,
+        "pin": false,
+        "start": 24021,
+        "toggleActions": "play"
+      },
+      {
+        "end": 26287,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "scrub": 0.8,
+        "start": 24417,
+        "toggleActions": "play"
+      },
+      {
+        "end": 26287,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 24417,
+        "toggleActions": "play"
+      },
+      {
+        "end": 25963,
+        "node": "family",
+        "once": false,
+        "pin": false,
+        "start": 24813,
+        "toggleActions": "play"
+      },
+      {
+        "end": 26069,
+        "node": "rp-family-inset rp-mask-reveal",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 25015,
+        "toggleActions": "play"
+      },
+      {
+        "end": 27763,
+        "node": "interiors",
+        "once": false,
+        "pin": false,
+        "start": 25963,
+        "toggleActions": "play"
+      },
+      {
+        "end": 27367,
+        "node": "interiors",
+        "once": false,
+        "pin": true,
+        "scrub": 0.75,
+        "start": 26287,
+        "toggleActions": "play"
+      },
+      {
+        "end": 27916,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 27650,
+        "toggleActions": "play"
+      },
+      {
+        "end": 29056,
+        "node": "essentials",
+        "once": false,
+        "pin": false,
+        "start": 27763,
+        "toggleActions": "play"
+      },
+      {
+        "end": 28174,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 27907,
+        "toggleActions": "play"
+      },
+      {
+        "end": 28431,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 28165,
+        "toggleActions": "play"
+      },
+      {
+        "end": 28665,
+        "node": "rp-essential-fact",
+        "once": false,
+        "pin": false,
+        "scrub": 0.5,
+        "start": 28399,
+        "toggleActions": "play"
+      },
+      {
+        "end": 30480,
+        "node": "rp-connected-image rp-parallax",
+        "once": false,
+        "pin": false,
+        "scrub": 0.65,
+        "start": 28660,
+        "toggleActions": "play"
+      },
+      {
+        "end": 30156,
+        "node": "connected",
+        "once": false,
+        "pin": false,
+        "start": 29056,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31298,
+        "node": "amenities-map",
+        "once": false,
+        "pin": false,
+        "start": 30156,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31528,
+        "node": "rp-map-figure",
+        "once": false,
+        "pin": false,
+        "scrub": 0.8,
+        "start": 30175,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31902,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 30902,
+        "toggleActions": "play"
+      },
+      {
+        "end": 31478,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "scrub": 0.7,
+        "start": 30974,
+        "toggleActions": "play"
+      },
+      {
+        "end": 32298,
+        "node": "finale",
+        "once": false,
+        "pin": false,
+        "start": 31298,
+        "toggleActions": "play"
+      },
+      {
+        "end": 32982,
+        "node": "finale",
+        "once": false,
+        "pin": true,
+        "scrub": true,
+        "start": 31902,
+        "toggleActions": "play"
+      }
+    ],
+    "viewport": {
+      "client": 1265,
+      "dpr": 1,
+      "height": 720,
+      "width": 1280
+    },
+    "y": 32981.5
+  },
+  "triggerConfigurationsIdentical": true,
+  "fontFacesIdentical": true
+}

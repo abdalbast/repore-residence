@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-02",
+  "branding": "TAPS AGENCY",
+  "changed_asset": "assets/opening/branding/taps-agency.svg",
+  "fonts": [
+    {
+      "path": "assets/fonts/repose-display-italic.woff2",
+      "matches_archive": true,
+      "sha256": "5a51946dfffa82972bc98745359c46761515641fda557c25116459a9f83da4a7"
+    },
+    {
+      "path": "assets/fonts/repose-display.woff2",
+      "matches_archive": true,
+      "sha256": "5eb09b5ac0e28b67c2f041c8ba6d244604ca0c0980d65912ab2d47fed84ddc31"
+    },
+    {
+      "path": "assets/fonts/repose-sans.woff2",
+      "matches_archive": true,
+      "sha256": "849290ef12a2eeb9af5c11924120d11aa4ae8b435ed3347d7fc8bc240c293ca3"
+    }
+  ],
+  "unchanged_section_styles": [
+    {
+      "path": "assets/TerraceExperience-DPRIbK4J.css",
+      "matches_archive": true
+    },
+    {
+      "path": "assets/ReposeLifestyle-CyDo--Vq.css",
+      "matches_archive": true
+    }
+  ],
+  "computed_typography": [
+    {
+      "evidence": "typography-comparison.json",
+      "viewport": {
+        "clientWidth": 1363,
+        "dpr": 2,
+        "height": 1233,
+        "width": 1378
+      },
+      "matched_elements": 43,
+      "mismatches": 0
+    },
+    {
+      "evidence": "typography-mobile-comparison.json",
+      "viewport": {
+        "clientWidth": 375,
+        "dpr": 2,
+        "height": 844,
+        "width": 390
+      },
+      "matched_elements": 43,
+      "mismatches": 0
+    }
+  ],
+  "visual_checks": [
+    "Desktop opening: final wordmark visible, centered, original image dimensions and opacity",
+    "390px opening: text and updated logo visible with preserved scrollbar gutter"
+  ],
+  "motion_scope": "Only vector paths changed; original SVG viewBox, image boxes, parent styles and animation code remain unchanged. No new animation was introduced.",
+  "limits": "Computed typography matched for all 43 text elements in the mounted opening/explorer DOM at each width. Lazy-loaded later sections retain original archived styles; their full rendered typography was not remeasured in this pass. TAPS AGENCY is an adapted wordmark because the reference names a different company. This does not certify every pixel in every animation frame."
+}
