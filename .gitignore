@@ -38,3 +38,5 @@ verification/verified-scene-hover.json
 verification/verified-scene-keyboard-replay.json
 verification/verified-scene-pointer-replay.json
 verification/verified-wellness-idle.json
+.vercel
+.env*
