@@ -1,0 +1,15 @@
+# Vercel serves the site as plain static files, so only the runtime assets ship.
+# Everything below is for the local preview server, the verification tooling or
+# the source archive, and would only bloat the deployment.
+browser-variants/
+content-encodings/
+design-study-backup/
+study/
+tools/
+verification/
+serve.py
+README.md
+*.pdf
+*.zip
+.ruff_cache/
+__pycache__/
